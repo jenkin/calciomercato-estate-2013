@@ -1,18 +1,18 @@
-#circle circle {
+div.chord svg circle {
   fill: none;
   pointer-events: all;
 }
 
-.group path {
+div.chord svg g.group path {
   fill-opacity: .5;
 }
 
-path.chord {
+div.chord svg path.chord {
   stroke: #000;
   stroke-width: .25px;
 }
 
-#circle:hover path.fade {
+div.chord svg:hover path.fade {
   display: none;
 }
 

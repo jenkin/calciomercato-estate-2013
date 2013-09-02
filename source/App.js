@@ -6,14 +6,12 @@ enyo.kind({
 		{kind: "onyx.Toolbar", content: "Calcio Mercato Estate 2013 - Tutti i trasferimenti della Serie A"},
 		{kind: "enyo.Scroller", fit: true, components: [
 			{name: "main", classes: "nice-padding", allowHtml: true, components: [
-                {kind: "d3.Chord", fileNodes: "assets/squadreA.csv", fileMatrix: "assets/cessioni.json", label: "Cessioni", ontap: "tapped"}
-                //{kind: "d3.Chord", fileNodes: "assets/squadreA.csv", fileMatrix: "assets/acquisti.json", label: "Acquisti", ontap: "tapped"}
+                {tag: "h1", content: "Cessioni"},
+			    {name: "Chord", kind: "d3.Chord", label: "cessioni", nodes: squadreA, matrix: cessioni, details: trasferimenti}
+                //{tag: "h1", content: "Acquisti"},
+			    //{name: "Chord2", kind: "d3.Chord", label: "acquisti", nodes: squadreA, matrix: acquisti, details: trasferimenti}
             ]}
 		]},
-		{kind: "onyx.Toolbar", content: "By Alessio 'jenkin' Cimarelli (@jenkin27) with Enyo Framework and D3 javascript library"}
-	],
-    tapped: function(inS,inE) {
-        console.log(inS);
-        console.log(inE);
-    }
+		{kind: "onyx.Toolbar", content: "By Alessio 'jenkin' Cimarelli (@jenkin27) with Enyo Framework and D3 javascript library | Powered by Dataninja | Source: Lega Serie A"}
+	]
 });
