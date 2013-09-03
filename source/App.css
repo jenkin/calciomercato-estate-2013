@@ -5,3 +5,9 @@
 .nice-padding {
 	padding: 15px;
 }
+
+#app_Repeater span {
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid gray;
+}
