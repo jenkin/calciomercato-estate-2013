@@ -12,7 +12,7 @@ enyo.kind({
             { kind: "FittableColumns", fit: true, arrangerKind: "CollapsingArranger", classes: "panels-sample", narrowFit: false, components: [
                 {name: "panel1", classes: "nice-padding", components: [
                     {tag: "h1", content: "Cessioni"},
-	    		    {name: "Chord", kind: "d3.Chord", onNodeLabel: "cessioninodelabel", onSelectNode: "onselectnode", selectChordOn: "mouseover", onSelectChord: "onselectchord", nodes: squadreA, matrix: cessioni, details: trasferimenti}
+	    		    {name: "Chord", kind: "d3.Chord", onNodeLabel: "cessioninodelabel", onNodeMouseover: "onselectnode", onChordMouseover: "onselectchord", nodes: squadreA, matrix: cessioni, details: trasferimenti}
                 ]},
                 {name: "panel2", classes: "nice-padding", components: [
                     {components: [
