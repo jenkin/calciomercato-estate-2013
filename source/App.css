@@ -11,3 +11,23 @@
     margin: 10px;
     border: 1px solid gray;
 }
+
+.group textPath {
+    font-size: 10px;
+}
+
+.tab {
+    padding: 20px;
+    cursor: pointer;
+    border: 1px solid white;
+}
+
+.tab.selected {
+    background-color: black;
+    border-color: black;
+    color: white;
+}
+
+.tab:hover {
+    border-color: black;
+}

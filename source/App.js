@@ -4,15 +4,19 @@ enyo.kind({
 	fit: true,
     published: {
         data: "",
-        currentTeam: ""
+        currentTeam: "",
+        nodelabel: "cessioni"
     },
 	components:[
 		{kind: "onyx.Toolbar", content: "Calcio Mercato Estate 2013 - Tutti i trasferimenti della Serie A"},
 		{kind: "enyo.Scroller", fit: true, components: [
             { kind: "FittableColumns", fit: true, arrangerKind: "CollapsingArranger", classes: "panels-sample", narrowFit: false, components: [
                 {name: "panel1", classes: "nice-padding", components: [
-                    {tag: "h1", content: "Cessioni"},
-	    		    {name: "Chord", kind: "d3.Chord", onNodeLabel: "cessioninodelabel", onNodeMouseover: "onselectnode", onChordMouseover: "onselectchord", nodes: squadreA, matrix: cessioni, details: trasferimenti}
+                    {tag: "h1", components: [
+                        {name: "TabCessioni", tag: "span", classes: "tab selected", content: "Cessioni", ontap: "ontapcessioni"},
+                        {name: "TabAcquisti", tag: "span", classes: "tab", content: "Acquisti", ontap: "ontapacquisti"}
+                    ]},
+	    		    {name: "Chord", kind: "d3.Chord", onNodeLabel: "onnodelabel", onNodeMouseover: "onselectnode", onChordMouseover: "onselectchord", rotateGroups: 2, nodes: squadreA, matrix: cessioni, details: trasferimenti}
                 ]},
                 {name: "panel2", classes: "nice-padding", components: [
                     {components: [
@@ -36,14 +40,11 @@ enyo.kind({
 		]},
 		{kind: "onyx.Toolbar", content: "By Alessio 'jenkin' Cimarelli (@jenkin27) with Enyo Framework and D3 javascript library | Powered by Dataninja | Source: Lega Serie A"}
 	],
-    cessioninodelabel: function(d,i) {
-        return this.$.Chord.nodes[i].name + ": " + Math.round(d.value) + " cessioni";
-    },
-    acquistinodelabel: function(d,i) {
-        return this.$.Chord.nodes[i].name + ": " + Math.round(d.value) + " acquisti";
+    onnodelabel: function(d,i) {
+        return this.$.Chord.nodes[i].name + ": " + Math.round(d.value) + " " + this.nodelabel;
     },
     onselectnode: function(inSender,node) {
-        this.$.Chord.d3.chord.classed("fade", function(p) {
+        this.$.Chord.d3.chordPath.classed("fade", function(p) {
             return p.source.index != node.index && p.target.index != node.index;
         });
         var that = this.$.Chord;
@@ -78,6 +79,20 @@ enyo.kind({
             this.$.SecondaSquadra.setContent();
         }
         this.setData(a);
+    },
+    ontapacquisti: function(inSender,inEvent) {
+        this.$.TabCessioni.removeClass("selected");
+        this.$.TabAcquisti.addClass("selected");
+        this.$.Chord.setMatrix(acquisti);
+        this.nodelabel = "acquisti";
+        return true;
+    },
+    ontapcessioni: function(inSender,inEvent) {
+        this.$.TabAcquisti.removeClass("selected");
+        this.$.TabCessioni.addClass("selected");
+        this.$.Chord.setMatrix(cessioni);
+        this.nodelabel = "cessioni";
+        return true;
     },
     write: function(inSender,inEvent) {
         var item = inEvent.item,
