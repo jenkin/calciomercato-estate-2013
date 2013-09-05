@@ -3,39 +3,44 @@ enyo.kind({
 	kind: "FittableRows",
 	fit: true,
     published: {
-        data: "",
+        dataCessioni: "",
+        dataAcquisti: "",
         currentTeam: "",
         nodelabel: "cessioni"
     },
 	components:[
-		{kind: "onyx.Toolbar", content: "Calcio Mercato Estate 2013 - Tutti i trasferimenti della Serie A"},
+		{kind: "onyx.Toolbar", classes: "toolbar top", content: "Calcio Mercato Estate 2013 - Tutti i trasferimenti della Serie A"},
 		{kind: "enyo.Scroller", fit: true, components: [
-            { kind: "FittableColumns", fit: true, arrangerKind: "CollapsingArranger", classes: "panels-sample", narrowFit: false, components: [
-                {name: "panel1", classes: "nice-padding", components: [
+            { kind: "FittableColumns", fit: true, arrangerKind: "CollapsingArranger", classes: "panel container external", narrowFit: false, components: [
+                {name: "panel1", classes: "nice-padding panel internal left", components: [
                     {tag: "h1", components: [
                         {name: "TabCessioni", tag: "span", classes: "tab selected", content: "Cessioni", ontap: "ontapcessioni"},
                         {name: "TabAcquisti", tag: "span", classes: "tab", content: "Acquisti", ontap: "ontapacquisti"}
                     ]},
 	    		    {name: "Chord", kind: "d3.Chord", onNodeLabel: "onnodelabel", onNodeMouseover: "onselectnode", onChordMouseover: "onselectchord", rotateGroups: 2, nodes: squadreA, matrix: cessioni, details: trasferimenti}
                 ]},
-                {name: "panel2", classes: "nice-padding", components: [
-                    {components: [
-                        {name: "Squadra", tag: "h1"},
+                {name: "panel2", kind: "FittableRows", classes: "nice-padding panel internal right", components: [
+                    {classes: "prima squadra", components: [
+                        {name: "PrimaSquadra", tag: "h1"},
                         {name: "Riassunto", tag: "p"}
                     ]},
-                    {name: "SecondaSquadra", tag: "h1"},
-                    {name: "Repeater", kind: "enyo.Repeater", count: 0, components: [
-                        {name: "text", tag: "p", components: [
-                            {tag: "span", name: "date"},
-                            {tag: "span", name: "player"},
-                            {tag: "span", name: "from"},
-                            {tag: "span", name: "to"},
-                            {tag: "span", name: "type"}
-                        ]}
-                    ], onSetupItem: "write"}
+                    {name: "Trasferimenti", classes: "trasferimenti", kind: "FittableColumns", components: [
+                        {kind: "enyo.Scroller", components: [
+                            {name: "RepeaterCessioni", classes: "cessioni", kind: "enyo.Repeater", count: 0, components: [
+                                {tag: "p", name: "player1"}
+                            ], onSetupItem: "writeCessioni"}
+                        ]},
+                        {classes: "divisore"},
+                        {kind: "enyo.Scroller", components: [
+                            {name: "RepeaterAcquisti", classes: "acquisti", kind: "enyo.Repeater", count: 0, components: [
+                                {tag: "p", name: "player2"}
+                            ], onSetupItem: "writeAcquisti"}
+                        ]},
+                    ]},
+                    {classes: "seconda squadra", components: [
+                        {name: "SecondaSquadra", tag: "h1"}
+                    ]}
                 ]}
-                //{tag: "h1", content: "Acquisti"},
-			    //{name: "Chord2", kind: "d3.Chord", onNodeLabel: "acquistinodelabel", onSelectChord: "onselectchord", nodes: squadreA, matrix: acquisti, details: trasferimenti}
             ]}
 		]},
 		{kind: "onyx.Toolbar", content: "By Alessio 'jenkin' Cimarelli (@jenkin27) with Enyo Framework and D3 javascript library | Powered by Dataninja | Source: Lega Serie A"}
@@ -55,30 +60,35 @@ enyo.kind({
                     return obj["Squadra di destinazione"] === that.getNodes()[node.index].name;
         });
         this.$.SecondaSquadra.setContent();
-        this.$.Repeater.setCount(0);
+        this.$.RepeaterCessioni.setCount(0);
+        this.$.RepeaterAcquisti.setCount(0);
         this.setCurrentTeam(that.getNodes()[node.index].name);
-        this.$.Squadra.setContent(that.getNodes()[node.index].name);
+        this.$.PrimaSquadra.setContent(that.getNodes()[node.index].name);
         this.$.Riassunto.setContent("Ha affettuato " + cessioni.length + " cessioni e " + acquisti.length + " acquisti.");
     },
     onselectchord: function(inSender,chord) {
         var that = this.$.Chord;
-        var a = that.getDetails().filter(function(obj) { 
+        var listaAcquisti = that.getDetails().filter(function(obj) { 
                     return (
                             obj["Squadra di provenienza"] === that.nodes[chord.data.source.index].name 
                             && obj["Squadra di destinazione"] === that.nodes[chord.data.target.index].name
-                        ) || (
+                        );
+        });
+        var listaCessioni = that.getDetails().filter(function(obj) { 
+                    return (
                             obj["Squadra di provenienza"] === that.nodes[chord.data.target.index].name 
                             && obj["Squadra di destinazione"] === that.nodes[chord.data.source.index].name
                         );
         });
-        if (a.length !== 0) {
-            this.$.SecondaSquadra.setContent("Affari con " + 
+        if (listaCessioni.length !== 0 || listaAcquisti.length !== 0) {
+            this.$.SecondaSquadra.setContent( 
                     (that.nodes[chord.data.source.index].name === this.getCurrentTeam() ? that.nodes[chord.data.target.index].name : that.nodes[chord.data.source.index].name)
                 );
         } else {
             this.$.SecondaSquadra.setContent();
         }
-        this.setData(a);
+        this.setDataCessioni(listaCessioni);
+        this.setDataAcquisti(listaAcquisti);
     },
     ontapacquisti: function(inSender,inEvent) {
         this.$.TabCessioni.removeClass("selected");
@@ -94,18 +104,32 @@ enyo.kind({
         this.nodelabel = "cessioni";
         return true;
     },
-    write: function(inSender,inEvent) {
+    writeCessioni: function(inSender,inEvent) {
         var item = inEvent.item,
-            data = this.getData()[inEvent.index];
-        item.$.date.setContent(data["Data trasferimento"]);
-        item.$.player.setContent(data["Nome giocatore"]);
-        item.$.from.setContent(data["Squadra di provenienza"]);
-        item.$.to.setContent(data["Squadra di destinazione"]);
-        item.$.type.setContent(data["Tipo di trasferimento"]);
-        return(true);
+            data = this.getDataCessioni()[inEvent.index];
+        //item.$.date.setContent(data["Data trasferimento"]);
+        item.$.player1.setContent(data["Nome giocatore"]);
+        //item.$.from.setContent(data["Squadra di provenienza"]);
+        //item.$.to.setContent(data["Squadra di destinazione"]);
+        //item.$.type.setContent(data["Tipo di trasferimento"]);
+        return true;
     },
-    dataChanged: function() {
-        this.$.Repeater.setCount(0);
-        this.$.Repeater.setCount(this.getData().length);
+    writeAcquisti: function(inSender,inEvent) {
+        var item = inEvent.item,
+            data = this.getDataAcquisti()[inEvent.index];
+        //item.$.date.setContent(data["Data trasferimento"]);
+        item.$.player2.setContent(data["Nome giocatore"]);
+        //item.$.from.setContent(data["Squadra di provenienza"]);
+        //item.$.to.setContent(data["Squadra di destinazione"]);
+        //item.$.type.setContent(data["Tipo di trasferimento"]);
+        return true;
+    },
+    dataAcquistiChanged: function() {
+        this.$.RepeaterAcquisti.setCount(0);
+        this.$.RepeaterAcquisti.setCount(this.getDataAcquisti().length);
+    },
+    dataCessioniChanged: function() {
+        this.$.RepeaterCessioni.setCount(0);
+        this.$.RepeaterCessioni.setCount(this.getDataCessioni().length);
     }
 });

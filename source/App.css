@@ -12,7 +12,7 @@
     border: 1px solid gray;
 }
 
-.group textPath {
+.group text {
     font-size: 10px;
 }
 
@@ -30,4 +30,26 @@
 
 .tab:hover {
     border-color: black;
+}
+
+.trasferimenti > div {
+    margin: 10px;
+}
+
+.trasferimenti p {
+    padding: 5px;
+    margin: 5px;
+}
+
+.cessioni {
+    background-color: red;
+}
+
+.acquisti {
+    background-color: green;
+}
+
+.divisore {
+    width: 5px;
+    background-color: black;
 }
