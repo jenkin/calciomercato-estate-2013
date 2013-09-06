@@ -5,7 +5,7 @@ enyo.depends(
     //"$lib/modernizr",
     "$lib/d3",
 	"App.css",
-    "squadreA.js",
+    "squadre.js",
     "trasferimenti.js",
     "cessioni.js",
     "acquisti.js",

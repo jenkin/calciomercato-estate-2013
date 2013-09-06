@@ -6,7 +6,7 @@ enyo.kind({
         dataCessioni: "",
         dataAcquisti: "",
         currentTeam: "",
-        nodelabel: "cessioni"
+        nodelabel: "acquisti"
     },
 	components:[
 		{kind: "onyx.Toolbar", classes: "toolbar top", content: "Calcio Mercato Estate 2013 - Tutti i trasferimenti della Serie A"},
@@ -14,10 +14,10 @@ enyo.kind({
             { kind: "FittableColumns", fit: true, arrangerKind: "CollapsingArranger", classes: "panel container external", narrowFit: false, components: [
                 {name: "panel1", classes: "nice-padding panel internal left", components: [
                     {tag: "h1", components: [
-                        {name: "TabCessioni", tag: "span", classes: "tab selected", content: "Cessioni", ontap: "ontapcessioni"},
-                        {name: "TabAcquisti", tag: "span", classes: "tab", content: "Acquisti", ontap: "ontapacquisti"}
+                        {name: "TabAcquisti", tag: "span", classes: "tab selected", content: "Acquisti", ontap: "ontapacquisti"},
+                        {name: "TabCessioni", tag: "span", classes: "tab", content: "Cessioni", ontap: "ontapcessioni"}
                     ]},
-	    		    {name: "Chord", kind: "d3.Chord", onNodeLabel: "onnodelabel", onNodeMouseover: "onselectnode", onChordMouseover: "onselectchord", rotateGroups: 2, nodes: squadreA, matrix: cessioni, details: trasferimenti}
+	    		    {name: "Chord", kind: "d3.Chord", onNodeLabel: "onnodelabel", onNodeText: "onnodetext", onChordLabel: "onchordlabel", onNodeMouseover: "onselectnode", onChordMouseover: "onselectchord", rotateGroups: 2, nodes: squadreA, matrix: cessioni, details: trasferimenti}
                 ]},
                 {name: "panel2", kind: "FittableRows", classes: "nice-padding panel internal right", components: [
                     {classes: "prima squadra", components: [
@@ -46,82 +46,98 @@ enyo.kind({
 		{kind: "onyx.Toolbar", content: "By Alessio 'jenkin' Cimarelli (@jenkin27) with Enyo Framework and D3 javascript library | Powered by Dataninja | Source: Lega Serie A"}
 	],
     onnodelabel: function(d,i) {
-        return this.$.Chord.nodes[i].name + ": " + Math.round(d.value) + " " + this.nodelabel;
+        return this.$.Chord.nodes[i]["Nome completo"] + ": " + Math.round(d.value) + " " + this.nodelabel;
+    },
+    onnodetext: function(d,i) {
+        return this.$.Chord.nodes[i]["Nome"];
+    },
+    onchordlabel: function(d,i) {
+        return this.$.Chord.nodes[d.source.index]["Nome"]
+                    + " → " + this.$.Chord.nodes[d.target.index]["Nome"]
+                    + ": " + d[(this.nodelabel === "acquisti" ? "source" : "target")].value
+                    + "\n" + this.$.Chord.nodes[d.target.index]["Nome"]
+                    + " → " + this.$.Chord.nodes[d.source.index]["Nome"]
+                    + ": " + d[(this.nodelabel === "acquisti" ? "target" : "source")].value;
     },
     onselectnode: function(inSender,node) {
         this.$.Chord.d3.chordPath.classed("fade", function(p) {
             return p.source.index != node.index && p.target.index != node.index;
         });
         var that = this.$.Chord;
-        var cessioni = that.getDetails().filter(function(obj) {
-                    return obj["Squadra di provenienza"] === that.getNodes()[node.index].name;
-        });
         var acquisti = that.getDetails().filter(function(obj) {
-                    return obj["Squadra di destinazione"] === that.getNodes()[node.index].name;
+                    return obj["Squadra di provenienza"] === that.getNodes()[node.index]["Nome completo"];
+        });
+        var cessioni = that.getDetails().filter(function(obj) {
+                    return obj["Squadra di destinazione"] === that.getNodes()[node.index]["Nome completo"];
         });
         this.$.SecondaSquadra.setContent();
         this.$.RepeaterCessioni.setCount(0);
         this.$.RepeaterAcquisti.setCount(0);
-        this.setCurrentTeam(that.getNodes()[node.index].name);
-        this.$.PrimaSquadra.setContent(that.getNodes()[node.index].name);
-        this.$.Riassunto.setContent("Ha affettuato " + cessioni.length + " cessioni e " + acquisti.length + " acquisti.");
+        this.setCurrentTeam(that.getNodes()[node.index]["Nome completo"]);
+        this.$.PrimaSquadra.setContent(that.getNodes()[node.index]["Nome completo"]);
+        this.$.Riassunto.setContent("Ha effettuato " + cessioni.length + " cessioni e " + acquisti.length + " acquisti.");
     },
     onselectchord: function(inSender,chord) {
         var that = this.$.Chord;
-        var listaAcquisti = that.getDetails().filter(function(obj) { 
+        var currentTeam = this.getCurrentTeam();
+        var listaCessioni = [], listaAcquisti = [];
+        var listaTrasferimenti = that.getDetails().filter(function(obj) { 
                     return (
-                            obj["Squadra di provenienza"] === that.nodes[chord.data.source.index].name 
-                            && obj["Squadra di destinazione"] === that.nodes[chord.data.target.index].name
+                            obj["Squadra di provenienza"] === that.nodes[chord.data.source.index]["Nome completo"] 
+                            && obj["Squadra di destinazione"] === that.nodes[chord.data.target.index]["Nome completo"]
+                        ) || (
+                            obj["Squadra di provenienza"] === that.nodes[chord.data.target.index]["Nome completo"] 
+                            && obj["Squadra di destinazione"] === that.nodes[chord.data.source.index]["Nome completo"]
                         );
         });
-        var listaCessioni = that.getDetails().filter(function(obj) { 
-                    return (
-                            obj["Squadra di provenienza"] === that.nodes[chord.data.target.index].name 
-                            && obj["Squadra di destinazione"] === that.nodes[chord.data.source.index].name
-                        );
-        });
-        if (listaCessioni.length !== 0 || listaAcquisti.length !== 0) {
+        if (listaTrasferimenti.length !== 0) {
             this.$.SecondaSquadra.setContent( 
-                    (that.nodes[chord.data.source.index].name === this.getCurrentTeam() ? that.nodes[chord.data.target.index].name : that.nodes[chord.data.source.index].name)
+                    (that.nodes[chord.data.source.index]["Nome completo"] === currentTeam ? that.nodes[chord.data.target.index]["Nome completo"] : that.nodes[chord.data.source.index]["Nome completo"])
                 );
+            listaCessioni = listaTrasferimenti.filter(function(obj) {
+                return obj["Squadra di provenienza"] === currentTeam;
+            });
+            listaAcquisti = listaTrasferimenti.filter(function(obj) {
+                return obj["Squadra di destinazione"] === currentTeam;
+            });
         } else {
             this.$.SecondaSquadra.setContent();
         }
-        this.setDataCessioni(listaCessioni);
         this.setDataAcquisti(listaAcquisti);
-    },
-    ontapacquisti: function(inSender,inEvent) {
-        this.$.TabCessioni.removeClass("selected");
-        this.$.TabAcquisti.addClass("selected");
-        this.$.Chord.setMatrix(acquisti);
-        this.nodelabel = "acquisti";
-        return true;
+        this.setDataCessioni(listaCessioni);
     },
     ontapcessioni: function(inSender,inEvent) {
         this.$.TabAcquisti.removeClass("selected");
         this.$.TabCessioni.addClass("selected");
-        this.$.Chord.setMatrix(cessioni);
         this.nodelabel = "cessioni";
+        this.$.Chord.setMatrix(acquisti);
+        return true;
+    },
+    ontapacquisti: function(inSender,inEvent) {
+        this.$.TabCessioni.removeClass("selected");
+        this.$.TabAcquisti.addClass("selected");
+        this.nodelabel = "acquisti";
+        this.$.Chord.setMatrix(cessioni);
         return true;
     },
     writeCessioni: function(inSender,inEvent) {
         var item = inEvent.item,
             data = this.getDataCessioni()[inEvent.index];
-        //item.$.date.setContent(data["Data trasferimento"]);
         item.$.player1.setContent(data["Nome giocatore"]);
         //item.$.from.setContent(data["Squadra di provenienza"]);
         //item.$.to.setContent(data["Squadra di destinazione"]);
-        //item.$.type.setContent(data["Tipo di trasferimento"]);
+        //item.$.type.setContent(data["Tipologia"]);
+        //item.$.amount.setContent(data["Spesa"]);
         return true;
     },
     writeAcquisti: function(inSender,inEvent) {
         var item = inEvent.item,
             data = this.getDataAcquisti()[inEvent.index];
-        //item.$.date.setContent(data["Data trasferimento"]);
         item.$.player2.setContent(data["Nome giocatore"]);
         //item.$.from.setContent(data["Squadra di provenienza"]);
         //item.$.to.setContent(data["Squadra di destinazione"]);
-        //item.$.type.setContent(data["Tipo di trasferimento"]);
+        //item.$.type.setContent(data["Tipologia"]);
+        //item.$.amount.setContent(data["Spesa"]);
         return true;
     },
     dataAcquistiChanged: function() {
