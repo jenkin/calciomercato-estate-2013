@@ -2,8 +2,15 @@
 	Put anything you reference with "url()" in ../assets/
 	This way, you can minify your application, and just remove the "source" folder for production
 */
-.nice-padding {
-	padding: 15px;
+
+body {
+    margin: auto;
+    width: 600px;
+}
+
+.vertical-padding {
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
 
 #app_Repeater span {
@@ -16,10 +23,16 @@
     font-size: 10px;
 }
 
+.chord {
+    cursor: pointer;
+}
+
 .tab {
-    padding: 20px;
+    padding: 15px;
     cursor: pointer;
     border: 1px solid white;
+    width: 50%;
+    text-align: center;
 }
 
 .tab.selected {
@@ -32,8 +45,57 @@
     border-color: black;
 }
 
+.squadra > h1 {
+    padding: 15px;
+    padding-bottom: 5px;
+    padding-top: 0;
+    border: 1px solid white;
+    margin: 0;
+}
+
+.squadra > p {
+    padding-left: 15px;
+    margin-top: 0;
+    border: 1px solid white;
+}
+
+.squadra.prima {
+    text-align: left;
+    /*padding-left: 75px;*/
+}
+
+.immagine.prima {
+    width: 75px;
+    height: 75px;
+    background-image: url('../assets/spriteA.png');
+    /*background-attachment: fixed;*/
+    background-position: left 9999px;
+    background-repeat: no-repeat;
+    background-size: 75px;
+}
+
+.squadra.seconda {
+    text-align: right;
+    /*padding-right: 75px;*/
+}
+
+.immagine.seconda {
+    width: 75px;
+    height: 75px;
+    background-image: url('../assets/spriteA.png');
+    /*background-attachment: fixed;*/
+    background-position: right 9999px;
+    background-repeat: no-repeat;
+    background-size: 75px;
+}
+
+.trasferimenti {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
 .trasferimenti > div {
-    margin: 10px;
+    width: 50%;
 }
 
 .trasferimenti p {
@@ -41,15 +103,38 @@
     margin: 5px;
 }
 
+.trasferimenti .tipologia {
+    font-size: 75%;
+    margin-left: 1em;
+}
+
 .cessioni {
-    background-color: red;
+    /*background-color: red;*/
+    text-align: left;
+    padding-left: 15px;
+    background-image: url('../assets/cessioni_down.png');
+    /*background-attachment: fixed;*/
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: 25px;
+}
+
+.cessioni > p:first-child {
+    border-top: 1px solid red;
 }
 
 .acquisti {
-    background-color: green;
+    /*background-color: green;*/
+    text-align: right;
+    padding-right: 15px;
+    background-image: url('../assets/acquisti_up.png');
+    /*background-attachment: fixed;*/
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: 25px;
 }
 
-.divisore {
-    width: 5px;
-    background-color: black;
+.acquisti > p:last-child {
+    border-bottom: 1px solid green;
 }
+
