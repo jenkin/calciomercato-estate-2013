@@ -14,10 +14,10 @@ enyo.kind({
 		{kind: "enyo.Scroller", fit: true, horizontal: "hidden", components: [
             { kind: "FittableRows", arrangerKind: "CollapsingArranger", classes: "vertical-padding panel container external", narrowFit: false, components: [
                 {kind: "FittableColumns", components: [
-                    {name: "TabAcquisti", tag: "h1", classes: "tab selected", content: "Acquisti", ontap: "ontapacquisti"},
-                    {name: "TabCessioni", tag: "h1", classes: "tab", content: "Cessioni", ontap: "ontapcessioni"}
+                    {name: "TabAcquisti", tag: "h2", classes: "tab selected", content: "Acquisti", ontap: "ontapacquisti"},
+                    {name: "TabCessioni", tag: "h2", classes: "tab", content: "Cessioni", ontap: "ontapcessioni"}
                 ]},
-	    		{name: "Chord", kind: "d3.Chord", width: 585, height: 585, onNodeLabel: "onnodelabel", onNodeText: "onnodetext", onChordLabel: "onchordlabel", onNodeMouseover: "onfadenode", onNodeClick: "onselectnode", onChordClick: "onselectchord", rotateGroups: 2, nodes: squadreA, matrix: cessioni, details: trasferimenti, classes: "vertical-padding"},
+	    		{name: "Chord", kind: "d3.Chord", width: 585, height: 585, onNodeLabel: "onnodelabel", onNodeText: "onnodetext", onChordLabel: "onchordlabel", onNodeMouseover: "onselectnode", onChordClick: "onselectchord", rotateGroups: 2, nodes: squadreA, matrix: cessioni, details: trasferimenti, classes: "vertical-padding"},
                 {kind: "FittableColumns", components: [
                     {name: "PrimaImmagine", classes: "prima immagine"},
                     {classes: "prima squadra", fit: true, components: [
@@ -47,7 +47,14 @@ enyo.kind({
                 ]}
             ]}
 		]},
-		{kind: "onyx.Toolbar", content: "By Alessio 'jenkin' Cimarelli (@jenkin27) with Enyo Framework and D3 javascript library | Powered by Dataninja | Source: Lega Serie A"}
+		{kind: "onyx.Toolbar", classes: "toolbar bottom", allowHtml: true, content: 
+            "By Alessio 'jenkin' Cimarelli "
+            + "(<a href=\"https://twitter.com/jenkin27\" target=\"_blank\">@jenkin27</a>) "
+            + "with Enyo Framework and D3 javascript library<br>"
+            + "Powered by <a href=\"http://www.dataninja.it/\" target=\"_blank\">Dataninja</a> | "
+            + "Source: <a href=\"http://www.legaseriea.it/\" target=\"_blank\">Lega Serie A</a>, "
+            + "<a href=\"http://www.transfermarkt.it/it/serie-a/sommertransfers/wettbewerb_IT1.html\" target=\"_blank\">Transfermarkt.it</a>"
+        }
 	],
     onnodelabel: function(d,i) {
         return this.$.Chord.nodes[i]["Nome completo"] + ": " + Math.round(d.value) + " " + this.nodelabel;
@@ -69,6 +76,7 @@ enyo.kind({
         });
     },
     onselectnode: function(inSender,node) {
+        this.onfadenode(inSender,node);
         var that = this.$.Chord;
         var acquisti = that.getDetails().filter(function(obj) {
                     return obj["Squadra di provenienza"] === that.getNodes()[node.index]["Nome completo"];
@@ -90,6 +98,12 @@ enyo.kind({
             this.$.PrimaImmagine.setStyle("background-position: right 9999px;");
             this.$.Riassunto.setContent();
         }
+    },
+    onnodecolor: function(d,i) {
+        return this.$.Chord.nodes[i]["Colore"];
+    },
+    onchordcolor: function(d,i) {
+        return this.$.Chord.nodes[d.source.index]["Colore"];
     },
     onselectchord: function(inSender,chord) {
         var that = this.$.Chord;

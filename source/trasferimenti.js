@@ -1,5 +1,6 @@
 var trasferimenti = [
     {
+        "Id": "1",
         "Squadra di destinazione": "AC Ajaccio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessandro Crescenzi *",
@@ -7,10 +8,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "2",
         "Squadra di destinazione": "AC Ajaccio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gadji Tallo *",
@@ -18,10 +21,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "3",
         "Squadra di destinazione": "AC Ajaccio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mbaye Diagne *",
@@ -29,10 +34,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "4",
         "Squadra di destinazione": "AC Bellaria Igea Marina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessandro Ferretti *",
@@ -40,10 +47,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "5",
         "Squadra di destinazione": "AC Bellaria Igea Marina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Daniele Grandi *",
@@ -51,10 +60,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "6",
         "Squadra di destinazione": "AC Bellaria Igea Marina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Kadir Caidi *",
@@ -62,10 +73,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "7",
         "Squadra di destinazione": "AC Bellaria Igea Marina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matteo Boccaccini *",
@@ -73,10 +86,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "8",
         "Squadra di destinazione": "AC Bellaria Igea Marina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Oliveira Jefferson *",
@@ -84,10 +99,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "9",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Alberto Almici *",
@@ -95,10 +112,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "10",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Andrea Ingegneri",
@@ -106,10 +125,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "200.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "11",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Daniele Capelli *",
@@ -117,10 +138,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "12",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Emmanuel Cascione *",
@@ -128,10 +151,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "13",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Enis Nadarevic *",
@@ -139,10 +164,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "14",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luigi Palumbo",
@@ -150,10 +177,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "15",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Marco D'Alessandro *",
@@ -161,21 +190,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "16",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Marco Parolo *",
+        "Nome giocatore originale": "Marco Parolo *#",
         "Nome giocatore": "Marco Parolo",
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "17",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Michele Camporese *",
@@ -183,10 +216,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "18",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Nicola Capellini",
@@ -194,10 +229,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "19",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Nicola Del Pivo",
@@ -205,10 +242,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "20",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Pablo Granoche *",
@@ -216,21 +255,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "21",
         "Squadra di destinazione": "AC Cesena",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Yohan Benalouane *",
+        "Nome giocatore originale": "Yohan Benalouane *#",
         "Nome giocatore": "Yohan Benalouane",
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "22",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Adrián Calello",
@@ -238,10 +281,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Chievo Verona",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "23",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alessandro Bernardini *",
@@ -249,10 +294,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-AC Chievo Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "24",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alessio Sestu",
@@ -260,32 +307,38 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Chievo Verona",
+        "Serie trasferimento": "B-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "25",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Amadou Samb *",
+        "Nome giocatore originale": "Amadou Samb *#",
         "Nome giocatore": "Amadou Samb",
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "26",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Amedeo Benedetti *",
+        "Nome giocatore originale": "Amedeo Benedetti *#",
         "Nome giocatore": "Amedeo Benedetti",
         "Squadra di provenienza": "AC Pisa 1909",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "27",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Seculin",
@@ -293,21 +346,25 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-AC Chievo Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "28",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Antimo Iunco *",
+        "Nome giocatore originale": "Antimo Iunco *#",
         "Nome giocatore": "Antimo Iunco",
         "Squadra di provenienza": "AS Bari",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Chievo Verona",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "29",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Claiton",
@@ -315,21 +372,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Bari",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Chievo Verona",
+        "Serie trasferimento": "B-A",
         "Spesa": "100.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "30",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Davide Tonani *",
+        "Nome giocatore originale": "Davide Tonani *#",
         "Nome giocatore": "Davide Tonani",
         "Squadra di provenienza": "Alma Juventus Fano",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "31",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Dejan Lazarevic",
@@ -337,21 +398,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-AC Chievo Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "32",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Diego Farias *",
+        "Nome giocatore originale": "Diego Farias *#",
         "Nome giocatore": "Diego Farias",
         "Squadra di provenienza": "Calcio Padova",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Chievo Verona",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "33",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Domenico Franco",
@@ -359,10 +424,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Paganese Calcio 1926",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "34",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Filippo Fondi",
@@ -370,21 +437,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Pisa 1909",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "35",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Francesco Bonato *",
+        "Nome giocatore originale": "Francesco Bonato *#",
         "Nome giocatore": "Francesco Bonato",
         "Squadra di provenienza": "FBC Unione Venezia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "36",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ivan Radovanovic",
@@ -392,10 +463,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-AC Chievo Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "800.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "37",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ivan Radovanovic",
@@ -403,10 +476,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-AC Chievo Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "800.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "38",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Jacopo Coletta",
@@ -414,21 +489,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "39",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Jakub Vojtus *",
+        "Nome giocatore originale": "Jakub Vojtus *#",
         "Nome giocatore": "Jakub Vojtus",
         "Squadra di provenienza": "NK Zagabria",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "40",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Martinelli",
@@ -436,21 +515,25 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Juve Stabia",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Chievo Verona",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "41",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luka Tomas *",
+        "Nome giocatore originale": "Luka Tomas *#",
         "Nome giocatore": "Luka Tomas",
         "Squadra di provenienza": "FC Esperia Viareggio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "42",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Manuel Pamic *",
@@ -458,10 +541,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Sparta Praga",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "43",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marcello Falzerano",
@@ -469,10 +554,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Grosseto",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "44",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marcelo Estigarribia *",
@@ -480,10 +567,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Club Deportivo Maldonado",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "45",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marco Pavanello",
@@ -491,43 +580,51 @@ var trasferimenti = [
         "Squadra di provenienza": "US Alessandria 1912",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "46",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marcos De Paula *",
+        "Nome giocatore originale": "Marcos De Paula *#",
         "Nome giocatore": "Marcos De Paula",
         "Squadra di provenienza": "FC Pro Vercelli 1892",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "47",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Silvestri *",
+        "Nome giocatore originale": "Marco Silvestri *#",
         "Nome giocatore": "Marco Silvestri",
         "Squadra di provenienza": "Calcio Padova",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Chievo Verona",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "48",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Massimo Zamparo *",
+        "Nome giocatore originale": "Massimo Zamparo *#",
         "Nome giocatore": "Massimo Zamparo",
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "49",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Matteo Ardemagni *",
@@ -535,32 +632,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-AC Chievo Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "500.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "50",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Oliboni *",
+        "Nome giocatore originale": "Matteo Oliboni *#",
         "Nome giocatore": "Matteo Oliboni",
         "Squadra di provenienza": "ASD Santarcangelo Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "51",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Solini *",
+        "Nome giocatore originale": "Matteo Solini *#",
         "Nome giocatore": "Matteo Solini",
         "Squadra di provenienza": "A.S.D. Castiglione",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "52",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Maxwell Acosty *",
@@ -568,10 +671,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-AC Chievo Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "53",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Michel Cruciani",
@@ -579,32 +684,38 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Matera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "54",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nestor Djengoue *",
+        "Nome giocatore originale": "Nestor Djengoue *#",
         "Nome giocatore": "Nestor Djengoue",
         "Squadra di provenienza": "NK Zagabria",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "55",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nicola Rigoni *",
+        "Nome giocatore originale": "Nicola Rigoni *#",
         "Nome giocatore": "Nicola Rigoni",
         "Squadra di provenienza": "Vicenza Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "56",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Nicolò Brighenti",
@@ -612,10 +723,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Vicenza Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "57",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Pablo Granoche",
@@ -623,32 +736,38 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Cesena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Chievo Verona",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "58",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Radoslav Kirilov *",
+        "Nome giocatore originale": "Radoslav Kirilov *#",
         "Nome giocatore": "Radoslav Kirilov",
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "59",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Riccardo Chiarello *",
+        "Nome giocatore originale": "Riccardo Chiarello *#",
         "Nome giocatore": "Riccardo Chiarello",
         "Squadra di provenienza": "ACD Trissino Valdagno",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "60",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Riccardo Improta *",
@@ -656,54 +775,64 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-AC Chievo Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "61",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Roberto Inglese *",
+        "Nome giocatore originale": "Roberto Inglese *#",
         "Nome giocatore": "Roberto Inglese",
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "62",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Salvatore Gallo *",
+        "Nome giocatore originale": "Salvatore Gallo *#",
         "Nome giocatore": "Salvatore Gallo",
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "63",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Santiago Morero *",
+        "Nome giocatore originale": "Santiago Morero *#",
         "Nome giocatore": "Santiago Morero",
         "Squadra di provenienza": "AC Cesena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Chievo Verona",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "64",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Sergio Viotti *",
+        "Nome giocatore originale": "Sergio Viotti *#",
         "Nome giocatore": "Sergio Viotti",
         "Squadra di provenienza": "US Cremonese",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "65",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Simone Aldrovandi",
@@ -711,21 +840,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Chievo Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "66",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Stefano Sorrentino *",
+        "Nome giocatore originale": "Stefano Sorrentino *#",
         "Nome giocatore": "Stefano Sorrentino",
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Chievo Verona",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "67",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Tomasz Kupisz",
@@ -733,10 +866,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Jagiellonia Bialystok",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "300.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "68",
         "Squadra di destinazione": "AC Chievo Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Yohan Tavares",
@@ -744,10 +879,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Standard Liegi",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Chievo Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "69",
         "Squadra di destinazione": "ACD Trissino Valdagno",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Riccardo Chiarello",
@@ -755,10 +892,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "70",
         "Squadra di destinazione": "AC FeralpiSalò",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Luca Veratti *",
@@ -766,10 +905,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "71",
         "Squadra di destinazione": "AC FeralpiSalò",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Riccardo Tantardini",
@@ -777,10 +918,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "72",
         "Squadra di destinazione": "AC FeralpiSalò",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Tommaso Ceccarelli",
@@ -788,10 +931,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "73",
         "Squadra di destinazione": "AC FeralpiSalò",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Vittorio Fabris",
@@ -799,32 +944,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "74",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Amidu Salifu *",
+        "Nome giocatore originale": "Amidu Salifu *#",
         "Nome giocatore": "Amidu Salifu",
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-ACF Fiorentina",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "75",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Seculin *",
+        "Nome giocatore originale": "Andrea Seculin *#",
         "Nome giocatore": "Andrea Seculin",
         "Squadra di provenienza": "SS Juve Stabia",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-ACF Fiorentina",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "76",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ante Rebic",
@@ -832,54 +983,64 @@ var trasferimenti = [
         "Squadra di provenienza": "RNK Spalato",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-ACF Fiorentina",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "4.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "77",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Cristiano Piccini *",
+        "Nome giocatore originale": "Cristiano Piccini *#",
         "Nome giocatore": "Cristiano Piccini",
         "Squadra di provenienza": "Spezia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-ACF Fiorentina",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "78",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Daniel Kofi Agyei *",
+        "Nome giocatore originale": "Daniel Kofi Agyei *#",
         "Nome giocatore": "Daniel Kofi Agyei",
         "Squadra di provenienza": "SS Juve Stabia",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-ACF Fiorentina",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "79",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Federico Carraro *",
+        "Nome giocatore originale": "Federico Carraro *#",
         "Nome giocatore": "Federico Carraro",
         "Squadra di provenienza": "US Gavorrano",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-ACF Fiorentina",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "80",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Felipe *",
+        "Nome giocatore originale": "Felipe *#",
         "Nome giocatore": "Felipe",
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-ACF Fiorentina",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "81",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gustavo Munúa",
@@ -887,21 +1048,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Levante UD",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-ACF Fiorentina",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "82",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Haris Seferovic *",
+        "Nome giocatore originale": "Haris Seferovic *#",
         "Nome giocatore": "Haris Seferovic",
         "Squadra di provenienza": "Novara Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-ACF Fiorentina",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "83",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Joaquín",
@@ -909,10 +1074,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Málaga CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-ACF Fiorentina",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "1.800.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "84",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Josip Ilicic",
@@ -920,10 +1087,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-ACF Fiorentina",
+        "Serie trasferimento": "B-A",
         "Spesa": "9.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "85",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Juan Cuadrado",
@@ -931,43 +1100,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-ACF Fiorentina",
+        "Serie trasferimento": "A-A",
         "Spesa": "5.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "86",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Juan Vargas *",
+        "Nome giocatore originale": "Juan Vargas *#",
         "Nome giocatore": "Juan Vargas",
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-ACF Fiorentina",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "87",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Khouma Babacar *",
+        "Nome giocatore originale": "Khouma Babacar *#",
         "Nome giocatore": "Khouma Babacar",
         "Squadra di provenienza": "Calcio Padova",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-ACF Fiorentina",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "88",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luca Bittante *",
+        "Nome giocatore originale": "Luca Bittante *#",
         "Nome giocatore": "Luca Bittante",
         "Squadra di provenienza": "AS Avellino",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-ACF Fiorentina",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "89",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Lezzerini",
@@ -975,10 +1152,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Fiorentina Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-ACF Fiorentina",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "90",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marcos Alonso",
@@ -986,10 +1165,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bolton Wanderers",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-ACF Fiorentina",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "91",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mario Gómez",
@@ -997,10 +1178,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Bayern Monaco",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-ACF Fiorentina",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "15.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "92",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marko Bakic",
@@ -1008,10 +1191,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-ACF Fiorentina",
+        "Serie trasferimento": "A-A",
         "Spesa": "2.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "93",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Massimo Ambrosini",
@@ -1019,32 +1204,38 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-ACF Fiorentina",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "94",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mattia Cassani *",
+        "Nome giocatore originale": "Mattia Cassani *#",
         "Nome giocatore": "Mattia Cassani",
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-ACF Fiorentina",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "95",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Maxwell Acosty *",
+        "Nome giocatore originale": "Maxwell Acosty *#",
         "Nome giocatore": "Maxwell Acosty",
         "Squadra di provenienza": "SS Juve Stabia",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-ACF Fiorentina",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "96",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Oleksandr Iakovenko",
@@ -1052,54 +1243,64 @@ var trasferimenti = [
         "Squadra di provenienza": "RSC Anderlecht",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-ACF Fiorentina",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "97",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Paolo Rozzio *",
+        "Nome giocatore originale": "Paolo Rozzio *#",
         "Nome giocatore": "Paolo Rozzio",
         "Squadra di provenienza": "AC Pisa 1909",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-ACF Fiorentina",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "98",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Pietro Iemmello *",
+        "Nome giocatore originale": "Pietro Iemmello *#",
         "Nome giocatore": "Pietro Iemmello",
         "Squadra di provenienza": "FC Pro Vercelli 1892",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-ACF Fiorentina",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "99",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Rubén Olivera *",
+        "Nome giocatore originale": "Rubén Olivera *#",
         "Nome giocatore": "Rubén Olivera",
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-ACF Fiorentina",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "100",
         "Squadra di destinazione": "ACF Fiorentina",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Ryder *",
+        "Nome giocatore originale": "Ryder *#",
         "Nome giocatore": "Ryder",
         "Squadra di provenienza": "Esporte Clube Bahia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-ACF Fiorentina",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "101",
         "Squadra di destinazione": "AC Legnago Salus",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Luca Viviani",
@@ -1107,10 +1308,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "102",
         "Squadra di destinazione": "AC Lumezzane",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Amedeo Benedetti *",
@@ -1118,10 +1321,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "103",
         "Squadra di destinazione": "AC Lumezzane",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Ernesto Torregrossa",
@@ -1129,10 +1334,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "104",
         "Squadra di destinazione": "AC Lumezzane",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Giuseppe Russo",
@@ -1140,10 +1347,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "105",
         "Squadra di destinazione": "AC Lumezzane",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mattia Monticone",
@@ -1151,21 +1360,25 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "106",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Adrià Carmona *",
+        "Nome giocatore originale": "Adrià Carmona *#",
         "Nome giocatore": "Adrià Carmona",
         "Squadra di provenienza": "Real Saragozza",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "107",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alessandro Matri",
@@ -1173,10 +1386,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-AC Milan",
+        "Serie trasferimento": "A-A",
         "Spesa": "11.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "108",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Petagna",
@@ -1184,10 +1399,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Milan Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "109",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Poli",
@@ -1195,32 +1412,38 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-AC Milan",
+        "Serie trasferimento": "A-A",
         "Spesa": "3.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "110",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Schenetti *",
+        "Nome giocatore originale": "Andrea Schenetti *#",
         "Nome giocatore": "Andrea Schenetti",
         "Squadra di provenienza": "Calcio Como",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "111",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Attila Filkor *",
+        "Nome giocatore originale": "Attila Filkor *#",
         "Nome giocatore": "Attila Filkor",
         "Squadra di provenienza": "FC Pro Vercelli 1892",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "112",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Bryan Cristante",
@@ -1228,21 +1451,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Milan Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "113",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Cristian Daminuta *",
+        "Nome giocatore originale": "Cristian Daminuta *#",
         "Nome giocatore": "Cristian Daminuta",
         "Squadra di provenienza": "CS Flacara Faget",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "114",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Cristian Zapata",
@@ -1250,43 +1477,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Villarreal CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "6.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "115",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Edmund Hottor *",
+        "Nome giocatore originale": "Edmund Hottor *#",
         "Nome giocatore": "Edmund Hottor",
         "Squadra di provenienza": "SS Virtus Lanciano",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Milan",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "116",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Edoardo Pazzagli *",
+        "Nome giocatore originale": "Edoardo Pazzagli *#",
         "Nome giocatore": "Edoardo Pazzagli",
         "Squadra di provenienza": "AC Monza Brianza",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "117",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Federico Dal Compare *",
+        "Nome giocatore originale": "Federico Dal Compare *#",
         "Nome giocatore": "Federico Dal Compare",
         "Squadra di provenienza": "FC Treviso",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "118",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ferdinando Coppola",
@@ -1294,21 +1529,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-AC Milan",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "119",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Filippo Perucchini *",
+        "Nome giocatore originale": "Filippo Perucchini *#",
         "Nome giocatore": "Filippo Perucchini",
         "Squadra di provenienza": "Calcio Como",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "120",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Giacomo Beretta",
@@ -1316,32 +1555,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-AC Milan",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "121",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gianmarco Zigoni *",
+        "Nome giocatore originale": "Gianmarco Zigoni *#",
         "Nome giocatore": "Gianmarco Zigoni",
         "Squadra di provenienza": "AS Avellino",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Milan",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "122",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gianmario Comi *",
+        "Nome giocatore originale": "Gianmario Comi *#",
         "Nome giocatore": "Gianmario Comi",
         "Squadra di provenienza": "Reggina Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Milan",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "123",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Jherson Vergara",
@@ -1349,10 +1594,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Deportes Quindío",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "2.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "124",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Kaká",
@@ -1360,21 +1607,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Real Madrid CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "125",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luca Bertoni *",
+        "Nome giocatore originale": "Luca Bertoni *#",
         "Nome giocatore": "Luca Bertoni",
         "Squadra di provenienza": "FC Südtirol - Alto Adige",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "126",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Ghiringhelli",
@@ -1382,54 +1633,64 @@ var trasferimenti = [
         "Squadra di provenienza": "Novara Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Milan",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "127",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luca Santonocito *",
+        "Nome giocatore originale": "Luca Santonocito *#",
         "Nome giocatore": "Luca Santonocito",
         "Squadra di provenienza": "AC Renate",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "128",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Bergamini *",
+        "Nome giocatore originale": "Marco Bergamini *#",
         "Nome giocatore": "Marco Bergamini",
         "Squadra di provenienza": "AC Renate",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "129",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Fossati *",
+        "Nome giocatore originale": "Marco Fossati *#",
         "Nome giocatore": "Marco Fossati",
         "Squadra di provenienza": "Ascoli Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "130",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Gaeta *",
+        "Nome giocatore originale": "Marco Gaeta *#",
         "Nome giocatore": "Marco Gaeta",
         "Squadra di provenienza": "AC Renate",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "131",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Matías Silvestre *",
@@ -1437,98 +1698,116 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-AC Milan",
+        "Serie trasferimento": "A-A",
         "Spesa": "1.000.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "132",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Chinellato *",
+        "Nome giocatore originale": "Matteo Chinellato *#",
         "Nome giocatore": "Matteo Chinellato",
         "Squadra di provenienza": "SS Tritium 1908",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "133",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mattia Desole *",
+        "Nome giocatore originale": "Mattia Desole *#",
         "Nome giocatore": "Mattia Desole",
         "Squadra di provenienza": "Brown University Miami",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "134",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Michelangelo Albertazzi *",
+        "Nome giocatore originale": "Michelangelo Albertazzi *#",
         "Nome giocatore": "Michelangelo Albertazzi",
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-AC Milan",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "135",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mitja Novinic *",
+        "Nome giocatore originale": "Mitja Novinic *#",
         "Nome giocatore": "Mitja Novinic",
         "Squadra di provenienza": "Teramo Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "136",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nnamdi Oduamadi *",
+        "Nome giocatore originale": "Nnamdi Oduamadi *#",
         "Nome giocatore": "Nnamdi Oduamadi",
         "Squadra di provenienza": "AS Varese 1910",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Milan",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "137",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Pelé *",
+        "Nome giocatore originale": "Pelé *#",
         "Nome giocatore": "Pelé",
         "Squadra di provenienza": "Arsenal Kiev",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "138",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Ricardo Ferreira *",
+        "Nome giocatore originale": "Ricardo Ferreira *#",
         "Nome giocatore": "Ricardo Ferreira",
         "Squadra di provenienza": "Empoli FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Milan",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "139",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Riccardo Piscitelli *",
+        "Nome giocatore originale": "Riccardo Piscitelli *#",
         "Nome giocatore": "Riccardo Piscitelli",
         "Squadra di provenienza": "Carrarese Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "140",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Riccardo Saponara",
@@ -1536,76 +1815,90 @@ var trasferimenti = [
         "Squadra di provenienza": "Empoli FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Milan",
+        "Serie trasferimento": "B-A",
         "Spesa": "3.800.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "141",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Rodney Strasser *",
+        "Nome giocatore originale": "Rodney Strasser *#",
         "Nome giocatore": "Rodney Strasser",
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-AC Milan",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "142",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Rodrigo Ely *",
+        "Nome giocatore originale": "Rodrigo Ely *#",
         "Nome giocatore": "Rodrigo Ely",
         "Squadra di provenienza": "Reggina Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AC Milan",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "143",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Taye Taiwo *",
+        "Nome giocatore originale": "Taye Taiwo *#",
         "Nome giocatore": "Taye Taiwo",
         "Squadra di provenienza": "Dynamo Kiev",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "144",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Umberto Previti *",
+        "Nome giocatore originale": "Umberto Previti *#",
         "Nome giocatore": "Umberto Previti",
         "Squadra di provenienza": "AC Pavia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "145",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Urby Emanuelson *",
+        "Nome giocatore originale": "Urby Emanuelson *#",
         "Nome giocatore": "Urby Emanuelson",
         "Squadra di provenienza": "FC Fulham",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "146",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Uros Palibrk *",
+        "Nome giocatore originale": "Uros Palibrk *#",
         "Nome giocatore": "Uros Palibrk",
         "Squadra di provenienza": "Lierse SK",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AC Milan",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "147",
         "Squadra di destinazione": "AC Milan",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Valter Birsa",
@@ -1613,10 +1906,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-AC Milan",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "148",
         "Squadra di destinazione": "AC Monza Brianza",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Jacopo Galimberti *",
@@ -1624,10 +1919,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "149",
         "Squadra di destinazione": "AC Monza Brianza",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Luca Santonocito *",
@@ -1635,10 +1932,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "150",
         "Squadra di destinazione": "AC Pavia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "David Speziale *",
@@ -1646,10 +1945,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "151",
         "Squadra di destinazione": "AC Pavia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Federico Carraro",
@@ -1657,10 +1958,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "152",
         "Squadra di destinazione": "AC Pavia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Francesco Rossi *",
@@ -1668,10 +1971,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "153",
         "Squadra di destinazione": "AC Pavia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Niccolò Romero",
@@ -1679,10 +1984,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "154",
         "Squadra di destinazione": "AC Pisa 1909",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alberto Melis *",
@@ -1690,10 +1997,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Cagliari Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Cagliari Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "155",
         "Squadra di destinazione": "AC Pisa 1909",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Bruno Martella *",
@@ -1701,10 +2010,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "156",
         "Squadra di destinazione": "AC Pisa 1909",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gianluca Sampietro *",
@@ -1712,10 +2023,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "157",
         "Squadra di destinazione": "AC Pisa 1909",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Paolo Rozzio *",
@@ -1723,10 +2036,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "158",
         "Squadra di destinazione": "AC Prato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Iacopo Ricciarelli *",
@@ -1734,10 +2049,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "159",
         "Squadra di destinazione": "AC Reggiana 1919",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Andrea Bandini *",
@@ -1745,10 +2062,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "160",
         "Squadra di destinazione": "AC Reggiana 1919",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Elio De Silvestro *",
@@ -1756,10 +2075,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "161",
         "Squadra di destinazione": "AC Reggiana 1919",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Marcello Possenti",
@@ -1767,10 +2088,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "162",
         "Squadra di destinazione": "AC Reggiana 1919",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matteo Solini *",
@@ -1778,10 +2101,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "163",
         "Squadra di destinazione": "AC Reggiana 1919",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Paolo Dametto *",
@@ -1789,10 +2114,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "164",
         "Squadra di destinazione": "AC Reggiana 1919",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Valerio Anastasi",
@@ -1800,10 +2127,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "165",
         "Squadra di destinazione": "AC Renate",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Cristian Pedrinelli *",
@@ -1811,10 +2140,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "166",
         "Squadra di destinazione": "AC Renate",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Daniele Bernasconi *",
@@ -1822,10 +2153,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "167",
         "Squadra di destinazione": "AC Rimini 1912",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Ameth Fall *",
@@ -1833,10 +2166,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "168",
         "Squadra di destinazione": "AC Rimini 1912",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Francesco Nicastro",
@@ -1844,10 +2179,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "169",
         "Squadra di destinazione": "ACR Messina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessio De Bode",
@@ -1855,10 +2192,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "170",
         "Squadra di destinazione": "AC Siena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Alin Bucuroiu",
@@ -1866,10 +2205,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "171",
         "Squadra di destinazione": "AC Siena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Carlos Matheu",
@@ -1877,21 +2218,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "172",
         "Squadra di destinazione": "AC Siena",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Emanuele Calaiò *",
+        "Nome giocatore originale": "Emanuele Calaiò *#",
         "Nome giocatore": "Emanuele Calaiò",
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "173",
         "Squadra di destinazione": "AC Siena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Eugenio Lamanna",
@@ -1899,10 +2244,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "174",
         "Squadra di destinazione": "AC Siena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Leonardo Spinazzola",
@@ -1910,10 +2257,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "175",
         "Squadra di destinazione": "AC Siena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luca Crescenzi *",
@@ -1921,21 +2270,25 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "176",
         "Squadra di destinazione": "AC Siena",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Marcelo Larrondo *",
+        "Nome giocatore originale": "Marcelo Larrondo *#",
         "Nome giocatore": "Marcelo Larrondo",
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "177",
         "Squadra di destinazione": "AC Siena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Nico Pulzetti *",
@@ -1943,10 +2296,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "178",
         "Squadra di destinazione": "AC Siena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Santiago Morero",
@@ -1954,10 +2309,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "179",
         "Squadra di destinazione": "AC Siena",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Zouhair Feddal *",
@@ -1965,10 +2322,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "180",
         "Squadra di destinazione": "AC Sparta Praga",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Kamil Vacek *",
@@ -1976,10 +2335,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "181",
         "Squadra di destinazione": "ACS Poli Timisoara",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Nicolás Gorobsov *",
@@ -1987,10 +2348,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "182",
         "Squadra di destinazione": "AFC Sunderland",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Andrea Dossena",
@@ -1998,10 +2361,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "183",
         "Squadra di destinazione": "AFC Sunderland",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Emanuele Giaccherini",
@@ -2009,10 +2374,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "7.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "184",
         "Squadra di destinazione": "AFC Sunderland",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Modibo Diakité",
@@ -2020,10 +2387,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "185",
         "Squadra di destinazione": "Apollon Smyrnis",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alexandros Tzorvas",
@@ -2031,10 +2400,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "186",
         "Squadra di destinazione": "APS Zakynthos",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessandro Gozzi *",
@@ -2042,10 +2413,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "187",
         "Squadra di destinazione": "APS Zakynthos",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Lazaros Fotias *",
@@ -2053,10 +2426,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "188",
         "Squadra di destinazione": "APS Zakynthos",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mauro Cerquetani *",
@@ -2064,10 +2439,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "189",
         "Squadra di destinazione": "Arzanese Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Vincenzo Giannusa",
@@ -2075,10 +2452,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "190",
         "Squadra di destinazione": "AS Avellino",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Andrea Seculin *",
@@ -2086,10 +2465,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "191",
         "Squadra di destinazione": "AS Avellino",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Andrey Galabinov *",
@@ -2097,10 +2478,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "192",
         "Squadra di destinazione": "AS Avellino",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "*",
@@ -2108,10 +2491,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "193",
         "Squadra di destinazione": "AS Avellino",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luca Bittante",
@@ -2119,10 +2504,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "194",
         "Squadra di destinazione": "AS Avellino",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Mathías Abero *",
@@ -2130,10 +2517,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "195",
         "Squadra di destinazione": "AS Avellino",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Pietro Terracciano *",
@@ -2141,10 +2530,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "100.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "196",
         "Squadra di destinazione": "AS Bari",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Diego Polenta *",
@@ -2152,10 +2543,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "197",
         "Squadra di destinazione": "AS Bari",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Marco Chiosa *",
@@ -2163,10 +2556,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "198",
         "Squadra di destinazione": "AS Bari",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Marco Fossati *",
@@ -2174,10 +2569,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "199",
         "Squadra di destinazione": "AS Bari",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Stefano Sabelli",
@@ -2185,10 +2582,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "300.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "200",
         "Squadra di destinazione": "AS Castel Rigone",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Roberto Cappai *",
@@ -2196,10 +2595,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "201",
         "Squadra di destinazione": "AS Cittadella",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Alfredo Donnarumma",
@@ -2207,10 +2608,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "202",
         "Squadra di destinazione": "AS Cittadella",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Cristiano Biraghi",
@@ -2218,10 +2621,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "203",
         "Squadra di destinazione": "AS Cittadella",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Nicolao Dumitru *",
@@ -2229,10 +2634,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "204",
         "Squadra di destinazione": "AS Cittadella",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Simone Pecorini",
@@ -2240,10 +2647,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "205",
         "Squadra di destinazione": "Ascoli Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessandro Piacenti *",
@@ -2251,10 +2660,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "206",
         "Squadra di destinazione": "Ascoli Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Andrea Scicchitano *",
@@ -2262,10 +2673,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "207",
         "Squadra di destinazione": "Ascoli Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Daniele Gragnoli *",
@@ -2273,10 +2686,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "208",
         "Squadra di destinazione": "Ascoli Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Edoardo Pazzagli *",
@@ -2284,10 +2699,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "209",
         "Squadra di destinazione": "Ascoli Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Emiliano Storani *",
@@ -2295,10 +2712,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "210",
         "Squadra di destinazione": "Ascoli Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Pietro Tripoli *",
@@ -2306,10 +2725,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "211",
         "Squadra di destinazione": "Ascoli Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Simone Malatesta *",
@@ -2317,10 +2738,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "212",
         "Squadra di destinazione": "Ascoli Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Stefano Russo *",
@@ -2328,10 +2751,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "213",
         "Squadra di destinazione": "A.S.D. Castiglione",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Federico Dal Compare",
@@ -2339,10 +2764,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "214",
         "Squadra di destinazione": "A.S.D. Castiglione",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Francesco Bonato *",
@@ -2350,10 +2777,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "215",
         "Squadra di destinazione": "A.S.D. Castiglione",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Simone Patacchiola",
@@ -2361,10 +2790,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "216",
         "Squadra di destinazione": "ASD Santarcangelo Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Riccardo Pasi *",
@@ -2372,10 +2803,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "217",
         "Squadra di destinazione": "ASG Nocerina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Carlo Cremaschi *",
@@ -2383,10 +2816,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "218",
         "Squadra di destinazione": "ASG Nocerina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Carlo Crialese *",
@@ -2394,10 +2829,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "219",
         "Squadra di destinazione": "ASG Nocerina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Daniel Jara *",
@@ -2405,10 +2842,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "220",
         "Squadra di destinazione": "ASG Nocerina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Edmund Hottor *",
@@ -2416,21 +2855,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "221",
         "Squadra di destinazione": "ASG Nocerina",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Gabriele Aldegani *",
+        "Nome giocatore originale": "Gabriele Aldegani *#",
         "Nome giocatore": "Gabriele Aldegani",
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "222",
         "Squadra di destinazione": "ASG Nocerina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Kris Jogan *",
@@ -2438,10 +2881,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "223",
         "Squadra di destinazione": "ASG Nocerina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Lorenzo Remedi",
@@ -2449,10 +2894,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "224",
         "Squadra di destinazione": "ASG Nocerina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Sem Ogolong *",
@@ -2460,10 +2907,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "225",
         "Squadra di destinazione": "AS Gubbio 1910",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessandro Luparini *",
@@ -2471,10 +2920,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "226",
         "Squadra di destinazione": "AS Gubbio 1910",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Andrea Giallombardo *",
@@ -2482,10 +2933,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "227",
         "Squadra di destinazione": "AS Gubbio 1910",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Angelo Tartaglia *",
@@ -2493,10 +2946,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "228",
         "Squadra di destinazione": "AS Gubbio 1910",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Giuliano Laezza *",
@@ -2504,10 +2959,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "229",
         "Squadra di destinazione": "AS Gubbio 1910",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Giuseppe Caccavallo *",
@@ -2515,10 +2972,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "230",
         "Squadra di destinazione": "AS Gubbio 1910",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Ivan Cacchioli *",
@@ -2526,10 +2985,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "231",
         "Squadra di destinazione": "AS Gubbio 1910",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matteo Pisseri *",
@@ -2537,10 +2998,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "232",
         "Squadra di destinazione": "AS Gubbio 1910",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mohamed Traoré *",
@@ -2548,10 +3011,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "233",
         "Squadra di destinazione": "AS Gubbio 1910",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Nicola Russo *",
@@ -2559,10 +3024,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "234",
         "Squadra di destinazione": "AS Gubbio 1910",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Nicolò Stirati *",
@@ -2570,10 +3037,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "235",
         "Squadra di destinazione": "AS Gubbio 1910",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Salvatore Sandomenico *",
@@ -2581,10 +3050,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "236",
         "Squadra di destinazione": "AS Gubbio 1910",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Vito Falconieri *",
@@ -2592,21 +3063,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "237",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alfonso De Lucia *",
+        "Nome giocatore originale": "Alfonso De Lucia *#",
         "Nome giocatore": "Alfonso De Lucia",
         "Squadra di provenienza": "ASG Nocerina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "238",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alfred Duncan *",
@@ -2614,10 +3089,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-AS Livorno",
+        "Serie trasferimento": "A-A",
         "Spesa": "500.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "239",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Coda *",
@@ -2625,54 +3102,64 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-AS Livorno",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "240",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrey Galabinov *",
+        "Nome giocatore originale": "Andrey Galabinov *#",
         "Nome giocatore": "Andrey Galabinov",
         "Squadra di provenienza": "AS Gubbio 1910",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "241",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Antonio Meola *",
+        "Nome giocatore originale": "Antonio Meola *#",
         "Nome giocatore": "Antonio Meola",
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "242",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Antonio Piccolo *",
+        "Nome giocatore originale": "Antonio Piccolo *#",
         "Nome giocatore": "Antonio Piccolo",
         "Squadra di provenienza": "SS Virtus Lanciano",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AS Livorno",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "243",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Bryan Gioè *",
+        "Nome giocatore originale": "Bryan Gioè *#",
         "Nome giocatore": "Bryan Gioè",
         "Squadra di provenienza": "AC Pavia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "244",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Cristiano Piccini *",
@@ -2680,21 +3167,25 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-AS Livorno",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "245",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Dario Colombi *",
+        "Nome giocatore originale": "Dario Colombi *#",
         "Nome giocatore": "Dario Colombi",
         "Squadra di provenienza": "Foligno Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "246",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Francesco Bardi *",
@@ -2702,10 +3193,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-AS Livorno",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "247",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gabriele Aldegani",
@@ -2713,10 +3206,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ASG Nocerina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "248",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ibrahima Mbaye *",
@@ -2724,10 +3219,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-AS Livorno",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "249",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Innocent Emeghara *",
@@ -2735,21 +3232,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AS Livorno",
+        "Serie trasferimento": "B-A",
         "Spesa": "1.000.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "250",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Jacopo Galli *",
+        "Nome giocatore originale": "Jacopo Galli *#",
         "Nome giocatore": "Jacopo Galli",
         "Squadra di provenienza": "FC Lucchese 1905",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "251",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Jhonny Mosquera *",
@@ -2757,21 +3258,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Envigado FC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "250.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "252",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Jürgen Prutsch *",
+        "Nome giocatore originale": "Jürgen Prutsch *#",
         "Nome giocatore": "Jürgen Prutsch",
         "Squadra di provenienza": "SS Barletta Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "253",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Leandro Greco",
@@ -2779,10 +3284,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Olympiacos Pireo",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "254",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Leandro Rinaudo",
@@ -2790,21 +3297,25 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-AS Livorno",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "255",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Lorenzo Remedi *",
+        "Nome giocatore originale": "Lorenzo Remedi *#",
         "Nome giocatore": "Lorenzo Remedi",
         "Squadra di provenienza": "US Pontedera 1912",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "256",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Anania",
@@ -2812,10 +3323,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Padova",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AS Livorno",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "257",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marco Benassi *",
@@ -2823,10 +3336,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-AS Livorno",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "258",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marco Biagianti",
@@ -2834,32 +3349,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-AS Livorno",
+        "Serie trasferimento": "A-A",
         "Spesa": "400.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "259",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Moscati *",
+        "Nome giocatore originale": "Marco Moscati *#",
         "Nome giocatore": "Marco Moscati",
         "Squadra di provenienza": "Perugia Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "260",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Lignani *",
+        "Nome giocatore originale": "Matteo Lignani *#",
         "Nome giocatore": "Matteo Lignani",
         "Squadra di provenienza": "SC Kriens",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "261",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Miguel Borja",
@@ -2867,10 +3388,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Club Deportivo Tuluá",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "262",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Nahuel Valentini",
@@ -2878,21 +3401,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Club Atlético Rosario Central",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "600.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "263",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Riccardo Regno *",
+        "Nome giocatore originale": "Riccardo Regno *#",
         "Nome giocatore": "Riccardo Regno",
         "Squadra di provenienza": "AS Gubbio 1910",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "264",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Rubén Botta",
@@ -2900,10 +3427,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Club Atlético Tigre",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "265",
         "Squadra di destinazione": "AS Livorno",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Saulo Decarli",
@@ -2911,21 +3440,25 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Chiasso",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Livorno",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "750.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "266",
         "Squadra di destinazione": "AS Melfi",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Rocco Benci *",
+        "Nome giocatore originale": "Rocco Benci *#",
         "Nome giocatore": "Rocco Benci",
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "267",
         "Squadra di destinazione": "AS Monaco",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Sergio Romero *",
@@ -2933,10 +3466,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "268",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Adem Ljajic",
@@ -2944,32 +3479,38 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-AS Roma",
+        "Serie trasferimento": "A-A",
         "Spesa": "11.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "269",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alessandro Crescenzi *",
+        "Nome giocatore originale": "Alessandro Crescenzi *#",
         "Nome giocatore": "Alessandro Crescenzi",
         "Squadra di provenienza": "Novara Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AS Roma",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "270",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alessandro Viscontini *",
+        "Nome giocatore originale": "Alessandro Viscontini *#",
         "Nome giocatore": "Alessandro Viscontini",
         "Squadra di provenienza": "SSD Chieti",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "271",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Amara Konate",
@@ -2977,21 +3518,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Polisportiva Nuovo Campobasso Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "272",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Amato Ciciretti *",
+        "Nome giocatore originale": "Amato Ciciretti *#",
         "Nome giocatore": "Amato Ciciretti",
         "Squadra di provenienza": "Carrarese Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "273",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Babù",
@@ -2999,21 +3544,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Paganese Calcio 1926",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "274",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Bojan Krkic *",
+        "Nome giocatore originale": "Bojan Krkic *#",
         "Nome giocatore": "Bojan Krkic",
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-AS Roma",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "275",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Federico Barba",
@@ -3021,21 +3570,25 @@ var trasferimenti = [
         "Squadra di provenienza": "US Grosseto",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "400.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "276",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Federico Barba *",
+        "Nome giocatore originale": "Federico Barba *#",
         "Nome giocatore": "Federico Barba",
         "Squadra di provenienza": "US Grosseto",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "277",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Federico Ricci",
@@ -3043,43 +3596,51 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "278",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Federico Viviani *",
+        "Nome giocatore originale": "Federico Viviani *#",
         "Nome giocatore": "Federico Viviani",
         "Squadra di provenienza": "Calcio Padova",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AS Roma",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "279",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Filippo Scardina *",
+        "Nome giocatore originale": "Filippo Scardina *#",
         "Nome giocatore": "Filippo Scardina",
         "Squadra di provenienza": "US Poggibonsi",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "280",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gadji Tallo *",
+        "Nome giocatore originale": "Gadji Tallo *#",
         "Nome giocatore": "Gadji Tallo",
         "Squadra di provenienza": "AS Bari",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AS Roma",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "281",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gervinho",
@@ -3087,10 +3648,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Arsenal",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "8.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "282",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Giammario Piscitella",
@@ -3098,10 +3661,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-AS Roma",
+        "Serie trasferimento": "A-A",
         "Spesa": "1.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "283",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gianluca Caprari",
@@ -3109,32 +3674,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Delfino Pescara 1936",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AS Roma",
+        "Serie trasferimento": "B-A",
         "Spesa": "2.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "284",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gianluca Curci *",
+        "Nome giocatore originale": "Gianluca Curci *#",
         "Nome giocatore": "Gianluca Curci",
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-AS Roma",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "285",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gianluca Leonardi *",
+        "Nome giocatore originale": "Gianluca Leonardi *#",
         "Nome giocatore": "Gianluca Leonardi",
         "Squadra di provenienza": "AC Cuneo 1905",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "286",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Kevin Strootman",
@@ -3142,32 +3713,38 @@ var trasferimenti = [
         "Squadra di provenienza": "PSV Eindhoven",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "16.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "287",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Loïc Nego *",
+        "Nome giocatore originale": "Loïc Nego *#",
         "Nome giocatore": "Loïc Nego",
         "Squadra di provenienza": "Standard Liegi",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "288",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luca Antei *",
+        "Nome giocatore originale": "Luca Antei *#",
         "Nome giocatore": "Luca Antei",
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-AS Roma",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "289",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Lukasz Skorupski",
@@ -3175,10 +3752,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Gornik Zabrze",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "890.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "290",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Maicon",
@@ -3186,54 +3765,64 @@ var trasferimenti = [
         "Squadra di provenienza": "Manchester City",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "291",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Borriello *",
+        "Nome giocatore originale": "Marco Borriello *#",
         "Nome giocatore": "Marco Borriello",
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-AS Roma",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "292",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco D'Alessandro *",
+        "Nome giocatore originale": "Marco D'Alessandro *#",
         "Nome giocatore": "Marco D'Alessandro",
         "Squadra di provenienza": "AC Cesena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AS Roma",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "293",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Brighi *",
+        "Nome giocatore originale": "Matteo Brighi *#",
         "Nome giocatore": "Matteo Brighi",
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-AS Roma",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "294",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Politano *",
+        "Nome giocatore originale": "Matteo Politano *#",
         "Nome giocatore": "Matteo Politano",
         "Squadra di provenienza": "Perugia Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "295",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mattia Destro",
@@ -3241,10 +3830,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-AS Roma",
+        "Serie trasferimento": "A-A",
         "Spesa": "4.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "296",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mehdi Benatia",
@@ -3252,10 +3843,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-AS Roma",
+        "Serie trasferimento": "A-A",
         "Spesa": "13.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "297",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Morgan De Sanctis",
@@ -3263,43 +3856,51 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-AS Roma",
+        "Serie trasferimento": "A-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "298",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Sebastian Mladen *",
+        "Nome giocatore originale": "Sebastian Mladen *#",
         "Nome giocatore": "Sebastian Mladen",
         "Squadra di provenienza": "FC Viitorul Constanta",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "299",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Sini *",
+        "Nome giocatore originale": "Simone Sini *#",
         "Nome giocatore": "Simone Sini",
         "Squadra di provenienza": "FC Pro Vercelli 1892",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "300",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Stefano Sabelli *",
+        "Nome giocatore originale": "Stefano Sabelli *#",
         "Nome giocatore": "Stefano Sabelli",
         "Squadra di provenienza": "AS Bari",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-AS Roma",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "301",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Tin Jedvaj",
@@ -3307,10 +3908,12 @@ var trasferimenti = [
         "Squadra di provenienza": "GNK Dinamo Zagabria",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-AS Roma",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "5.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "302",
         "Squadra di destinazione": "AS Roma",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Valerio Verre",
@@ -3318,10 +3921,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-AS Roma",
+        "Serie trasferimento": "A-A",
         "Spesa": "2.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "303",
         "Squadra di destinazione": "Aston Villa",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Libor Kozak",
@@ -3329,21 +3934,25 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "7.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "304",
         "Squadra di destinazione": "AS Varese 1910",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Giuseppe De Luca *",
+        "Nome giocatore originale": "Giuseppe De Luca *#",
         "Nome giocatore": "Giuseppe De Luca",
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "305",
         "Squadra di destinazione": "AS Varese 1910",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Leonardo Pavoletti *",
@@ -3351,10 +3960,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "306",
         "Squadra di destinazione": "AS Varese 1910",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Lorenzo Laverone",
@@ -3362,10 +3973,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "307",
         "Squadra di destinazione": "AS Varese 1910",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luca Tremolada",
@@ -3373,10 +3986,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "308",
         "Squadra di destinazione": "AS Varese 1910",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Matteo Lignani",
@@ -3384,10 +3999,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "309",
         "Squadra di destinazione": "AS Varese 1910",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Rodrigo Ely *",
@@ -3395,10 +4012,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "310",
         "Squadra di destinazione": "AS Varese 1910",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Simone Pasa *",
@@ -3406,54 +4025,64 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "311",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alberto Almici *",
+        "Nome giocatore originale": "Alberto Almici *#",
         "Nome giocatore": "Alberto Almici",
         "Squadra di provenienza": "SS Virtus Lanciano",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "312",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Carlo Cremaschi *",
+        "Nome giocatore originale": "Carlo Cremaschi *#",
         "Nome giocatore": "Carlo Cremaschi",
         "Squadra di provenienza": "SS Tritium 1908",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "313",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Carlos Matheu *",
+        "Nome giocatore originale": "Carlos Matheu *#",
         "Nome giocatore": "Carlos Matheu",
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "314",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Christian Monacizzo *",
+        "Nome giocatore originale": "Christian Monacizzo *#",
         "Nome giocatore": "Christian Monacizzo",
         "Squadra di provenienza": "SS Tritium 1908",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "315",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Constantin Nica",
@@ -3461,10 +4090,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Dinamo Bucarest",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "1.600.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "316",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Daniele Baselli",
@@ -3472,21 +4103,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Cittadella",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "800.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "317",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Doudou Mangni *",
+        "Nome giocatore originale": "Doudou Mangni *#",
         "Nome giocatore": "Doudou Mangni",
         "Squadra di provenienza": "Modena FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "318",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Elia Cortesi",
@@ -3494,43 +4129,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Carpi FC 1909",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "319",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Emanuele Suagher *",
+        "Nome giocatore originale": "Emanuele Suagher *#",
         "Nome giocatore": "Emanuele Suagher",
         "Squadra di provenienza": "AC Pisa 1909",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "320",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Federico Peluso *",
+        "Nome giocatore originale": "Federico Peluso *#",
         "Nome giocatore": "Federico Peluso",
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Atalanta BC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "321",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Francesco Rossi *",
+        "Nome giocatore originale": "Francesco Rossi *#",
         "Nome giocatore": "Francesco Rossi",
         "Squadra di provenienza": "AC Cuneo 1905",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "322",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Giulio Migliaccio",
@@ -3538,10 +4181,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "300.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "323",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Giuseppe De Luca",
@@ -3549,10 +4194,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Varese 1910",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "324",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Leonardo Gatto",
@@ -3560,21 +4207,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Pisa 1909",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "200.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "325",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luca Barbugian *",
+        "Nome giocatore originale": "Luca Barbugian *#",
         "Nome giocatore": "Luca Barbugian",
         "Squadra di provenienza": "AC Gozzano",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "326",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Cigarini",
@@ -3582,10 +4233,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Atalanta BC",
+        "Serie trasferimento": "A-A",
         "Spesa": "2.200.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "327",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luigi Giorgi",
@@ -3593,32 +4246,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Novara Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "800.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "328",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marcello Possenti *",
+        "Nome giocatore originale": "Marcello Possenti *#",
         "Nome giocatore": "Marcello Possenti",
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "329",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Sportiello *",
+        "Nome giocatore originale": "Marco Sportiello *#",
         "Nome giocatore": "Marco Sportiello",
         "Squadra di provenienza": "Carpi FC 1909",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "330",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mario Yepes",
@@ -3626,65 +4285,77 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Atalanta BC",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "331",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Ardemagni *",
+        "Nome giocatore originale": "Matteo Ardemagni *#",
         "Nome giocatore": "Matteo Ardemagni",
         "Squadra di provenienza": "Modena FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "332",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Gentili *",
+        "Nome giocatore originale": "Matteo Gentili *#",
         "Nome giocatore": "Matteo Gentili",
         "Squadra di provenienza": "Vicenza Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "333",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Scozzarella *",
+        "Nome giocatore originale": "Matteo Scozzarella *#",
         "Nome giocatore": "Matteo Scozzarella",
         "Squadra di provenienza": "Ternana Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "334",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Moussa Koné *",
+        "Nome giocatore originale": "Moussa Koné *#",
         "Nome giocatore": "Moussa Koné",
         "Squadra di provenienza": "AS Varese 1910",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "335",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nejc Praprotnik *",
+        "Nome giocatore originale": "Nejc Praprotnik *#",
         "Nome giocatore": "Nejc Praprotnik",
         "Squadra di provenienza": "ND Gorica",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "336",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Prince-Désir Gouano",
@@ -3692,21 +4363,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Atalanta BC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "337",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Riccardo Tantardini *",
+        "Nome giocatore originale": "Riccardo Tantardini *#",
         "Nome giocatore": "Riccardo Tantardini",
         "Squadra di provenienza": "AC FeralpiSalò",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "338",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Roberto Gagliardini",
@@ -3714,43 +4389,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "339",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Salvatore Molina *",
+        "Nome giocatore originale": "Salvatore Molina *#",
         "Nome giocatore": "Salvatore Molina",
         "Squadra di provenienza": "SS Barletta Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "340",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Colombi *",
+        "Nome giocatore originale": "Simone Colombi *#",
         "Nome giocatore": "Simone Colombi",
         "Squadra di provenienza": "Modena FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Atalanta BC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "341",
         "Squadra di destinazione": "Atalanta BC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Magnaghi *",
+        "Nome giocatore originale": "Simone Magnaghi *#",
         "Nome giocatore": "Simone Magnaghi",
         "Squadra di provenienza": "FC Esperia Viareggio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Atalanta BC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "342",
         "Squadra di destinazione": "Aurora Pro Patria",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Diego Mella *",
@@ -3758,10 +4441,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "343",
         "Squadra di destinazione": "Aurora Pro Patria",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Filippo Moscati *",
@@ -3769,10 +4454,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "344",
         "Squadra di destinazione": "Barcelona SC Guayaquil",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Sebastián Ribas *",
@@ -3780,10 +4467,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "345",
         "Squadra di destinazione": "Bassano Virtus",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Filippo Fondi *",
@@ -3791,10 +4480,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "346",
         "Squadra di destinazione": "Bassano Virtus",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Filippo Lombardi *",
@@ -3802,10 +4493,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "347",
         "Squadra di destinazione": "Bayer 04 Leverkusen",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Giulio Donati",
@@ -3813,21 +4506,25 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "3.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "348",
         "Squadra di destinazione": "Benevento Calcio",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Antonio Vacca *",
+        "Nome giocatore originale": "Antonio Vacca *#",
         "Nome giocatore": "Antonio Vacca",
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "349",
         "Squadra di destinazione": "Benevento Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Daniel Kofi Agyei",
@@ -3835,10 +4532,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "350",
         "Squadra di destinazione": "Benevento Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Riccardo Piscitelli",
@@ -3846,10 +4545,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "351",
         "Squadra di destinazione": "Birkirkara FC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Luke Montebello",
@@ -3857,10 +4558,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "352",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Abdallah Yaisien",
@@ -3868,21 +4571,25 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Paris Saint-Germain B",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "353",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alessandro Marchi *",
+        "Nome giocatore originale": "Alessandro Marchi *#",
         "Nome giocatore": "Alessandro Marchi",
         "Squadra di provenienza": "Frosinone Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "354",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alex Ferrari",
@@ -3890,10 +4597,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "355",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Bandini",
@@ -3901,21 +4610,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Inter Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "1.250.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "356",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Ingegneri *",
+        "Nome giocatore originale": "Andrea Ingegneri *#",
         "Nome giocatore": "Andrea Ingegneri",
         "Squadra di provenienza": "Foligno Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "357",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Mantovani *",
@@ -3923,10 +4636,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Bologna FC 1909",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "358",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Romanò",
@@ -3934,10 +4649,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Bologna FC 1909",
+        "Serie trasferimento": "A-A",
         "Spesa": "1.250.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "359",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Angelo Gregorio",
@@ -3945,10 +4662,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Pontedera 1912",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "360",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Damjan Djokovic",
@@ -3956,10 +4675,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Cesena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Bologna FC 1909",
+        "Serie trasferimento": "B-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "361",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Daniele Grandi",
@@ -3967,10 +4688,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Como",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "362",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Denis Alibec *",
@@ -3978,10 +4701,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Bologna FC 1909",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "363",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Diego Laxalt *",
@@ -3989,21 +4714,25 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Bologna FC 1909",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "364",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Federico Casarini *",
+        "Nome giocatore originale": "Federico Casarini *#",
         "Nome giocatore": "Federico Casarini",
         "Squadra di provenienza": "Cagliari Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Cagliari Calcio-Bologna FC 1909",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "365",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Francesco Della Rocca",
@@ -4011,43 +4740,51 @@ var trasferimenti = [
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Bologna FC 1909",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "366",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Francesco Finocchio *",
+        "Nome giocatore originale": "Francesco Finocchio *#",
         "Nome giocatore": "Francesco Finocchio",
         "Squadra di provenienza": "AC FeralpiSalò",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "367",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gaby Mudingayi *",
+        "Nome giocatore originale": "Gaby Mudingayi *#",
         "Nome giocatore": "Gaby Mudingayi",
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Bologna FC 1909",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "368",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giacomo Venturi *",
+        "Nome giocatore originale": "Giacomo Venturi *#",
         "Nome giocatore": "Giacomo Venturi",
         "Squadra di provenienza": "AS Gubbio 1910",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "369",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gianluca Curci *",
@@ -4055,43 +4792,51 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Bologna FC 1909",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "370",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gianluca Draghetti *",
+        "Nome giocatore originale": "Gianluca Draghetti *#",
         "Nome giocatore": "Gianluca Draghetti",
         "Squadra di provenienza": "AC Giacomense",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "371",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giuseppe Nazzani *",
+        "Nome giocatore originale": "Giuseppe Nazzani *#",
         "Nome giocatore": "Giuseppe Nazzani",
         "Squadra di provenienza": "AC Giacomense",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "372",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Henry Giménez *",
+        "Nome giocatore originale": "Henry Giménez *#",
         "Nome giocatore": "Henry Giménez",
         "Squadra di provenienza": "US Grosseto",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "373",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Jonathan Cristaldo *",
@@ -4099,43 +4844,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Metalist Kharkiv",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "500.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "374",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "José Ángel Crespo *",
+        "Nome giocatore originale": "José Ángel Crespo *#",
         "Nome giocatore": "José Ángel Crespo",
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Bologna FC 1909",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "375",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Juan Cruz *",
+        "Nome giocatore originale": "Juan Cruz *#",
         "Nome giocatore": "Juan Cruz",
         "Squadra di provenienza": "Carrarese Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "376",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Kadir Caidi *",
+        "Nome giocatore originale": "Kadir Caidi *#",
         "Nome giocatore": "Kadir Caidi",
         "Squadra di provenienza": "US Pontedera 1912",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "377",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Veratti",
@@ -4143,21 +4896,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "378",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Manuel Gavilán *",
+        "Nome giocatore originale": "Manuel Gavilán *#",
         "Nome giocatore": "Manuel Gavilán",
         "Squadra di provenienza": "ASG Nocerina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "379",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marco Maini",
@@ -4165,10 +4922,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "380",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marek Cech",
@@ -4176,32 +4935,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Trabzonspor",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "381",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Boccaccini *",
+        "Nome giocatore originale": "Matteo Boccaccini *#",
         "Nome giocatore": "Matteo Boccaccini",
         "Squadra di provenienza": "Alma Juventus Fano",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "382",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nicola Capellini *",
+        "Nome giocatore originale": "Nicola Capellini *#",
         "Nome giocatore": "Nicola Capellini",
         "Squadra di provenienza": "San Marino Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "383",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Riccardo Casini",
@@ -4209,32 +4974,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Bologna FC 1909",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "384",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Riccardo Pasi *",
+        "Nome giocatore originale": "Riccardo Pasi *#",
         "Nome giocatore": "Riccardo Pasi",
         "Squadra di provenienza": "FC Südtirol - Alto Adige",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "385",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Robert Acquafresca *",
+        "Nome giocatore originale": "Robert Acquafresca *#",
         "Nome giocatore": "Robert Acquafresca",
         "Squadra di provenienza": "Levante UD",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "386",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Rolando Bianchi",
@@ -4242,10 +5013,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Bologna FC 1909",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "387",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ruben Palomeque",
@@ -4253,10 +5026,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "388",
         "Squadra di destinazione": "Bologna FC 1909",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Thomas Job",
@@ -4264,10 +5039,12 @@ var trasferimenti = [
         "Squadra di provenienza": "svincolato",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Bologna FC 1909",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "389",
         "Squadra di destinazione": "Brescia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Juan Antonio *",
@@ -4275,10 +5052,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "390",
         "Squadra di destinazione": "Brescia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Lucas Finazzi *",
@@ -4286,10 +5065,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "391",
         "Squadra di destinazione": "Brescia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Nicolò Belotti",
@@ -4297,10 +5078,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "392",
         "Squadra di destinazione": "Brescia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Nnamdi Oduamadi *",
@@ -4308,10 +5091,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "393",
         "Squadra di destinazione": "Brescia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Paolo Grossi *",
@@ -4319,10 +5104,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "394",
         "Squadra di destinazione": "Brescia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Valerio Di Cesare",
@@ -4330,10 +5117,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "395",
         "Squadra di destinazione": "Bröndby IF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Kenneth Zohore *",
@@ -4341,10 +5130,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "396",
         "Squadra di destinazione": "Brönshöj Boldklub",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Carlos García *",
@@ -4352,10 +5143,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "397",
         "Squadra di destinazione": "Budapest Honvéd FC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Emanuele Testardi *",
@@ -4363,10 +5156,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "398",
         "Squadra di destinazione": "Budapest Honvéd FC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Raffaele Alcibiade",
@@ -4374,10 +5169,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "399",
         "Squadra di destinazione": "Bursaspor",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Sébastien Frey",
@@ -4385,10 +5182,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "400",
         "Squadra di destinazione": "Bursaspor",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Taye Taiwo",
@@ -4396,10 +5195,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "401",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Agim Ibraimi *",
@@ -4407,10 +5208,12 @@ var trasferimenti = [
         "Squadra di provenienza": "NK Maribor",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "402",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Demontis",
@@ -4418,21 +5221,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Cagliari Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "403",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Daniele Giorico *",
+        "Nome giocatore originale": "Daniele Giorico *#",
         "Nome giocatore": "Daniele Giorico",
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "404",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Danilo Avelar",
@@ -4440,43 +5247,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Karpaty Lviv",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "1.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "405",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Lorenzo Porceddu *",
+        "Nome giocatore originale": "Lorenzo Porceddu *#",
         "Nome giocatore": "Lorenzo Porceddu",
         "Squadra di provenienza": "USD Novese",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "406",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Capelli *",
+        "Nome giocatore originale": "Marco Capelli *#",
         "Nome giocatore": "Marco Capelli",
         "Squadra di provenienza": "AS Casale Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "407",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Ruzittu *",
+        "Nome giocatore originale": "Marco Ruzittu *#",
         "Nome giocatore": "Marco Ruzittu",
         "Squadra di provenienza": "AS Casale Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "408",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marios Oikonomou",
@@ -4484,10 +5299,12 @@ var trasferimenti = [
         "Squadra di provenienza": "PAS Giannina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "409",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mattia Gallon",
@@ -4495,10 +5312,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Savona 1907 FBC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "410",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mauro Vigorito",
@@ -4506,43 +5325,51 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "411",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Pablo Ceppelini *",
+        "Nome giocatore originale": "Pablo Ceppelini *#",
         "Nome giocatore": "Pablo Ceppelini",
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "412",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Paolo Dametto *",
+        "Nome giocatore originale": "Paolo Dametto *#",
         "Nome giocatore": "Paolo Dametto",
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "413",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Rui Sampaio *",
+        "Nome giocatore originale": "Rui Sampaio *#",
         "Nome giocatore": "Rui Sampaio",
         "Squadra di provenienza": "SC Beira-Mar",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "414",
         "Squadra di destinazione": "Cagliari Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Werther Carboni",
@@ -4550,43 +5377,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Cagliari Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Cagliari Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "415",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alfredo Donnarumma *",
+        "Nome giocatore originale": "Alfredo Donnarumma *#",
         "Nome giocatore": "Alfredo Donnarumma",
         "Squadra di provenienza": "Calcio Como",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "416",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Ameth Fall *",
+        "Nome giocatore originale": "Ameth Fall *#",
         "Nome giocatore": "Ameth Fall",
         "Squadra di provenienza": "AC Bellaria Igea Marina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "417",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Catellani *",
+        "Nome giocatore originale": "Andrea Catellani *#",
         "Nome giocatore": "Andrea Catellani",
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Calcio Catania",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "418",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Bruno Petkovic",
@@ -4594,21 +5429,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Catania Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "419",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Cristian Llama *",
+        "Nome giocatore originale": "Cristian Llama *#",
         "Nome giocatore": "Cristian Llama",
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Calcio Catania",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "420",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Cristiano Biraghi *",
@@ -4616,43 +5455,51 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Cittadella",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Calcio Catania",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "421",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Cristian Suarino *",
+        "Nome giocatore originale": "Cristian Suarino *#",
         "Nome giocatore": "Cristian Suarino",
         "Squadra di provenienza": "AS Melfi",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "422",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Davide Lanzafame *",
+        "Nome giocatore originale": "Davide Lanzafame *#",
         "Nome giocatore": "Davide Lanzafame",
         "Squadra di provenienza": "Budapest Honvéd FC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "423",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Emiliano Tortolano *",
+        "Nome giocatore originale": "Emiliano Tortolano *#",
         "Nome giocatore": "Emiliano Tortolano",
         "Squadra di provenienza": "Sorrento Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "424",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Erick Cabalceta",
@@ -4660,10 +5507,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Catania Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "425",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Fabián Monzón",
@@ -4671,10 +5520,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Olympique Lione",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "3.300.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "426",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Federico Freire",
@@ -4682,32 +5533,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Club Atlético Vélez Sarsfield",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "427",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Federico Moretti *",
+        "Nome giocatore originale": "Federico Moretti *#",
         "Nome giocatore": "Federico Moretti",
         "Squadra di provenienza": "Modena FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Calcio Catania",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "428",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Francesco Nicastro *",
+        "Nome giocatore originale": "Francesco Nicastro *#",
         "Nome giocatore": "Francesco Nicastro",
         "Squadra di provenienza": "AC Bellaria Igea Marina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "429",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gino Peruzzi",
@@ -4715,21 +5572,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Club Atlético Vélez Sarsfield",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "3.400.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "430",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giordano Maccarone *",
+        "Nome giocatore originale": "Giordano Maccarone *#",
         "Nome giocatore": "Giordano Maccarone",
         "Squadra di provenienza": "AC Bellaria Igea Marina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "431",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Jaroslav Plasil *",
@@ -4737,21 +5598,25 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Girondins Bordeaux",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "432",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Jean Mbida *",
+        "Nome giocatore originale": "Jean Mbida *#",
         "Nome giocatore": "Jean Mbida",
         "Squadra di provenienza": "ND Gorica",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "433",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Kingsley Boateng *",
@@ -4759,76 +5624,90 @@ var trasferimenti = [
         "Squadra di provenienza": "Milan Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "500.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "434",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luca Calapai *",
+        "Nome giocatore originale": "Luca Calapai *#",
         "Nome giocatore": "Luca Calapai",
         "Squadra di provenienza": "SS Barletta Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "435",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Fiore *",
+        "Nome giocatore originale": "Marco Fiore *#",
         "Nome giocatore": "Marco Fiore",
         "Squadra di provenienza": "US Gavorrano",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "436",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mario Bria *",
+        "Nome giocatore originale": "Mario Bria *#",
         "Nome giocatore": "Mario Bria",
         "Squadra di provenienza": "US Vibonese Calcio 1928",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "437",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mario Paglialunga *",
+        "Nome giocatore originale": "Mario Paglialunga *#",
         "Nome giocatore": "Mario Paglialunga",
         "Squadra di provenienza": "Hércules CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "438",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Maxi López *",
+        "Nome giocatore originale": "Maxi López *#",
         "Nome giocatore": "Maxi López",
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Calcio Catania",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "439",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mirko Antenucci *",
+        "Nome giocatore originale": "Mirko Antenucci *#",
         "Nome giocatore": "Mirko Antenucci",
         "Squadra di provenienza": "Spezia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Calcio Catania",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "440",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Nabila Samba",
@@ -4836,10 +5715,12 @@ var trasferimenti = [
         "Squadra di provenienza": "GC Biaschesi",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "441",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Norbert Gyömber",
@@ -4847,10 +5728,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Dukla Banska Bystrica",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "800.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "442",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Panagiotis Tachtsidis",
@@ -4858,21 +5741,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Calcio Catania",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "443",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Raphael Martinho *",
+        "Nome giocatore originale": "Raphael Martinho *#",
         "Nome giocatore": "Raphael Martinho",
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Calcio Catania",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "444",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Roberto Cappai",
@@ -4880,10 +5767,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Polisportiva Arzachena 1964",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "445",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Sebastián Leto",
@@ -4891,21 +5780,25 @@ var trasferimenti = [
         "Squadra di provenienza": "svincolato",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "446",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Takayuki Morimoto *",
+        "Nome giocatore originale": "Takayuki Morimoto *#",
         "Nome giocatore": "Takayuki Morimoto",
         "Squadra di provenienza": "Al-Nasr (Dubai)",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "447",
         "Squadra di destinazione": "Calcio Catania",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Tiberio Guarente *",
@@ -4913,10 +5806,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Siviglia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Calcio Catania",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "448",
         "Squadra di destinazione": "Calcio Como",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Andrea Schenetti",
@@ -4924,10 +5819,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "449",
         "Squadra di destinazione": "Calcio Como",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Marco Piredda *",
@@ -4935,10 +5832,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Cagliari Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Cagliari Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "450",
         "Squadra di destinazione": "Calcio Como",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Ruben Palomeque *",
@@ -4946,10 +5845,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "451",
         "Squadra di destinazione": "Calcio Lecco 1912",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Marco Bergamini",
@@ -4957,10 +5858,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "452",
         "Squadra di destinazione": "Calcio Padova",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Álvaro Ampuero *",
@@ -4968,10 +5871,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "453",
         "Squadra di destinazione": "Calcio Padova",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Camillo Ciano *",
@@ -4979,10 +5884,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "454",
         "Squadra di destinazione": "Calcio Padova",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Cristian Pasquato *",
@@ -4990,10 +5897,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "455",
         "Squadra di destinazione": "Calcio Padova",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Fabiano Santacroce *",
@@ -5001,10 +5910,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "456",
         "Squadra di destinazione": "Calcio Padova",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Francesco Modesto",
@@ -5012,10 +5923,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "457",
         "Squadra di destinazione": "Calcio Padova",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Gianluca Musacci *",
@@ -5023,10 +5936,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "458",
         "Squadra di destinazione": "Calcio Padova",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luca Mazzoni *",
@@ -5034,10 +5949,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "459",
         "Squadra di destinazione": "Calcio Padova",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Simone Benedetti *",
@@ -5045,10 +5962,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "460",
         "Squadra di destinazione": "Calcio Padova",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Simone Colombi *",
@@ -5056,10 +5975,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "461",
         "Squadra di destinazione": "Calcio Padova",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Vedran Celjak *",
@@ -5067,10 +5988,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "462",
         "Squadra di destinazione": "Calcio Padova",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Zsolt Laczkó *",
@@ -5078,21 +6001,25 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "463",
         "Squadra di destinazione": "CA Peñarol Montevideo",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Emilio Mac Eachen *",
+        "Nome giocatore originale": "Emilio Mac Eachen *#",
         "Nome giocatore": "Emilio Mac Eachen",
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "464",
         "Squadra di destinazione": "Carpi FC 1909",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Alessandro De Vitis",
@@ -5100,10 +6027,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "465",
         "Squadra di destinazione": "Carpi FC 1909",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Alessandro Sgrigna *",
@@ -5111,10 +6040,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "466",
         "Squadra di destinazione": "Carpi FC 1909",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Edgar Cani *",
@@ -5122,10 +6053,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "200.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "467",
         "Squadra di destinazione": "Carpi FC 1909",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Lapis Kiakis *",
@@ -5133,10 +6066,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "468",
         "Squadra di destinazione": "Carpi FC 1909",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luca Bertoni",
@@ -5144,10 +6079,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "469",
         "Squadra di destinazione": "Carpi FC 1909",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Matteo Liviero *",
@@ -5155,10 +6092,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "470",
         "Squadra di destinazione": "Carpi FC 1909",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Radoslav Kirilov *",
@@ -5166,10 +6105,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "471",
         "Squadra di destinazione": "Carpi FC 1909",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Roberto Inglese *",
@@ -5177,10 +6118,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "472",
         "Squadra di destinazione": "Carpi FC 1909",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Timothy Nocchi *",
@@ -5188,10 +6131,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "473",
         "Squadra di destinazione": "CF Monterrey",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Dorlan Pabón",
@@ -5199,10 +6144,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "4.830.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "474",
         "Squadra di destinazione": "CFR Cluj",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Damjan Djokovic *",
@@ -5210,10 +6157,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "475",
         "Squadra di destinazione": "CFR Cluj",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Denilson *",
@@ -5221,10 +6170,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "476",
         "Squadra di destinazione": "CFR Cluj",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Goncalo Brandao *",
@@ -5232,10 +6183,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "477",
         "Squadra di destinazione": "CFR Cluj",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Nwankwo Obiora",
@@ -5243,10 +6196,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "478",
         "Squadra di destinazione": "Club Atlético Tigre",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Ignacio Fideleff *",
@@ -5254,10 +6209,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "479",
         "Squadra di destinazione": "Club Atlético Vélez Sarsfield",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mauro Zárate",
@@ -5265,32 +6222,38 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "480",
         "Squadra di destinazione": "Club Deportivo Maldonado",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Iván Piris *",
+        "Nome giocatore originale": "Iván Piris *#",
         "Nome giocatore": "Iván Piris",
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "481",
         "Squadra di destinazione": "Club Deportivo Maldonado",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Marcelo Estigarribia *",
+        "Nome giocatore originale": "Marcelo Estigarribia *#",
         "Nome giocatore": "Marcelo Estigarribia",
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "482",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Abdelaye Diakité",
@@ -5298,10 +6261,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "483",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Alfred Gomis *",
@@ -5309,10 +6274,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "484",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Andrea Romanò *",
@@ -5320,10 +6287,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "485",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Emanuele Suagher *",
@@ -5331,10 +6300,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "486",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Fabio Lebran",
@@ -5342,10 +6313,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "487",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Filippo Boniperti *",
@@ -5353,10 +6326,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "488",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Giuseppe Prestia",
@@ -5364,10 +6339,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "489",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Gonzalo Mastriani *",
@@ -5375,10 +6352,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "490",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Jacopo Dezi *",
@@ -5386,10 +6365,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "491",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Lorenzo Pasqualini *",
@@ -5397,10 +6378,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "492",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Mikael Ishak *",
@@ -5408,10 +6391,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "493",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Soufiane Bidaoui *",
@@ -5419,10 +6404,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "494",
         "Squadra di destinazione": "Crotone FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Tomislav Saric",
@@ -5430,21 +6417,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "495",
         "Squadra di destinazione": "CSD Rangers Talca",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Pablo Cáceres *",
+        "Nome giocatore originale": "Pablo Cáceres *#",
         "Nome giocatore": "Pablo Cáceres",
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "496",
         "Squadra di destinazione": "CS Marítimo",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Danilo Pereira",
@@ -5452,32 +6443,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "497",
         "Squadra di destinazione": "Danubio FC",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Mauro Goicoechea *",
+        "Nome giocatore originale": "Mauro Goicoechea *#",
         "Nome giocatore": "Mauro Goicoechea",
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "498",
         "Squadra di destinazione": "Defensor Sporting Club",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Diego Martín Rodríguez *",
+        "Nome giocatore originale": "Diego Martín Rodríguez *#",
         "Nome giocatore": "Diego Martín Rodríguez",
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "499",
         "Squadra di destinazione": "Delfino Pescara 1936",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Andrea Rossi *",
@@ -5485,10 +6482,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "500",
         "Squadra di destinazione": "Delfino Pescara 1936",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Elvis Kabashi *",
@@ -5496,10 +6495,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "501",
         "Squadra di destinazione": "Delfino Pescara 1936",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Federico Viviani *",
@@ -5507,10 +6508,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "502",
         "Squadra di destinazione": "Delfino Pescara 1936",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Giammario Piscitella",
@@ -5518,21 +6521,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "1.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "503",
         "Squadra di destinazione": "Delfino Pescara 1936",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Jonathas *",
+        "Nome giocatore originale": "Jonathas *#",
         "Nome giocatore": "Jonathas",
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "504",
         "Squadra di destinazione": "Delfino Pescara 1936",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Matteo Politano",
@@ -5540,21 +6547,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "505",
         "Squadra di destinazione": "Delfino Pescara 1936",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Matti Lund Nielsen *",
+        "Nome giocatore originale": "Matti Lund Nielsen *#",
         "Nome giocatore": "Matti Lund Nielsen",
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "506",
         "Squadra di destinazione": "Delfino Pescara 1936",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Mirko Pigliacelli *",
@@ -5562,10 +6573,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "507",
         "Squadra di destinazione": "Delfino Pescara 1936",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Paolo Frascatore *",
@@ -5573,10 +6586,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "508",
         "Squadra di destinazione": "Delfino Pescara 1936",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Raffaele Schiavi *",
@@ -5584,10 +6599,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "509",
         "Squadra di destinazione": "Delfino Pescara 1936",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Stefano Padovan *",
@@ -5595,10 +6612,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "510",
         "Squadra di destinazione": "Dubai Cultural Sports Club",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Pasquale Foggia",
@@ -5606,10 +6625,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "511",
         "Squadra di destinazione": "Elche CF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Richmond Boakye *",
@@ -5617,10 +6638,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "512",
         "Squadra di destinazione": "Empoli FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Federico Barba",
@@ -5628,10 +6651,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "300.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "513",
         "Squadra di destinazione": "Empoli FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luca Castiglia *",
@@ -5639,10 +6664,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "514",
         "Squadra di destinazione": "Empoli FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Mário Rui",
@@ -5650,10 +6677,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "515",
         "Squadra di destinazione": "Empoli FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Simone Verdi *",
@@ -5661,10 +6690,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "516",
         "Squadra di destinazione": "FBC Unione Venezia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessandro Martinelli *",
@@ -5672,10 +6703,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "517",
         "Squadra di destinazione": "FBC Unione Venezia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Daniele Giorico *",
@@ -5683,10 +6716,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Cagliari Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Cagliari Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "518",
         "Squadra di destinazione": "FBC Unione Venezia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Francesco Margiotta *",
@@ -5694,10 +6729,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "519",
         "Squadra di destinazione": "FBC Unione Venezia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mauro Vigorito",
@@ -5705,10 +6742,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Cagliari Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Cagliari Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "520",
         "Squadra di destinazione": "FBC Unione Venezia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Nicola Pasini *",
@@ -5716,10 +6755,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "521",
         "Squadra di destinazione": "FBC Unione Venezia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Riccardo Bocalon",
@@ -5727,10 +6768,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "522",
         "Squadra di destinazione": "FBC Unione Venezia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Salvatore Gallo",
@@ -5738,10 +6781,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "523",
         "Squadra di destinazione": "FC Aarau",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Linus Hallenius",
@@ -5749,10 +6794,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "524",
         "Squadra di destinazione": "FC Arsenal",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mathieu Flamini",
@@ -5760,21 +6807,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "525",
         "Squadra di destinazione": "FC Arsenal",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Nicklas Bendtner *",
+        "Nome giocatore originale": "Nicklas Bendtner *#",
         "Nome giocatore": "Nicklas Bendtner",
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "526",
         "Squadra di destinazione": "FC Barcellona",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Bojan Krkic",
@@ -5782,10 +6833,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "13.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "527",
         "Squadra di destinazione": "FC Biel/Bienne",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Seyi Adeleke *",
@@ -5793,10 +6846,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "528",
         "Squadra di destinazione": "FC Casertana 1908",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Francesco Bruno",
@@ -5804,10 +6859,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "529",
         "Squadra di destinazione": "FC Casertana 1908",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Michel Cruciani",
@@ -5815,10 +6872,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "530",
         "Squadra di destinazione": "FC Chiasso",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mattia Desole *",
@@ -5826,21 +6885,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "531",
         "Squadra di destinazione": "FC Chiasso",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Saulo Decarli *",
+        "Nome giocatore originale": "Saulo Decarli *#",
         "Nome giocatore": "Saulo Decarli",
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "532",
         "Squadra di destinazione": "FC Colonia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Slawomir Peszko *",
@@ -5848,10 +6911,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "533",
         "Squadra di destinazione": "FC Fulham",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Maarten Stekelenburg",
@@ -5859,54 +6924,64 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "5.600.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "534",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alfred Duncan *",
+        "Nome giocatore originale": "Alfred Duncan *#",
         "Nome giocatore": "Alfred Duncan",
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "535",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Romanò *",
+        "Nome giocatore originale": "Andrea Romanò *#",
         "Nome giocatore": "Andrea Romanò",
         "Squadra di provenienza": "AC Prato",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "536",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Daniel Bessa *",
+        "Nome giocatore originale": "Daniel Bessa *#",
         "Nome giocatore": "Daniel Bessa",
         "Squadra di provenienza": "Vicenza Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "537",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Denis Alibec *",
+        "Nome giocatore originale": "Denis Alibec *#",
         "Nome giocatore": "Denis Alibec",
         "Squadra di provenienza": "FC Viitorul Constanta",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "538",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Diego Laxalt",
@@ -5914,10 +6989,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Defensor Sporting Club",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "2.300.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "539",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Diego Mella",
@@ -5925,21 +7002,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "540",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Francesco Bardi *",
+        "Nome giocatore originale": "Francesco Bardi *#",
         "Nome giocatore": "Francesco Bardi",
         "Squadra di provenienza": "Novara Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-FC Internazionale",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "541",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gaby Mudingayi",
@@ -5947,21 +7028,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "750.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "542",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giulio Donati *",
+        "Nome giocatore originale": "Giulio Donati *#",
         "Nome giocatore": "Giulio Donati",
         "Squadra di provenienza": "US Grosseto",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "543",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Hugo Campagnaro",
@@ -5969,10 +7054,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "544",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ishak Belfodil",
@@ -5980,10 +7067,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "7.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "545",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Jacopo Galimberti",
@@ -5991,10 +7080,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "546",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Juan Pablo Carrizo",
@@ -6002,10 +7093,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "547",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Caldirola",
@@ -6013,10 +7106,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Cesena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-FC Internazionale",
+        "Serie trasferimento": "B-A",
         "Spesa": "750.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "548",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Tremolada",
@@ -6024,21 +7119,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Como",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "549",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mame Thiam *",
+        "Nome giocatore originale": "Mame Thiam *#",
         "Nome giocatore": "Mame Thiam",
         "Squadra di provenienza": "FC Südtirol - Alto Adige",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "550",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marco Andreolli",
@@ -6046,10 +7145,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "551",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Matías Silvestre",
@@ -6057,21 +7158,25 @@ var trasferimenti = [
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-FC Internazionale",
+        "Serie trasferimento": "B-A",
         "Spesa": "6.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "552",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Bianchetti *",
+        "Nome giocatore originale": "Matteo Bianchetti *#",
         "Nome giocatore": "Matteo Bianchetti",
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "553",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mauro Icardi",
@@ -6079,32 +7184,38 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "6.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "554",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "McDonald Mariga *",
+        "Nome giocatore originale": "McDonald Mariga *#",
         "Nome giocatore": "McDonald Mariga",
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "555",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Michele Rigione *",
+        "Nome giocatore originale": "Michele Rigione *#",
         "Nome giocatore": "Michele Rigione",
         "Squadra di provenienza": "US Grosseto",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "556",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Patrick Olsen",
@@ -6112,21 +7223,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Inter Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "557",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Riccardo Bocalon *",
+        "Nome giocatore originale": "Riccardo Bocalon *#",
         "Nome giocatore": "Riccardo Bocalon",
         "Squadra di provenienza": "FBC Unione Venezia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "558",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Rolando *",
@@ -6134,10 +7249,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Porto",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "500.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "559",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Rubén Botta",
@@ -6145,21 +7262,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "560",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Samuele Longo *",
+        "Nome giocatore originale": "Samuele Longo *#",
         "Nome giocatore": "Samuele Longo",
         "Squadra di provenienza": "RCD Espanyol",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "561",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Saphir Taider",
@@ -6167,32 +7288,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-FC Internazionale",
+        "Serie trasferimento": "A-A",
         "Spesa": "5.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "562",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Benedetti *",
+        "Nome giocatore originale": "Simone Benedetti *#",
         "Nome giocatore": "Simone Benedetti",
         "Squadra di provenienza": "Spezia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-FC Internazionale",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "563",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Pecorini *",
+        "Nome giocatore originale": "Simone Pecorini *#",
         "Nome giocatore": "Simone Pecorini",
         "Squadra di provenienza": "AS Cittadella",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-FC Internazionale",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "564",
         "Squadra di destinazione": "FC Internazionale",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Wallace *",
@@ -6200,10 +7327,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Chelsea",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-FC Internazionale",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "1.500.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "565",
         "Squadra di destinazione": "FC Lausanne-Sport",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Rolf Feltscher",
@@ -6211,10 +7340,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "566",
         "Squadra di destinazione": "FC Lucchese 1905",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Marco Firenze *",
@@ -6222,10 +7353,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "567",
         "Squadra di destinazione": "FC Paris Saint-Germain",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Edinson Cavani",
@@ -6233,10 +7366,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "64.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "568",
         "Squadra di destinazione": "FC Paris Saint-Germain",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Marquinhos",
@@ -6244,10 +7379,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "31.400.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "569",
         "Squadra di destinazione": "FC Paris Saint-Germain",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mohamed Sissoko *",
@@ -6255,21 +7392,25 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "570",
         "Squadra di destinazione": "FC Porto",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Rolando *",
+        "Nome giocatore originale": "Rolando *#",
         "Nome giocatore": "Rolando",
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "571",
         "Squadra di destinazione": "FC Pro Vercelli 1892",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mattia Spezzani *",
@@ -6277,10 +7418,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "572",
         "Squadra di destinazione": "FC Pro Vercelli 1892",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Nazzareno Belfasti",
@@ -6288,10 +7431,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "573",
         "Squadra di destinazione": "FC Pro Vercelli 1892",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Pietro Iemmello",
@@ -6299,10 +7444,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "574",
         "Squadra di destinazione": "FC Pro Vercelli 1892",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Tony Huston *",
@@ -6310,10 +7457,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "575",
         "Squadra di destinazione": "FC Sambiase Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mario Bria",
@@ -6321,10 +7470,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "576",
         "Squadra di destinazione": "FC Schalke 04",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Kevin-Prince Boateng",
@@ -6332,21 +7483,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "10.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "577",
         "Squadra di destinazione": "FC Siviglia",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Tiberio Guarente *",
+        "Nome giocatore originale": "Tiberio Guarente *#",
         "Nome giocatore": "Tiberio Guarente",
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "578",
         "Squadra di destinazione": "FC Southampton",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Pablo Osvaldo",
@@ -6354,10 +7509,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "15.100.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "579",
         "Squadra di destinazione": "FC Südtirol - Alto Adige",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Andrea Molinelli",
@@ -6365,10 +7522,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "580",
         "Squadra di destinazione": "FC Südtirol - Alto Adige",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Simone Corazza *",
@@ -6376,10 +7535,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "581",
         "Squadra di destinazione": "FC Südtirol - Alto Adige",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Simone Dell'Agnello *",
@@ -6387,10 +7548,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "582",
         "Squadra di destinazione": "FC Watford",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Almen Abdi",
@@ -6398,10 +7561,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "583",
         "Squadra di destinazione": "FC Watford",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Cristian Battocchio",
@@ -6409,10 +7574,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "584",
         "Squadra di destinazione": "FC Watford",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Davide Faraoni",
@@ -6420,10 +7587,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "585",
         "Squadra di destinazione": "FC Watford",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Diego Fabbrini",
@@ -6431,10 +7600,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "586",
         "Squadra di destinazione": "FC Watford",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gabriele Angella",
@@ -6442,10 +7613,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "587",
         "Squadra di destinazione": "FC Watford",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Javi Acuña",
@@ -6453,10 +7626,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "588",
         "Squadra di destinazione": "FC Watford",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Lars Ekstrand",
@@ -6464,10 +7639,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "589",
         "Squadra di destinazione": "FC Watford",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Marco Cassetti",
@@ -6475,10 +7652,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "590",
         "Squadra di destinazione": "Feyenoord Rotterdam",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Graziano Pellè",
@@ -6486,10 +7665,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "3.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "591",
         "Squadra di destinazione": "FK Krasnodar",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Andreas Granqvist",
@@ -6497,10 +7678,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "5.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "592",
         "Squadra di destinazione": "Foggia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Francesco Pambianchi *",
@@ -6508,10 +7691,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "593",
         "Squadra di destinazione": "Foggia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matteo Mantovani *",
@@ -6519,10 +7704,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "594",
         "Squadra di destinazione": "Fortuna Düsseldorf",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Erwin Hoffer",
@@ -6530,10 +7717,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "595",
         "Squadra di destinazione": "Frosinone Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Daniel Ciofani",
@@ -6541,10 +7730,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "596",
         "Squadra di destinazione": "FSV Frankfurt",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Nestor Djengoue",
@@ -6552,10 +7743,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "597",
         "Squadra di destinazione": "Galatasaray Istanbul",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Felipe Melo",
@@ -6563,10 +7756,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "3.750.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "598",
         "Squadra di destinazione": "GD Estoril-Praia",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Yohan Tavares",
@@ -6574,10 +7769,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "599",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Adrian Stoian *",
@@ -6585,21 +7782,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "600",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Ahmed Barusso *",
+        "Nome giocatore originale": "Ahmed Barusso *#",
         "Nome giocatore": "Ahmed Barusso",
         "Squadra di provenienza": "Novara Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "601",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Albano Bizzarri",
@@ -6607,21 +7808,25 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "300.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "602",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alberto Gilardino *",
+        "Nome giocatore originale": "Alberto Gilardino *#",
         "Nome giocatore": "Alberto Gilardino",
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "603",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alessandro Gamberini *",
@@ -6629,21 +7834,25 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "604",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alessio De Bode *",
+        "Nome giocatore originale": "Alessio De Bode *#",
         "Nome giocatore": "Alessio De Bode",
         "Squadra di provenienza": "FC Esperia Viareggio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "605",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Allan Blaze",
@@ -6651,32 +7860,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "606",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Doninelli *",
+        "Nome giocatore originale": "Andrea Doninelli *#",
         "Nome giocatore": "Andrea Doninelli",
         "Squadra di provenienza": "SS Juve Stabia",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "607",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Parodi *",
+        "Nome giocatore originale": "Andrea Parodi *#",
         "Nome giocatore": "Andrea Parodi",
         "Squadra di provenienza": "AC Pavia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "608",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Daniane Jawad",
@@ -6684,10 +7899,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FK Viktoria Zizkov",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "609",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Daniel Jara",
@@ -6695,65 +7912,77 @@ var trasferimenti = [
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "610",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Davide Bertoncini *",
+        "Nome giocatore originale": "Davide Bertoncini *#",
         "Nome giocatore": "Davide Bertoncini",
         "Squadra di provenienza": "Frosinone Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "611",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Davide Biondini *",
+        "Nome giocatore originale": "Davide Biondini *#",
         "Nome giocatore": "Davide Biondini",
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "612",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Dejan Lazarevic *",
+        "Nome giocatore originale": "Dejan Lazarevic *#",
         "Nome giocatore": "Dejan Lazarevic",
         "Squadra di provenienza": "Modena FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "613",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Diego Polenta *",
+        "Nome giocatore originale": "Diego Polenta *#",
         "Nome giocatore": "Diego Polenta",
         "Squadra di provenienza": "AS Bari",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "614",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Eduardo *",
+        "Nome giocatore originale": "Eduardo *#",
         "Nome giocatore": "Eduardo",
         "Squadra di provenienza": "Istanbul Büyüksehir Belediyespor",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "615",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Emanuele Calaiò *",
@@ -6761,43 +7990,51 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "616",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Eugenio Lamanna *",
+        "Nome giocatore originale": "Eugenio Lamanna *#",
         "Nome giocatore": "Eugenio Lamanna",
         "Squadra di provenienza": "AS Bari",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "617",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Felipe Seymour *",
+        "Nome giocatore originale": "Felipe Seymour *#",
         "Nome giocatore": "Felipe Seymour",
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "618",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Francesco Acerbi *",
+        "Nome giocatore originale": "Francesco Acerbi *#",
         "Nome giocatore": "Francesco Acerbi",
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "619",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Francesco Lodi",
@@ -6805,43 +8042,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "620",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giacomo Beretta *",
+        "Nome giocatore originale": "Giacomo Beretta *#",
         "Nome giocatore": "Giacomo Beretta",
         "Squadra di provenienza": "AC Pavia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "621",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giacomo Bindi *",
+        "Nome giocatore originale": "Giacomo Bindi *#",
         "Nome giocatore": "Giacomo Bindi",
         "Squadra di provenienza": "US Latina Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "622",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giammario Piscitella *",
+        "Nome giocatore originale": "Giammario Piscitella *#",
         "Nome giocatore": "Giammario Piscitella",
         "Squadra di provenienza": "Modena FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "623",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Giannis Fetfatzidis",
@@ -6849,10 +8094,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Olympiacos Pireo",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "4.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "624",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Giovanni Marchese",
@@ -6860,10 +8107,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "625",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Isaac Cofie",
@@ -6871,10 +8120,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "3.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "626",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Jami Rafati",
@@ -6882,10 +8133,12 @@ var trasferimenti = [
         "Squadra di provenienza": "West Ham United U21",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "627",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Kevin Vinetot",
@@ -6893,10 +8146,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Crotone FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "1.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "628",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Antonini",
@@ -6904,10 +8159,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "629",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Lukas Zima",
@@ -6915,10 +8172,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "630",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marco Cane",
@@ -6926,21 +8185,25 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Aprilia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "631",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mario Sampirisi *",
+        "Nome giocatore originale": "Mario Sampirisi *#",
         "Nome giocatore": "Mario Sampirisi",
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "632",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mario Santana",
@@ -6948,54 +8211,64 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "3.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "633",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Massimo Bonanni *",
+        "Nome giocatore originale": "Massimo Bonanni *#",
         "Nome giocatore": "Massimo Bonanni",
         "Squadra di provenienza": "FC Lugano",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "634",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Meucci *",
+        "Nome giocatore originale": "Matteo Meucci *#",
         "Nome giocatore": "Matteo Meucci",
         "Squadra di provenienza": "SS Barletta Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "635",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mattia Destro *",
+        "Nome giocatore originale": "Mattia Destro *#",
         "Nome giocatore": "Mattia Destro",
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "636",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mattia Perin *",
+        "Nome giocatore originale": "Mattia Perin *#",
         "Nome giocatore": "Mattia Perin",
         "Squadra di provenienza": "Delfino Pescara 1936",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "637",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Matuzalém",
@@ -7003,10 +8276,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "638",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Michael Ventre",
@@ -7014,10 +8289,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa Giovanili",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "639",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Moussa Konaté *",
@@ -7025,32 +8302,38 @@ var trasferimenti = [
         "Squadra di provenienza": "FK Krasnodar",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "640",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Niccolò Romero *",
+        "Nome giocatore originale": "Niccolò Romero *#",
         "Nome giocatore": "Niccolò Romero",
         "Squadra di provenienza": "AC Pavia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "641",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nicola Pasini *",
+        "Nome giocatore originale": "Nicola Pasini *#",
         "Nome giocatore": "Nicola Pasini",
         "Squadra di provenienza": "Spezia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "642",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Panagiotis Tachtsidis",
@@ -7058,10 +8341,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "3.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "643",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ricardo Centurión *",
@@ -7069,21 +8354,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Racing Club de Avellaneda",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "644",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Riccardo Improta *",
+        "Nome giocatore originale": "Riccardo Improta *#",
         "Nome giocatore": "Riccardo Improta",
         "Squadra di provenienza": "SS Juve Stabia",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "645",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Rodney Strasser",
@@ -7091,21 +8380,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "4.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "646",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Sebastián Ribas *",
+        "Nome giocatore originale": "Sebastián Ribas *#",
         "Nome giocatore": "Sebastián Ribas",
         "Squadra di provenienza": "AS Monaco",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "647",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Sebastien De Maio",
@@ -7113,21 +8406,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Brescia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "648",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Selim Ben Djemia *",
+        "Nome giocatore originale": "Selim Ben Djemia *#",
         "Nome giocatore": "Selim Ben Djemia",
         "Squadra di provenienza": "Astra Giurgiu",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "649",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Sime Vrsaljko",
@@ -7135,21 +8432,25 @@ var trasferimenti = [
         "Squadra di provenienza": "GNK Dinamo Zagabria",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "4.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "650",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Stefano Sturaro *",
+        "Nome giocatore originale": "Stefano Sturaro *#",
         "Nome giocatore": "Stefano Sturaro",
         "Squadra di provenienza": "Modena FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "651",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Tiberio Velocci",
@@ -7157,65 +8458,77 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "652",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Valerio Verre *",
+        "Nome giocatore originale": "Valerio Verre *#",
         "Nome giocatore": "Valerio Verre",
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "653",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Valter Birsa *",
+        "Nome giocatore originale": "Valter Birsa *#",
         "Nome giocatore": "Valter Birsa",
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Genoa CFC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "654",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Vincenzo Rennella *",
+        "Nome giocatore originale": "Vincenzo Rennella *#",
         "Nome giocatore": "Vincenzo Rennella",
         "Squadra di provenienza": "Córdoba CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Genoa CFC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "655",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "William *",
+        "Nome giocatore originale": "William *#",
         "Nome giocatore": "William",
         "Squadra di provenienza": "Modena FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "656",
         "Squadra di destinazione": "Genoa CFC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Zé Eduardo *",
+        "Nome giocatore originale": "Zé Eduardo *#",
         "Nome giocatore": "Zé Eduardo",
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Genoa CFC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "657",
         "Squadra di destinazione": "Girona FC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Adrià Carmona",
@@ -7223,10 +8536,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "658",
         "Squadra di destinazione": "Gornik Zabrze",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Blazej Augustyn",
@@ -7234,10 +8549,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "659",
         "Squadra di destinazione": "Granada CF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alexandre Coeff *",
@@ -7245,10 +8562,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "660",
         "Squadra di destinazione": "Granada CF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matías Campos *",
@@ -7256,10 +8575,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "661",
         "Squadra di destinazione": "Granada CF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Odion Ighalo *",
@@ -7267,10 +8588,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "662",
         "Squadra di destinazione": "Granada CF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Orestis Karnezis *",
@@ -7278,10 +8601,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "663",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alejandro González",
@@ -7289,10 +8614,12 @@ var trasferimenti = [
         "Squadra di provenienza": "CA Peñarol Montevideo",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "2.400.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "664",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alessandro Agostini",
@@ -7300,10 +8627,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Hellas Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "300.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "665",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Bosko Jankovic *",
@@ -7311,21 +8640,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Hellas Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "666",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Daniele Ragatzu *",
+        "Nome giocatore originale": "Daniele Ragatzu *#",
         "Nome giocatore": "Daniele Ragatzu",
         "Squadra di provenienza": "FC Pro Vercelli 1892",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "667",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "David Speziale",
@@ -7333,43 +8666,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Milan Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "668",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Dino Martinovic *",
+        "Nome giocatore originale": "Dino Martinovic *#",
         "Nome giocatore": "Dino Martinovic",
         "Squadra di provenienza": "UC AlbinoLeffe",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "669",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Enrico Fornasa *",
+        "Nome giocatore originale": "Enrico Fornasa *#",
         "Nome giocatore": "Enrico Fornasa",
         "Squadra di provenienza": "ASD Calcio Cerea 1912",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "670",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Ernesto Torregrossa *",
+        "Nome giocatore originale": "Ernesto Torregrossa *#",
         "Nome giocatore": "Ernesto Torregrossa",
         "Squadra di provenienza": "AC Lumezzane",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "671",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ezequiel Cirigliano *",
@@ -7377,10 +8718,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Club Atlético River Plate",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "300.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "672",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Fabrizio Cacciatore",
@@ -7388,21 +8731,25 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Hellas Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "673",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Federico Da Vià *",
+        "Nome giocatore originale": "Federico Da Vià *#",
         "Nome giocatore": "Federico Da Vià",
         "Squadra di provenienza": "US Pianese",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "674",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Filippo De Col",
@@ -7410,21 +8757,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Virtus Entella",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "675",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Francesco Cangi *",
+        "Nome giocatore originale": "Francesco Cangi *#",
         "Nome giocatore": "Francesco Cangi",
         "Squadra di provenienza": "Perugia Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "676",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Francesco Zampano",
@@ -7432,32 +8783,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Virtus Entella",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "677",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gennaro Esposito *",
+        "Nome giocatore originale": "Gennaro Esposito *#",
         "Nome giocatore": "Gennaro Esposito",
         "Squadra di provenienza": "Perugia Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "678",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giuseppe Russo *",
+        "Nome giocatore originale": "Giuseppe Russo *#",
         "Nome giocatore": "Giuseppe Russo",
         "Squadra di provenienza": "Ascoli Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "679",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Jacopo Sala",
@@ -7465,10 +8822,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Amburgo SV",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "100.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "680",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Juan Iturbe *",
@@ -7476,21 +8835,25 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Porto",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "681",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Kris Jogan *",
+        "Nome giocatore originale": "Kris Jogan *#",
         "Nome giocatore": "Kris Jogan",
         "Squadra di provenienza": "HNK Rijeka",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "682",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Lapis Kiakis",
@@ -7498,10 +8861,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Varese Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "683",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Toni",
@@ -7509,32 +8874,38 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Hellas Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "684",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luca Viviani *",
+        "Nome giocatore originale": "Luca Viviani *#",
         "Nome giocatore": "Luca Viviani",
         "Squadra di provenienza": "Aurora Pro Patria",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "685",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Manuel Mancini *",
+        "Nome giocatore originale": "Manuel Mancini *#",
         "Nome giocatore": "Manuel Mancini",
         "Squadra di provenienza": "US Salernitana 1919",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "686",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marco Donadel *",
@@ -7542,10 +8913,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Hellas Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "687",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Massimo Donati",
@@ -7553,21 +8926,25 @@ var trasferimenti = [
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Hellas Verona",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "688",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Abbate *",
+        "Nome giocatore originale": "Matteo Abbate *#",
         "Nome giocatore": "Matteo Abbate",
         "Squadra di provenienza": "FC Pro Vercelli 1892",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "689",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Matteo Bianchetti",
@@ -7575,10 +8952,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Hellas Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "690",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Matteo Rubin *",
@@ -7586,21 +8965,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Hellas Verona",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "691",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mattia Spezzani *",
+        "Nome giocatore originale": "Mattia Spezzani *#",
         "Nome giocatore": "Mattia Spezzani",
         "Squadra di provenienza": "Mantova FC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "692",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Michelangelo Albertazzi",
@@ -7608,10 +8991,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Hellas Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "693",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Nikolay Mihaylov",
@@ -7619,21 +9004,25 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Twente Enschede",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "694",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Paolo Grossi *",
+        "Nome giocatore originale": "Paolo Grossi *#",
         "Nome giocatore": "Paolo Grossi",
         "Squadra di provenienza": "FC Pro Vercelli 1892",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "695",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Rafael Marques",
@@ -7641,10 +9030,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Clube Atlético Mineiro",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "696",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Raphael Martinho",
@@ -7652,10 +9043,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Hellas Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "900.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "697",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Rômulo *",
@@ -7663,10 +9056,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Hellas Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "698",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Samuele Longo *",
@@ -7674,21 +9069,25 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Hellas Verona",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "699",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Calvano *",
+        "Nome giocatore originale": "Simone Calvano *#",
         "Nome giocatore": "Simone Calvano",
         "Squadra di provenienza": "San Marino Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "700",
         "Squadra di destinazione": "Hellas Verona",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Simon Laner",
@@ -7696,10 +9095,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC AlbinoLeffe",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Hellas Verona",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "300.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "701",
         "Squadra di destinazione": "Hércules CF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Abdoul Sissoko *",
@@ -7707,10 +9108,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "702",
         "Squadra di destinazione": "Hércules CF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Dioni *",
@@ -7718,10 +9121,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "703",
         "Squadra di destinazione": "Hércules CF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matías Campos *",
@@ -7729,10 +9134,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "704",
         "Squadra di destinazione": "HNK Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Nabila Samba *",
@@ -7740,21 +9147,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "705",
         "Squadra di destinazione": "HNK Hajduk Spalato",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Josip Radosevic *",
+        "Nome giocatore originale": "Josip Radosevic *#",
         "Nome giocatore": "Josip Radosevic",
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "706",
         "Squadra di destinazione": "Inter Primavera",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Michael Ventre",
@@ -7762,10 +9173,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "707",
         "Squadra di destinazione": "JEF United Chiba",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Takayuki Morimoto",
@@ -7773,10 +9186,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "300.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "708",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alberto Gallinetta",
@@ -7784,21 +9199,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Juventus FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "709",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alberto Masi *",
+        "Nome giocatore originale": "Alberto Masi *#",
         "Nome giocatore": "Alberto Masi",
         "Squadra di provenienza": "Ternana Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Juventus FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "710",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Angelo Ogbonna",
@@ -7806,32 +9225,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Juventus FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "13.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "711",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Carlo Ilari *",
+        "Nome giocatore originale": "Carlo Ilari *#",
         "Nome giocatore": "Carlo Ilari",
         "Squadra di provenienza": "AC FeralpiSalò",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "712",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Carlos García *",
+        "Nome giocatore originale": "Carlos García *#",
         "Nome giocatore": "Carlos García",
         "Squadra di provenienza": "Perugia Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "713",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Carlos Tévez",
@@ -7839,10 +9264,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Manchester City",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "9.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "714",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Elio De Silvestro",
@@ -7850,10 +9277,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Pro Vercelli 1892",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "715",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Elvis Kabashi",
@@ -7861,21 +9290,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Empoli Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "1.800.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "716",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Fausto Rossi *",
+        "Nome giocatore originale": "Fausto Rossi *#",
         "Nome giocatore": "Fausto Rossi",
         "Squadra di provenienza": "Brescia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Juventus FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "717",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Federico Peluso",
@@ -7883,21 +9316,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Juventus FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "4.800.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "718",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Felipe Melo *",
+        "Nome giocatore originale": "Felipe Melo *#",
         "Nome giocatore": "Felipe Melo",
         "Squadra di provenienza": "Galatasaray Istanbul",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "719",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Fernando Llorente",
@@ -7905,43 +9342,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Athletic Club",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "720",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Francesco Margiotta *",
+        "Nome giocatore originale": "Francesco Margiotta *#",
         "Nome giocatore": "Francesco Margiotta",
         "Squadra di provenienza": "Carrarese Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "721",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gabriel *",
+        "Nome giocatore originale": "Gabriel *#",
         "Nome giocatore": "Gabriel",
         "Squadra di provenienza": "FC Pro Vercelli 1892",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "722",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Leonardo Spinazzola *",
+        "Nome giocatore originale": "Leonardo Spinazzola *#",
         "Nome giocatore": "Leonardo Spinazzola",
         "Squadra di provenienza": "SS Virtus Lanciano",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Juventus FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "723",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Castiglia",
@@ -7949,32 +9394,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Vicenza Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "724",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Manolo Gabbiadini *",
+        "Nome giocatore originale": "Manolo Gabbiadini *#",
         "Nome giocatore": "Manolo Gabbiadini",
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Juventus FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "725",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Manuel Giandonato *",
+        "Nome giocatore originale": "Manuel Giandonato *#",
         "Nome giocatore": "Manuel Giandonato",
         "Squadra di provenienza": "AC Cesena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Juventus FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "726",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marcel Büchel",
@@ -7982,43 +9433,51 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Juventus FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "727",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Costantino *",
+        "Nome giocatore originale": "Marco Costantino *#",
         "Nome giocatore": "Marco Costantino",
         "Squadra di provenienza": "Valle d'Aosta Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "728",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Motta *",
+        "Nome giocatore originale": "Marco Motta *#",
         "Nome giocatore": "Marco Motta",
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Juventus FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "729",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Liviero *",
+        "Nome giocatore originale": "Matteo Liviero *#",
         "Nome giocatore": "Matteo Liviero",
         "Squadra di provenienza": "Perugia Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "730",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mbaye Diagne",
@@ -8026,10 +9485,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ASD Bra",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "731",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Nazzareno Belfasti",
@@ -8037,98 +9498,116 @@ var trasferimenti = [
         "Squadra di provenienza": "Modena FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Juventus FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "732",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nicola Leali *",
+        "Nome giocatore originale": "Nicola Leali *#",
         "Nome giocatore": "Nicola Leali",
         "Squadra di provenienza": "SS Virtus Lanciano",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Juventus FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "733",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Niko Bianconi *",
+        "Nome giocatore originale": "Niko Bianconi *#",
         "Nome giocatore": "Niko Bianconi",
         "Squadra di provenienza": "US Poggibonsi",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "734",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Ouasim Bouy *",
+        "Nome giocatore originale": "Ouasim Bouy *#",
         "Nome giocatore": "Ouasim Bouy",
         "Squadra di provenienza": "Brescia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Juventus FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "735",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Prince-Désir Gouano *",
+        "Nome giocatore originale": "Prince-Désir Gouano *#",
         "Nome giocatore": "Prince-Désir Gouano",
         "Squadra di provenienza": "Vicenza Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "736",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Raffaele Alcibiade *",
+        "Nome giocatore originale": "Raffaele Alcibiade *#",
         "Nome giocatore": "Raffaele Alcibiade",
         "Squadra di provenienza": "Budapest Honvéd FC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "737",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Raffaele Bianco *",
+        "Nome giocatore originale": "Raffaele Bianco *#",
         "Nome giocatore": "Raffaele Bianco",
         "Squadra di provenienza": "Carpi FC 1909",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Juventus FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "738",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Reto Ziegler *",
+        "Nome giocatore originale": "Reto Ziegler *#",
         "Nome giocatore": "Reto Ziegler",
         "Squadra di provenienza": "Fenerbahce Istanbul",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Juventus FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "739",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Richmond Boakye *",
+        "Nome giocatore originale": "Richmond Boakye *#",
         "Nome giocatore": "Richmond Boakye",
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Juventus FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "740",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Simone Zaza",
@@ -8136,32 +9615,38 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Juventus FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "3.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "741",
         "Squadra di destinazione": "Juventus FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Timothy Nocchi *",
+        "Nome giocatore originale": "Timothy Nocchi *#",
         "Nome giocatore": "Timothy Nocchi",
         "Squadra di provenienza": "SS Juve Stabia",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Juventus FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "742",
         "Squadra di destinazione": "Karpaty Lviv",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Danilo Avelar *",
+        "Nome giocatore originale": "Danilo Avelar *#",
         "Nome giocatore": "Danilo Avelar",
         "Squadra di provenienza": "Cagliari Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Cagliari Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "743",
         "Squadra di destinazione": "Kayseri Erciyesspor",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Bakaye Traoré *",
@@ -8169,10 +9654,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "744",
         "Squadra di destinazione": "L'Aquila Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Amato Ciciretti *",
@@ -8180,10 +9667,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "745",
         "Squadra di destinazione": "LB Châteauroux",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Attila Filkor *",
@@ -8191,21 +9680,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "746",
         "Squadra di destinazione": "Lierse SK",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Dolly Menga *",
+        "Nome giocatore originale": "Dolly Menga *#",
         "Nome giocatore": "Dolly Menga",
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "747",
         "Squadra di destinazione": "Lleida Esportiu",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Amara Konate",
@@ -8213,10 +9706,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "748",
         "Squadra di destinazione": "Lleida Esportiu",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Babù",
@@ -8224,10 +9719,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "749",
         "Squadra di destinazione": "Málaga CF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Fernando Tissone",
@@ -8235,10 +9732,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "750",
         "Squadra di destinazione": "Málaga CF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mounir El Hamdaoui *",
@@ -8246,10 +9745,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "751",
         "Squadra di destinazione": "Manchester City",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Stevan Jovetic",
@@ -8257,10 +9758,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "26.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "752",
         "Squadra di destinazione": "Mantova FC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Luciano",
@@ -8268,10 +9771,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "753",
         "Squadra di destinazione": "Mariano Keller",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Carlo Colella",
@@ -8279,10 +9784,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "754",
         "Squadra di destinazione": "Metalist Kharkiv",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alejandro Gómez",
@@ -8290,10 +9797,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "7.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "755",
         "Squadra di destinazione": "Metalist Kharkiv",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Jonathan Cristaldo *",
@@ -8301,10 +9810,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "756",
         "Squadra di destinazione": "Modena FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Alessandro Potenza",
@@ -8312,10 +9823,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "757",
         "Squadra di destinazione": "Modena FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Amidu Salifu *",
@@ -8323,10 +9836,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "758",
         "Squadra di destinazione": "Modena FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Andrea Mazzarani",
@@ -8334,10 +9849,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "759",
         "Squadra di destinazione": "Modena FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Francesco Signori",
@@ -8345,10 +9862,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "760",
         "Squadra di destinazione": "Modena FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Juan Surraco",
@@ -8356,10 +9875,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "761",
         "Squadra di destinazione": "Modena FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Khouma Babacar *",
@@ -8367,10 +9888,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "762",
         "Squadra di destinazione": "Modena FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luca Calapai",
@@ -8378,10 +9901,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "763",
         "Squadra di destinazione": "Modena FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luca Rizzo *",
@@ -8389,10 +9914,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "764",
         "Squadra di destinazione": "Modena FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Marco Costantino",
@@ -8400,10 +9927,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "765",
         "Squadra di destinazione": "Modena FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Salvatore Molina *",
@@ -8411,10 +9940,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "766",
         "Squadra di destinazione": "Modena FC",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Tommaso Bianchi *",
@@ -8422,10 +9953,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "767",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Abel Gigli *",
@@ -8433,10 +9966,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "768",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alen Jogan *",
@@ -8444,10 +9979,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "769",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessandro Favalli *",
@@ -8455,10 +9992,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "770",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alex Cordaz *",
@@ -8466,10 +10005,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "771",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Bright Addae *",
@@ -8477,10 +10018,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "772",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Daniele Bazzoffia *",
@@ -8488,10 +10031,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "773",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Francesco Checcucci *",
@@ -8499,10 +10044,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "774",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gianluca Lapadula *",
@@ -8510,10 +10057,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "775",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gianvito Misuraca *",
@@ -8521,10 +10070,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "776",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Jorman Aguilar *",
@@ -8532,10 +10083,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "777",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Luca Berardocco *",
@@ -8543,10 +10096,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "778",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Massimo Coda *",
@@ -8554,10 +10109,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "779",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Nicolas Sumsky *",
@@ -8565,10 +10122,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "780",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Ronaldo Vanin *",
@@ -8576,10 +10135,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "781",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Solomon Enow *",
@@ -8587,10 +10148,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "782",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Tomas Danilevicius *",
@@ -8598,10 +10161,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "783",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Uros Celcer *",
@@ -8609,10 +10174,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "784",
         "Squadra di destinazione": "ND Gorica",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Vicente *",
@@ -8620,10 +10187,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "785",
         "Squadra di destinazione": "New York Cosmos",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessandro Noselli",
@@ -8631,10 +10200,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "786",
         "Squadra di destinazione": "NK Maribor",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Pablo Ceppelini *",
@@ -8642,10 +10213,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Cagliari Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Cagliari Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "787",
         "Squadra di destinazione": "NK Triglav Kranj",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Uros Palibrk",
@@ -8653,10 +10226,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "788",
         "Squadra di destinazione": "Norwich City",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Javier Garrido",
@@ -8664,10 +10239,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "1.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "789",
         "Squadra di destinazione": "Novara Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Daniele Mori *",
@@ -8675,10 +10252,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "790",
         "Squadra di destinazione": "Novara Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Gianmario Comi *",
@@ -8686,10 +10265,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "791",
         "Squadra di destinazione": "Novara Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Jorge Martínez *",
@@ -8697,32 +10278,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "792",
         "Squadra di destinazione": "Novara Calcio",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Luigi Giorgi *",
+        "Nome giocatore originale": "Luigi Giorgi *#",
         "Nome giocatore": "Luigi Giorgi",
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "793",
         "Squadra di destinazione": "Novara Calcio",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Marco Rigoni *",
+        "Nome giocatore originale": "Marco Rigoni *#",
         "Nome giocatore": "Marco Rigoni",
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "794",
         "Squadra di destinazione": "Novara Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Simone Salviato",
@@ -8730,10 +10317,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "400.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "795",
         "Squadra di destinazione": "Nuova Cosenza Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Edoardo Blondett *",
@@ -8741,10 +10330,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "796",
         "Squadra di destinazione": "OFI Kreta",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Zé Eduardo *",
@@ -8752,10 +10343,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "797",
         "Squadra di destinazione": "Oldham Athletic",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matteo Lanzoni",
@@ -8763,10 +10356,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "798",
         "Squadra di destinazione": "Paganese Calcio 1926",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Antonio Meola *",
@@ -8774,10 +10369,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "799",
         "Squadra di destinazione": "Paganese Calcio 1926",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Carmine De Sena *",
@@ -8785,10 +10382,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "800",
         "Squadra di destinazione": "Paganese Calcio 1926",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Dino Martinovic *",
@@ -8796,10 +10395,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "801",
         "Squadra di destinazione": "Paganese Calcio 1926",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Domenico Franco *",
@@ -8807,10 +10408,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "802",
         "Squadra di destinazione": "Paganese Calcio 1926",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Massimo Zamparo *",
@@ -8818,10 +10421,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "803",
         "Squadra di destinazione": "Paganese Calcio 1926",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mauro Cioffi *",
@@ -8829,10 +10434,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "804",
         "Squadra di destinazione": "Paganese Calcio 1926",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mirko Velardi *",
@@ -8840,10 +10447,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "805",
         "Squadra di destinazione": "Paganese Calcio 1926",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Moreno Beretta *",
@@ -8851,10 +10460,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "806",
         "Squadra di destinazione": "Paganese Calcio 1926",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Soma Novothny *",
@@ -8862,10 +10473,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "807",
         "Squadra di destinazione": "Paganese Calcio 1926",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Tomas Svedkauskas *",
@@ -8873,10 +10486,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "808",
         "Squadra di destinazione": "Paganese Calcio 1926",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "William *",
@@ -8884,10 +10499,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "809",
         "Squadra di destinazione": "PAOK Salonicco",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Nikolaos Spyropoulos",
@@ -8895,10 +10512,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "810",
         "Squadra di destinazione": "PAOK Salonicco",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Sotirios Ninis *",
@@ -8906,10 +10525,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "811",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Abdelaye Diakité",
@@ -8917,10 +10538,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Aprilia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "812",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Abdelkader Ghezzal",
@@ -8928,21 +10551,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Bari",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "813",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Abel Gigli *",
+        "Nome giocatore originale": "Abel Gigli *#",
         "Nome giocatore": "Abel Gigli",
         "Squadra di provenienza": "SSD Chieti",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "814",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Afriyie Acquah *",
@@ -8950,10 +10577,12 @@ var trasferimenti = [
         "Squadra di provenienza": "TSG 1899 Hoffenheim",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "815",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alberto Cerri",
@@ -8961,21 +10590,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma Giovanili",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "816",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alberto Gallinetta *",
+        "Nome giocatore originale": "Alberto Gallinetta *#",
         "Nome giocatore": "Alberto Gallinetta",
         "Squadra di provenienza": "AC FeralpiSalò",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "817",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alberto Giuliatto",
@@ -8983,10 +10616,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ASG Nocerina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "818",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alen Jogan",
@@ -8994,32 +10629,38 @@ var trasferimenti = [
         "Squadra di provenienza": "ND Gorica",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "819",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alessandro De Vitis *",
+        "Nome giocatore originale": "Alessandro De Vitis *#",
         "Nome giocatore": "Alessandro De Vitis",
         "Squadra di provenienza": "Calcio Padova",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "820",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alessandro Elia *",
+        "Nome giocatore originale": "Alessandro Elia *#",
         "Nome giocatore": "Alessandro Elia",
         "Squadra di provenienza": "Arzanese Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "821",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alessandro Favalli",
@@ -9027,10 +10668,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Cremonese",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "822",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alessandro Ferretti",
@@ -9038,10 +10681,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Foligno Berretti",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "823",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alessandro Gozzi",
@@ -9049,21 +10694,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Savona 1907 FBC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "824",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alessandro Iacobucci *",
+        "Nome giocatore originale": "Alessandro Iacobucci *#",
         "Nome giocatore": "Alessandro Iacobucci",
         "Squadra di provenienza": "Spezia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "825",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alessandro Luparini",
@@ -9071,10 +10720,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AD Voluntas Spoleto",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "826",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alessandro Piacenti",
@@ -9082,32 +10733,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Foligno Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "827",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alessandro Vecchi *",
+        "Nome giocatore originale": "Alessandro Vecchi *#",
         "Nome giocatore": "Alessandro Vecchi",
         "Squadra di provenienza": "Mantova FC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "828",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alessio Manzoni *",
+        "Nome giocatore originale": "Alessio Manzoni *#",
         "Nome giocatore": "Alessio Manzoni",
         "Squadra di provenienza": "AS Gubbio 1910",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "829",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alex Cordaz",
@@ -9115,10 +10772,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Cittadella",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "830",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Giallombardo",
@@ -9126,43 +10785,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Ascoli Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "831",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Pappaianni Lenzi *",
+        "Nome giocatore originale": "Andrea Pappaianni Lenzi *#",
         "Nome giocatore": "Andrea Pappaianni Lenzi",
         "Squadra di provenienza": "US Alessandria 1912",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "832",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Rispoli *",
+        "Nome giocatore originale": "Andrea Rispoli *#",
         "Nome giocatore": "Andrea Rispoli",
         "Squadra di provenienza": "Calcio Padova",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "833",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Rossi *",
+        "Nome giocatore originale": "Andrea Rossi *#",
         "Nome giocatore": "Andrea Rossi",
         "Squadra di provenienza": "AS Bari",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "834",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Scicchitano",
@@ -9170,21 +10837,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "835",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Angelo Bencivenga *",
+        "Nome giocatore originale": "Angelo Bencivenga *#",
         "Nome giocatore": "Angelo Bencivenga",
         "Squadra di provenienza": "Ternana Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "836",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Angelo Tartaglia",
@@ -9192,10 +10863,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Andria BAT",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "837",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Antonio Cassano *",
@@ -9203,10 +10876,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "838",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Antonio Maglia",
@@ -9214,32 +10889,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Vigor Lamezia Juniores",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "839",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Bongoura Thiam *",
+        "Nome giocatore originale": "Bongoura Thiam *#",
         "Nome giocatore": "Bongoura Thiam",
         "Squadra di provenienza": "AC Bellaria Igea Marina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "840",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Bright Addae *",
+        "Nome giocatore originale": "Bright Addae *#",
         "Nome giocatore": "Bright Addae",
         "Squadra di provenienza": "Crotone FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "841",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Carlo Crialese",
@@ -9247,10 +10928,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Vigor Lamezia Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "842",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Carlos García",
@@ -9258,10 +10941,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "843",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Carmine De Sena",
@@ -9269,10 +10954,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Portogruaro-Summaga",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "844",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Cosimo Chiricò",
@@ -9280,10 +10967,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Lecce",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "845",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Cristiano Spirito",
@@ -9291,21 +10980,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Melfi",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "846",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Cristian Pedrinelli *",
+        "Nome giocatore originale": "Cristian Pedrinelli *#",
         "Nome giocatore": "Cristian Pedrinelli",
         "Squadra di provenienza": "AC FeralpiSalò",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "847",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Cristóbal Jorquera",
@@ -9313,43 +11006,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "848",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Daniel Ciofani *",
+        "Nome giocatore originale": "Daniel Ciofani *#",
         "Nome giocatore": "Daniel Ciofani",
         "Squadra di provenienza": "Perugia Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "849",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Daniele Bazzoffia *",
+        "Nome giocatore originale": "Daniele Bazzoffia *#",
         "Nome giocatore": "Daniele Bazzoffia",
         "Squadra di provenienza": "AS Gubbio 1910",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "850",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Daniele Bernasconi *",
+        "Nome giocatore originale": "Daniele Bernasconi *#",
         "Nome giocatore": "Daniele Bernasconi",
         "Squadra di provenienza": "FC Fondi 1922",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "851",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Daniele Gragnoli",
@@ -9357,21 +11058,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Ascoli Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "852",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Danilo Pereira *",
+        "Nome giocatore originale": "Danilo Pereira *#",
         "Nome giocatore": "Danilo Pereira",
         "Squadra di provenienza": "Roda JC Kerkrade",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "853",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Denilson",
@@ -9379,32 +11084,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Crotone FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "1.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "854",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Diego De Giorgi *",
+        "Nome giocatore originale": "Diego De Giorgi *#",
         "Nome giocatore": "Diego De Giorgi",
         "Squadra di provenienza": "FC Fondi 1922",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "855",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Diego Mella *",
+        "Nome giocatore originale": "Diego Mella *#",
         "Nome giocatore": "Diego Mella",
         "Squadra di provenienza": "San Marino Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "856",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Domenico Mungo",
@@ -9412,21 +11123,25 @@ var trasferimenti = [
         "Squadra di provenienza": "SSD Chieti",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "857",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Dorlan Pabón *",
+        "Nome giocatore originale": "Dorlan Pabón *#",
         "Nome giocatore": "Dorlan Pabón",
         "Squadra di provenienza": "Real Betis Balompié",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "858",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Edoardo Pacini",
@@ -9434,21 +11149,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Bellaria Igea Marina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "859",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Emiliano Storani *",
+        "Nome giocatore originale": "Emiliano Storani *#",
         "Nome giocatore": "Emiliano Storani",
         "Squadra di provenienza": "AS Martina Franca",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "860",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Emmanuel Cascione",
@@ -9456,32 +11175,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Delfino Pescara 1936",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "861",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Fabio Lebran *",
+        "Nome giocatore originale": "Fabio Lebran *#",
         "Nome giocatore": "Fabio Lebran",
         "Squadra di provenienza": "Perugia Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "862",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Federico Meacci *",
+        "Nome giocatore originale": "Federico Meacci *#",
         "Nome giocatore": "Federico Meacci",
         "Squadra di provenienza": "US Gavorrano",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "863",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Felipe",
@@ -9489,10 +11214,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "864",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Filip Jankovic",
@@ -9500,10 +11227,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Stella Rossa Belgrado U19",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "865",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Francesco Calcagno",
@@ -9511,10 +11240,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Milazzo",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "866",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Francesco Checcucci",
@@ -9522,10 +11253,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Crotone FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "867",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Francesco Finocchio",
@@ -9533,32 +11266,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "868",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Francesco Modesto *",
+        "Nome giocatore originale": "Francesco Modesto *#",
         "Nome giocatore": "Francesco Modesto",
         "Squadra di provenienza": "Delfino Pescara 1936",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "869",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Francesco Pambianchi *",
+        "Nome giocatore originale": "Francesco Pambianchi *#",
         "Nome giocatore": "Francesco Pambianchi",
         "Squadra di provenienza": "AS Gubbio 1910",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "870",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Francesco Rapisarda",
@@ -9566,21 +11305,25 @@ var trasferimenti = [
         "Squadra di provenienza": "L'Aquila Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "871",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gabriele Paonessa *",
+        "Nome giocatore originale": "Gabriele Paonessa *#",
         "Nome giocatore": "Gabriele Paonessa",
         "Squadra di provenienza": "Crotone FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "872",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gabriele Puccio",
@@ -9588,10 +11331,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Monza Brianza",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "873",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gennaro Scognamiglio",
@@ -9599,10 +11344,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Juve Stabia",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "874",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gianluca Lapadula",
@@ -9610,21 +11357,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Cesena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "875",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gianluca Musacci *",
+        "Nome giocatore originale": "Gianluca Musacci *#",
         "Nome giocatore": "Gianluca Musacci",
         "Squadra di provenienza": "Spezia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "876",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gianluca Nucera",
@@ -9632,10 +11383,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Poggibonsi",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "877",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gianni Munari",
@@ -9643,10 +11396,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "1.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "878",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gianvito Misuraca",
@@ -9654,10 +11409,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Vicenza Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "879",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gioele Sterlicchio",
@@ -9665,10 +11422,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ASD Città di Marino",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "880",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Giordano Maccarone",
@@ -9676,10 +11435,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atletico Catania",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "881",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Giuliano Laezza",
@@ -9687,10 +11448,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Arzanese Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "882",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Giuseppe Caccavallo",
@@ -9698,43 +11461,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Crotone FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "883",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giuseppe De Vincentis *",
+        "Nome giocatore originale": "Giuseppe De Vincentis *#",
         "Nome giocatore": "Giuseppe De Vincentis",
         "Squadra di provenienza": "Carpi Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "884",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giuseppe Pacini *",
+        "Nome giocatore originale": "Giuseppe Pacini *#",
         "Nome giocatore": "Giuseppe Pacini",
         "Squadra di provenienza": "FC Fondi 1922",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "885",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giuseppe Pasquariello *",
+        "Nome giocatore originale": "Giuseppe Pasquariello *#",
         "Nome giocatore": "Giuseppe Pasquariello",
         "Squadra di provenienza": "Fidenza Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "886",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Giuseppe Prestia",
@@ -9742,32 +11513,38 @@ var trasferimenti = [
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "887",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Godfred Adofo *",
+        "Nome giocatore originale": "Godfred Adofo *#",
         "Nome giocatore": "Godfred Adofo",
         "Squadra di provenienza": "UTA Arad",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "888",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Goncalo Brandao *",
+        "Nome giocatore originale": "Goncalo Brandao *#",
         "Nome giocatore": "Goncalo Brandao",
         "Squadra di provenienza": "AC Cesena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "889",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gonzalo Mastriani",
@@ -9775,54 +11552,64 @@ var trasferimenti = [
         "Squadra di provenienza": "CA Cerro",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "890",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Graziano Pellè *",
+        "Nome giocatore originale": "Graziano Pellè *#",
         "Nome giocatore": "Graziano Pellè",
         "Squadra di provenienza": "Feyenoord Rotterdam",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "891",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Irfan Sahman *",
+        "Nome giocatore originale": "Irfan Sahman *#",
         "Nome giocatore": "Irfan Sahman",
         "Squadra di provenienza": "Crotone FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "892",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Ivan Cacchioli *",
+        "Nome giocatore originale": "Ivan Cacchioli *#",
         "Nome giocatore": "Ivan Cacchioli",
         "Squadra di provenienza": "FC Fondi 1922",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "893",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Jacopo Galimberti *",
+        "Nome giocatore originale": "Jacopo Galimberti *#",
         "Nome giocatore": "Jacopo Galimberti",
         "Squadra di provenienza": "AS Gubbio 1910",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "894",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Joel Obi *",
@@ -9830,10 +11617,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "895",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Jorman Aguilar",
@@ -9841,10 +11630,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Río Abajo FC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "896",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "José Mauri",
@@ -9852,21 +11643,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma Giovanili",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "897",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Lazaros Fotias *",
+        "Nome giocatore originale": "Lazaros Fotias *#",
         "Nome giocatore": "Lazaros Fotias",
         "Squadra di provenienza": "Kaposvári Rákóczi FC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "898",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Lazar Petkovic",
@@ -9874,10 +11669,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Milan Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "899",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Leonardo Di Fiore",
@@ -9885,10 +11682,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Pianese",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "900",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Lorenzo Pasqualini",
@@ -9896,10 +11695,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Ascoli Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "901",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Berardocco",
@@ -9907,10 +11708,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Delfino Pescara 1936",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "902",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Crescenzi",
@@ -9918,10 +11721,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Poggibonsi Berretti",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "903",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Fiordiani",
@@ -9929,21 +11734,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Foligno Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "904",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luca Tedeschi *",
+        "Nome giocatore originale": "Luca Tedeschi *#",
         "Nome giocatore": "Luca Tedeschi",
         "Squadra di provenienza": "US Cremonese",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "905",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luigi Del Giudice",
@@ -9951,32 +11760,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Imperia Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "906",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luigi Palumbo *",
+        "Nome giocatore originale": "Luigi Palumbo *#",
         "Nome giocatore": "Luigi Palumbo",
         "Squadra di provenienza": "FC Fondi 1922",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "907",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Firenze *",
+        "Nome giocatore originale": "Marco Firenze *#",
         "Nome giocatore": "Marco Firenze",
         "Squadra di provenienza": "AC Giacomense",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "908",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marco Modolo",
@@ -9984,10 +11799,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Pro Vercelli 1892",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "909",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marco Parolo",
@@ -9995,10 +11812,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Cesena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "3.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "910",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mario Dragone",
@@ -10006,21 +11825,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Arzanese Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "911",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mário Rui *",
+        "Nome giocatore originale": "Mário Rui *#",
         "Nome giocatore": "Mário Rui",
         "Squadra di provenienza": "Spezia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "912",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Massimo Coda",
@@ -10028,10 +11851,12 @@ var trasferimenti = [
         "Squadra di provenienza": "San Marino Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "913",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Massimo Loviso",
@@ -10039,10 +11864,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Crotone FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "914",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Matteo Bellucci",
@@ -10050,10 +11877,12 @@ var trasferimenti = [
         "Squadra di provenienza": "La Storta",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "915",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Matteo Bibba",
@@ -10061,10 +11890,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Casale Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "916",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Matteo Gaudiano",
@@ -10072,10 +11903,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Fondi 1922",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "917",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Matteo Legittimo",
@@ -10083,32 +11916,38 @@ var trasferimenti = [
         "Squadra di provenienza": "US Lecce",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "918",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Mantovani *",
+        "Nome giocatore originale": "Matteo Mantovani *#",
         "Nome giocatore": "Matteo Mantovani",
         "Squadra di provenienza": "SSD Chieti",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "919",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Pisseri *",
+        "Nome giocatore originale": "Matteo Pisseri *#",
         "Nome giocatore": "Matteo Pisseri",
         "Squadra di provenienza": "US Catanzaro",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "920",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mattia Cassani *",
@@ -10116,10 +11955,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "921",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mattia De Deo",
@@ -10127,21 +11968,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Valleverde Riccione FC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "922",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mattia Sprocati *",
+        "Nome giocatore originale": "Mattia Sprocati *#",
         "Nome giocatore": "Mattia Sprocati",
         "Squadra di provenienza": "AC Reggiana 1919",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "923",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mauro Cerquetani",
@@ -10149,32 +11994,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Usd Cavese 1919",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "924",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mauro Cioffi *",
+        "Nome giocatore originale": "Mauro Cioffi *#",
         "Nome giocatore": "Mauro Cioffi",
         "Squadra di provenienza": "AC Renate",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "925",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Michele Bentoglio *",
+        "Nome giocatore originale": "Michele Bentoglio *#",
         "Nome giocatore": "Michele Bentoglio",
         "Squadra di provenienza": "SC Vallée d’Aoste",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "926",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mikael Ishak",
@@ -10182,32 +12033,38 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Colonia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "927",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Milos Malivojevic *",
+        "Nome giocatore originale": "Milos Malivojevic *#",
         "Nome giocatore": "Milos Malivojevic",
         "Squadra di provenienza": "AC Renate",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "928",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mirko Pigliacelli *",
+        "Nome giocatore originale": "Mirko Pigliacelli *#",
         "Nome giocatore": "Mirko Pigliacelli",
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "929",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mirko Velardi",
@@ -10215,10 +12072,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "930",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mory Koné",
@@ -10226,10 +12085,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Le Mans",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "931",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Nabil Taïder",
@@ -10237,32 +12098,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Como",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "932",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nick Modaffari *",
+        "Nome giocatore originale": "Nick Modaffari *#",
         "Nome giocatore": "Nick Modaffari",
         "Squadra di provenienza": "AC Bellaria Igea Marina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "933",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nicola Del Pivo *",
+        "Nome giocatore originale": "Nicola Del Pivo *#",
         "Nome giocatore": "Nicola Del Pivo",
         "Squadra di provenienza": "ASD Santarcangelo Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "934",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Nicola Russo",
@@ -10270,10 +12137,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ASG Nocerina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "935",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Nicolas Sumsky",
@@ -10281,32 +12150,38 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Bohemians 1905",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "936",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nicolò Belotti *",
+        "Nome giocatore originale": "Nicolò Belotti *#",
         "Nome giocatore": "Nicolò Belotti",
         "Squadra di provenienza": "US Carrarese Berretti",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "937",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nwankwo Obiora *",
+        "Nome giocatore originale": "Nwankwo Obiora *#",
         "Nome giocatore": "Nwankwo Obiora",
         "Squadra di provenienza": "CFR Cluj",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "938",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Paolo Dametto",
@@ -10314,10 +12189,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Cagliari Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Cagliari Calcio-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "939",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Pedro Mendes",
@@ -10325,10 +12202,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Sporting CP",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "940",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Pietro Tripoli",
@@ -10336,32 +12215,38 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Varese 1910",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "941",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Raffaele Schiavi *",
+        "Nome giocatore originale": "Raffaele Schiavi *#",
         "Nome giocatore": "Raffaele Schiavi",
         "Squadra di provenienza": "Spezia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "942",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Raman Chibsah *",
+        "Nome giocatore originale": "Raman Chibsah *#",
         "Nome giocatore": "Raman Chibsah",
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "943",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Riccardo Brosco",
@@ -10369,32 +12254,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Delfino Pescara 1936",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "944",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Riccardo Casini *",
+        "Nome giocatore originale": "Riccardo Casini *#",
         "Nome giocatore": "Riccardo Casini",
         "Squadra di provenienza": "AC Prato",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "945",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Riccardo Cocuzza *",
+        "Nome giocatore originale": "Riccardo Cocuzza *#",
         "Nome giocatore": "Riccardo Cocuzza",
         "Squadra di provenienza": "AS Gubbio 1910",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "946",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Robert Stillo",
@@ -10402,21 +12293,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "947",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Rolf Feltscher *",
+        "Nome giocatore originale": "Rolf Feltscher *#",
         "Nome giocatore": "Rolf Feltscher",
         "Squadra di provenienza": "US Grosseto",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "948",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ronaldo Vanin",
@@ -10424,10 +12319,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Lecce",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "949",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Salvatore Sandomenico",
@@ -10435,10 +12332,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Arzanese Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "950",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Sem Ogolong",
@@ -10446,54 +12345,64 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Juve Stabia",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "951",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Bezziccheri *",
+        "Nome giocatore originale": "Simone Bezziccheri *#",
         "Nome giocatore": "Simone Bezziccheri",
         "Squadra di provenienza": "FC Fondi 1922",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "952",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Bruni *",
+        "Nome giocatore originale": "Simone Bruni *#",
         "Nome giocatore": "Simone Bruni",
         "Squadra di provenienza": "AS Martina Franca",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "953",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Ciciotti *",
+        "Nome giocatore originale": "Simone Ciciotti *#",
         "Nome giocatore": "Simone Ciciotti",
         "Squadra di provenienza": "Foligno Berretti",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "954",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Malatesta *",
+        "Nome giocatore originale": "Simone Malatesta *#",
         "Nome giocatore": "Simone Malatesta",
         "Squadra di provenienza": "Carrarese Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "955",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Simone Palermo",
@@ -10501,21 +12410,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Gubbio 1910",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "956",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Smacchia *",
+        "Nome giocatore originale": "Simone Smacchia *#",
         "Nome giocatore": "Simone Smacchia",
         "Squadra di provenienza": "AS Gubbio 1910",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "957",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Simon Gentili",
@@ -10523,10 +12436,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atletico Arezzo",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "958",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Slawomir Peszko",
@@ -10534,21 +12449,25 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Colonia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "620.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "959",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Solomon Enow *",
+        "Nome giocatore originale": "Solomon Enow *#",
         "Nome giocatore": "Solomon Enow",
         "Squadra di provenienza": "Unirea Dej",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "960",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Soufiane Bidaoui",
@@ -10556,21 +12475,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Lierse SK",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "961",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Stefano Okaka *",
+        "Nome giocatore originale": "Stefano Okaka *#",
         "Nome giocatore": "Stefano Okaka",
         "Squadra di provenienza": "Spezia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "962",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Stefano Rossini",
@@ -10578,10 +12501,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Fondi 1922",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "963",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Stefano Russo",
@@ -10589,21 +12514,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Brescia Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "964",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Stefan Ristovski *",
+        "Nome giocatore originale": "Stefan Ristovski *#",
         "Nome giocatore": "Stefan Ristovski",
         "Squadra di provenienza": "AS Bari",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "150.000 €",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "965",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Terry Antonis",
@@ -10611,10 +12540,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Sydney FC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "225.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "966",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Tomas Danilevicius",
@@ -10622,10 +12553,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Latina Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "400.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "967",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Tomislav Saric",
@@ -10633,21 +12566,25 @@ var trasferimenti = [
         "Squadra di provenienza": "NK Inter Zapresic",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "968",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Tommaso Cancelloni *",
+        "Nome giocatore originale": "Tommaso Cancelloni *#",
         "Nome giocatore": "Tommaso Cancelloni",
         "Squadra di provenienza": "Savona 1907 FBC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "969",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Uros Celcer",
@@ -10655,10 +12592,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ND Gorica",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "970",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Vicente",
@@ -10666,21 +12605,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Padova",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "971",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Vincenzo Giannusa *",
+        "Nome giocatore originale": "Vincenzo Giannusa *#",
         "Nome giocatore": "Vincenzo Giannusa",
         "Squadra di provenienza": "FC Fondi 1922",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "972",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Vincenzo Perna",
@@ -10688,10 +12631,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Arzanese Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "973",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Vito Falconieri",
@@ -10699,21 +12644,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Ascoli Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "974",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Vittorio Fabris *",
+        "Nome giocatore originale": "Vittorio Fabris *#",
         "Nome giocatore": "Vittorio Fabris",
         "Squadra di provenienza": "AC FeralpiSalò",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "975",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Wálter Gargano *",
@@ -10721,10 +12670,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Parma FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "976",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Yohan Benalouane",
@@ -10732,32 +12683,38 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Cesena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "977",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Yves Benoit Bationo *",
+        "Nome giocatore originale": "Yves Benoit Bationo *#",
         "Nome giocatore": "Yves Benoit Bationo",
         "Squadra di provenienza": "Empoli FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "978",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Zé Eduardo *",
+        "Nome giocatore originale": "Zé Eduardo *#",
         "Nome giocatore": "Zé Eduardo",
         "Squadra di provenienza": "Calcio Padova",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Parma FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "979",
         "Squadra di destinazione": "Parma FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Zouhair Feddal",
@@ -10765,10 +12722,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FUS Rabat",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Parma FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "350.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "980",
         "Squadra di destinazione": "PAS Giannina",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Cristian Chávez",
@@ -10776,10 +12735,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "981",
         "Squadra di destinazione": "Perugia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Domenico Mungo *",
@@ -10787,10 +12748,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "982",
         "Squadra di destinazione": "Perugia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gennaro Scognamiglio *",
@@ -10798,10 +12761,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "983",
         "Squadra di destinazione": "Perugia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Marco Moscati *",
@@ -10809,10 +12774,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "984",
         "Squadra di destinazione": "Perugia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mattia Sprocati *",
@@ -10820,10 +12787,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "985",
         "Squadra di destinazione": "Perugia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Robert Stillo *",
@@ -10831,10 +12800,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "986",
         "Squadra di destinazione": "Perugia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Simone Sini",
@@ -10842,10 +12813,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "987",
         "Squadra di destinazione": "Perugia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Yves Benoit Bationo *",
@@ -10853,10 +12826,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "988",
         "Squadra di destinazione": "Qormi FC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Luigi Del Giudice *",
@@ -10864,10 +12839,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "989",
         "Squadra di destinazione": "Qormi FC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Simone Bezziccheri",
@@ -10875,21 +12852,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "990",
         "Squadra di destinazione": "Racing Club de Avellaneda",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Gabriel Hauche *",
+        "Nome giocatore originale": "Gabriel Hauche *#",
         "Nome giocatore": "Gabriel Hauche",
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "991",
         "Squadra di destinazione": "RAEC Mons",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Steve Beleck *",
@@ -10897,10 +12878,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "992",
         "Squadra di destinazione": "RCD Espanyol",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gabriel Torje *",
@@ -10908,10 +12891,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "993",
         "Squadra di destinazione": "RCD Mallorca",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Álex Geijo *",
@@ -10919,10 +12904,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "994",
         "Squadra di destinazione": "RCD Mallorca",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Martí Riverola *",
@@ -10930,10 +12917,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "995",
         "Squadra di destinazione": "Real Betis Balompié",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Dídac Vilà *",
@@ -10941,10 +12930,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "996",
         "Squadra di destinazione": "Real Betis Balompié",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Vincenzo Rennella",
@@ -10952,10 +12943,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "997",
         "Squadra di destinazione": "Real Madrid Castilla",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Antonio Rozzi *",
@@ -10963,10 +12956,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "250.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "998",
         "Squadra di destinazione": "Real Madrid Castilla",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Jaime Romero *",
@@ -10974,10 +12969,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "999",
         "Squadra di destinazione": "Real Saragozza",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mario Paglialunga",
@@ -10985,10 +12982,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "200.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1000",
         "Squadra di destinazione": "Real Sociedad",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Haris Seferovic",
@@ -10996,10 +12995,12 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "3.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1001",
         "Squadra di destinazione": "Real Spal",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Jacopo Coletta *",
@@ -11007,10 +13008,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1002",
         "Squadra di destinazione": "Real Spal",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Raffaele D'Orsi",
@@ -11018,10 +13021,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1003",
         "Squadra di destinazione": "Real Valladolid CF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Fausto Rossi *",
@@ -11029,10 +13034,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1004",
         "Squadra di destinazione": "Real Vicenza VS",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Andrea Magrassi *",
@@ -11040,10 +13047,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1005",
         "Squadra di destinazione": "Reggina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Alessandro Sbaffo *",
@@ -11051,10 +13060,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1006",
         "Squadra di destinazione": "Reggina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Andrea Cocco",
@@ -11062,10 +13073,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1007",
         "Squadra di destinazione": "Reggina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Matteo Gentili",
@@ -11073,10 +13086,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "100.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1008",
         "Squadra di destinazione": "Reggina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Nicola Rigoni *",
@@ -11084,10 +13099,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1009",
         "Squadra di destinazione": "Reggina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Rodney Strasser *",
@@ -11095,10 +13112,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1010",
         "Squadra di destinazione": "Ritiro",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessio Scarpi",
@@ -11106,10 +13125,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1011",
         "Squadra di destinazione": "Ritiro",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Dejan Stankovic",
@@ -11117,10 +13138,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1012",
         "Squadra di destinazione": "Ritiro",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gianluca Grava",
@@ -11128,10 +13151,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1013",
         "Squadra di destinazione": "Ritiro",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Louis Saha",
@@ -11139,10 +13164,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1014",
         "Squadra di destinazione": "Ritiro",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Marco Rossi",
@@ -11150,10 +13177,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1015",
         "Squadra di destinazione": "Ritiro",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Simone Perrotta",
@@ -11161,10 +13190,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1016",
         "Squadra di destinazione": "RWDM Brussels FC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Wesley Yamnaine *",
@@ -11172,10 +13203,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1017",
         "Squadra di destinazione": "San Marino Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Giacomo Venturi *",
@@ -11183,10 +13216,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1018",
         "Squadra di destinazione": "San Marino Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gianluca Draghetti *",
@@ -11194,10 +13229,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1019",
         "Squadra di destinazione": "San Marino Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Juan Cruz",
@@ -11205,10 +13242,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1020",
         "Squadra di destinazione": "San Marino Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Manuel Gavilán *",
@@ -11216,10 +13255,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1021",
         "Squadra di destinazione": "Santiago Wanderers",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gastón Cellerino",
@@ -11227,10 +13268,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1022",
         "Squadra di destinazione": "Santos Futebol Clube",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Thiago Ribeiro",
@@ -11238,10 +13281,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Cagliari Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Cagliari Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "3.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1023",
         "Squadra di destinazione": "Savona 1907 FBC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alberto Giuliatto *",
@@ -11249,10 +13294,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1024",
         "Squadra di destinazione": "Savona 1907 FBC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Cristiano Spirito *",
@@ -11260,10 +13307,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1025",
         "Squadra di destinazione": "Savona 1907 FBC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gabriele Puccio *",
@@ -11271,10 +13320,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1026",
         "Squadra di destinazione": "Savona 1907 FBC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gioele Sterlicchio *",
@@ -11282,10 +13333,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1027",
         "Squadra di destinazione": "Savona 1907 FBC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Giordano Maccarone *",
@@ -11293,10 +13346,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1028",
         "Squadra di destinazione": "Savona 1907 FBC",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matteo Gaudiano *",
@@ -11304,10 +13359,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1029",
         "Squadra di destinazione": "SC Braga",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Eduardo *",
@@ -11315,10 +13372,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1030",
         "Squadra di destinazione": "Sconosciuto",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Diego Pellegrini",
@@ -11326,10 +13385,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1031",
         "Squadra di destinazione": "Sconosciuto",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Luka Tomas",
@@ -11337,10 +13398,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1032",
         "Squadra di destinazione": "SF Aversa Normanna",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Cristian Suarino",
@@ -11348,10 +13411,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1033",
         "Squadra di destinazione": "SF Aversa Normanna",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Giuseppe Pasquariello *",
@@ -11359,10 +13424,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1034",
         "Squadra di destinazione": "Sheffield Wednesday",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Andelko Savic *",
@@ -11370,10 +13437,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1035",
         "Squadra di destinazione": "Sorrento Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Andrea Parodi",
@@ -11381,10 +13450,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1036",
         "Squadra di destinazione": "Sorrento Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matteo Chinellato *",
@@ -11392,10 +13463,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1037",
         "Squadra di destinazione": "Sorrento Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Rocco Benci",
@@ -11403,10 +13476,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1038",
         "Squadra di destinazione": "Spezia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Alessandro Carrozza *",
@@ -11414,10 +13489,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1039",
         "Squadra di destinazione": "Spezia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Andrea Catellani",
@@ -11425,10 +13502,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1040",
         "Squadra di destinazione": "Spezia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Emanuel Rivas",
@@ -11436,10 +13515,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1041",
         "Squadra di destinazione": "Spezia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Federico Moretti *",
@@ -11447,10 +13528,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1042",
         "Squadra di destinazione": "Spezia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Felipe Seymour *",
@@ -11458,10 +13541,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1043",
         "Squadra di destinazione": "Spezia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Gabriel *",
@@ -11469,10 +13554,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1044",
         "Squadra di destinazione": "Spezia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luca Ceccarelli",
@@ -11480,10 +13567,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1045",
         "Squadra di destinazione": "Spezia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Nicola Ferrari *",
@@ -11491,10 +13580,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1046",
         "Squadra di destinazione": "Spezia Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Nicola Leali *",
@@ -11502,10 +13593,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1047",
         "Squadra di destinazione": "Sport Club Internacional",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Willians",
@@ -11513,10 +13606,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "2.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1048",
         "Squadra di destinazione": "Sporting Olhanense",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Jakub Vojtus",
@@ -11524,10 +13619,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1049",
         "Squadra di destinazione": "Sporting Olhanense",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Mirko Bigazzi *",
@@ -11535,10 +13632,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1050",
         "Squadra di destinazione": "Sporting Olhanense",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Pelé *",
@@ -11546,10 +13645,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1051",
         "Squadra di destinazione": "Sporting Olhanense",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Ricardo Ferreira",
@@ -11557,10 +13658,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1052",
         "Squadra di destinazione": "Sporting Olhanense",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Sebastian Mladen *",
@@ -11568,10 +13671,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1053",
         "Squadra di destinazione": "Sporting Olhanense",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Vid Belec *",
@@ -11579,10 +13684,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1054",
         "Squadra di destinazione": "SS Barletta Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Carlo Ilari *",
@@ -11590,10 +13697,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1055",
         "Squadra di destinazione": "SS Barletta Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Jürgen Prutsch",
@@ -11601,10 +13710,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1056",
         "Squadra di destinazione": "SS Barletta Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Marco Cane",
@@ -11612,87 +13723,103 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1057",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Dossena *",
+        "Nome giocatore originale": "Andrea Dossena *#",
         "Nome giocatore": "Andrea Dossena",
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-SSC Napoli",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1058",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Mazzarani *",
+        "Nome giocatore originale": "Andrea Mazzarani *#",
         "Nome giocatore": "Andrea Mazzarani",
         "Squadra di provenienza": "Modena FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-SSC Napoli",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1059",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Bruno Uvini *",
+        "Nome giocatore originale": "Bruno Uvini *#",
         "Nome giocatore": "Bruno Uvini",
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-SSC Napoli",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1060",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Camillo Ciano *",
+        "Nome giocatore originale": "Camillo Ciano *#",
         "Nome giocatore": "Camillo Ciano",
         "Squadra di provenienza": "Crotone FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-SSC Napoli",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1061",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Carlo Colella *",
+        "Nome giocatore originale": "Carlo Colella *#",
         "Nome giocatore": "Carlo Colella",
         "Squadra di provenienza": "AS Casale Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1062",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Cristian Chávez *",
+        "Nome giocatore originale": "Cristian Chávez *#",
         "Nome giocatore": "Cristian Chávez",
         "Squadra di provenienza": "Club Almirante Brown",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1063",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Davide Bariti *",
+        "Nome giocatore originale": "Davide Bariti *#",
         "Nome giocatore": "Davide Bariti",
         "Squadra di provenienza": "AS Avellino",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-SSC Napoli",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1064",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Dries Mertens",
@@ -11700,10 +13827,12 @@ var trasferimenti = [
         "Squadra di provenienza": "PSV Eindhoven",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "9.700.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1065",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Duván Zapata",
@@ -11711,10 +13840,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Estudiantes de La Plata",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "7.470.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1066",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Emanuele Calaiò",
@@ -11722,32 +13853,38 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-SSC Napoli",
+        "Serie trasferimento": "B-A",
         "Spesa": "1.250.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1067",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Erwin Hoffer *",
+        "Nome giocatore originale": "Erwin Hoffer *#",
         "Nome giocatore": "Erwin Hoffer",
         "Squadra di provenienza": "FC Kaiserslautern",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1068",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Federico Fernández *",
+        "Nome giocatore originale": "Federico Fernández *#",
         "Nome giocatore": "Federico Fernández",
         "Squadra di provenienza": "Getafe CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1069",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gonzalo Higuaín",
@@ -11755,32 +13892,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Real Madrid CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "37.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1070",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Ignacio Fideleff *",
+        "Nome giocatore originale": "Ignacio Fideleff *#",
         "Nome giocatore": "Ignacio Fideleff",
         "Squadra di provenienza": "Maccabi Tel Aviv",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1071",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Jacopo Dezi *",
+        "Nome giocatore originale": "Jacopo Dezi *#",
         "Nome giocatore": "Jacopo Dezi",
         "Squadra di provenienza": "SS Barletta Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1072",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "José María Callejón",
@@ -11788,10 +13931,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Real Madrid CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "9.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1073",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Josip Radosevic",
@@ -11799,65 +13944,77 @@ var trasferimenti = [
         "Squadra di provenienza": "HNK Hajduk Spalato",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "1.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1074",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luca Cigarini *",
+        "Nome giocatore originale": "Luca Cigarini *#",
         "Nome giocatore": "Luca Cigarini",
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-SSC Napoli",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1075",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luigi Sepe *",
+        "Nome giocatore originale": "Luigi Sepe *#",
         "Nome giocatore": "Luigi Sepe",
         "Squadra di provenienza": "AC Pisa 1909",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1076",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luigi Vitale *",
+        "Nome giocatore originale": "Luigi Vitale *#",
         "Nome giocatore": "Luigi Vitale",
         "Squadra di provenienza": "Ternana Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-SSC Napoli",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1077",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mario Santana *",
+        "Nome giocatore originale": "Mario Santana *#",
         "Nome giocatore": "Mario Santana",
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-SSC Napoli",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1078",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nicolao Dumitru *",
+        "Nome giocatore originale": "Nicolao Dumitru *#",
         "Nome giocatore": "Nicolao Dumitru",
         "Squadra di provenienza": "AS Cittadella",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-SSC Napoli",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1079",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Pablo Armero",
@@ -11865,10 +14022,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-SSC Napoli",
+        "Serie trasferimento": "A-A",
         "Spesa": "4.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1080",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Pepe Reina *",
@@ -11876,10 +14035,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Liverpool",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1081",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Rafael",
@@ -11887,21 +14048,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Santos Futebol Clube",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "5.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1082",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Raffaele Maiello *",
+        "Nome giocatore originale": "Raffaele Maiello *#",
         "Nome giocatore": "Raffaele Maiello",
         "Squadra di provenienza": "Crotone FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-SSC Napoli",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1083",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Raúl Albiol",
@@ -11909,10 +14074,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Real Madrid CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "12.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1084",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Soma Novothny",
@@ -11920,32 +14087,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Napoli Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1085",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Wálter Gargano *",
+        "Nome giocatore originale": "Wálter Gargano *#",
         "Nome giocatore": "Wálter Gargano",
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-SSC Napoli",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1086",
         "Squadra di destinazione": "SSC Napoli",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Walter Guerra *",
+        "Nome giocatore originale": "Walter Guerra *#",
         "Nome giocatore": "Walter Guerra",
         "Squadra di provenienza": "FC Esperia Viareggio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SSC Napoli",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1087",
         "Squadra di destinazione": "SSD Chieti",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alberto Gallinetta *",
@@ -11953,10 +14126,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1088",
         "Squadra di destinazione": "SSD Chieti",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessandro Elia *",
@@ -11964,10 +14139,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1089",
         "Squadra di destinazione": "SSD Chieti",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Antonio Maglia *",
@@ -11975,10 +14152,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1090",
         "Squadra di destinazione": "SS Juve Stabia",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Abou Diop *",
@@ -11986,10 +14165,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1091",
         "Squadra di destinazione": "SS Juve Stabia",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Andrea Doninelli",
@@ -11997,10 +14178,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1092",
         "Squadra di destinazione": "SS Juve Stabia",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Francesco Zampano *",
@@ -12008,10 +14191,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1093",
         "Squadra di destinazione": "SS Juve Stabia",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Laurentiu Branescu *",
@@ -12019,10 +14204,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1094",
         "Squadra di destinazione": "SS Juve Stabia",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luca Ghiringhelli",
@@ -12030,10 +14217,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1095",
         "Squadra di destinazione": "SS Juve Stabia",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luca Martinelli *",
@@ -12041,10 +14230,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1096",
         "Squadra di destinazione": "SS Juve Stabia",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luigi Vitale *",
@@ -12052,10 +14243,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1097",
         "Squadra di destinazione": "SS Juve Stabia",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Matteo Contini *",
@@ -12063,10 +14256,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1098",
         "Squadra di destinazione": "SS Juve Stabia",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Matteo Scozzarella *",
@@ -12074,10 +14269,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1099",
         "Squadra di destinazione": "SS Juve Stabia",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Sergio Viotti *",
@@ -12085,10 +14282,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1100",
         "Squadra di destinazione": "SS Juve Stabia",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Sergiu Suciu *",
@@ -12096,10 +14295,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1101",
         "Squadra di destinazione": "SS Juve Stabia",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Souleymane Doukara *",
@@ -12107,21 +14308,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1102",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alessandro Berardi *",
+        "Nome giocatore originale": "Alessandro Berardi *#",
         "Nome giocatore": "Alessandro Berardi",
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-SS Lazio",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1103",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Sbraga",
@@ -12129,10 +14334,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Pisa 1909",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1104",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Antonio Candreva",
@@ -12140,10 +14347,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-SS Lazio",
+        "Serie trasferimento": "A-A",
         "Spesa": "1.700.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1105",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Balde Diao Keita",
@@ -12151,10 +14360,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Lazio Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1106",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Brayan Perea",
@@ -12162,10 +14373,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Deportivo Cali",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "2.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1107",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Diego Novaretti",
@@ -12173,21 +14386,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Deportivo Toluca",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1108",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Emiliano Alfaro *",
+        "Nome giocatore originale": "Emiliano Alfaro *#",
         "Nome giocatore": "Emiliano Alfaro",
         "Squadra di provenienza": "Al Wasl Sports Club",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1109",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Etrit Berisha",
@@ -12195,21 +14412,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Kalmar FF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "300.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1110",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Ettore Mendicino *",
+        "Nome giocatore originale": "Ettore Mendicino *#",
         "Nome giocatore": "Ettore Mendicino",
         "Squadra di provenienza": "Calcio Como",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1111",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Felipe Anderson",
@@ -12217,10 +14438,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Santos Futebol Clube",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "8.200.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1112",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Giuseppe Capua",
@@ -12228,43 +14451,51 @@ var trasferimenti = [
         "Squadra di provenienza": "US Salernitana 1919",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1113",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giuseppe Sculli *",
+        "Nome giocatore originale": "Giuseppe Sculli *#",
         "Nome giocatore": "Giuseppe Sculli",
         "Squadra di provenienza": "Delfino Pescara 1936",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-SS Lazio",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1114",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Javier Garrido *",
+        "Nome giocatore originale": "Javier Garrido *#",
         "Nome giocatore": "Javier Garrido",
         "Squadra di provenienza": "Norwich City",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1115",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Juan Pablo Carrizo *",
+        "Nome giocatore originale": "Juan Pablo Carrizo *#",
         "Nome giocatore": "Juan Pablo Carrizo",
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-SS Lazio",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1116",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Crecco",
@@ -12272,21 +14503,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Lazio Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1117",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luca Crescenzi *",
+        "Nome giocatore originale": "Luca Crescenzi *#",
         "Nome giocatore": "Luca Crescenzi",
         "Squadra di provenienza": "FC Esperia Viareggio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1118",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Lucas Biglia",
@@ -12294,21 +14529,25 @@ var trasferimenti = [
         "Squadra di provenienza": "RSC Anderlecht",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "7.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1119",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matuzalém *",
+        "Nome giocatore originale": "Matuzalém *#",
         "Nome giocatore": "Matuzalém",
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-SS Lazio",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1120",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Riccardo Perpetuini",
@@ -12316,10 +14555,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Salernitana 1919",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1121",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Salam Dene",
@@ -12327,32 +14568,38 @@ var trasferimenti = [
         "Squadra di provenienza": "US Salernitana 1919",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1122",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Seyi Adeleke *",
+        "Nome giocatore originale": "Seyi Adeleke *#",
         "Nome giocatore": "Seyi Adeleke",
         "Squadra di provenienza": "US Salernitana 1919",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1123",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Tommaso Ceccarelli *",
+        "Nome giocatore originale": "Tommaso Ceccarelli *#",
         "Nome giocatore": "Tommaso Ceccarelli",
         "Squadra di provenienza": "SS Virtus Lanciano",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-SS Lazio",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1124",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Vinícius Freitas",
@@ -12360,21 +14607,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Cruzeiro Esporte Clube B",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1125",
         "Squadra di destinazione": "SS Lazio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Vittorio Salustri *",
+        "Nome giocatore originale": "Vittorio Salustri *#",
         "Nome giocatore": "Vittorio Salustri",
         "Squadra di provenienza": "SS Milazzo",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-SS Lazio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1126",
         "Squadra di destinazione": "SS Virtus Lanciano",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Antonio Piccolo",
@@ -12382,10 +14633,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "200.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1127",
         "Squadra di destinazione": "SS Virtus Lanciano",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Diego Falcinelli *",
@@ -12393,10 +14646,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1128",
         "Squadra di destinazione": "SS Virtus Lanciano",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Federico Casarini *",
@@ -12404,10 +14659,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1129",
         "Squadra di destinazione": "SS Virtus Lanciano",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Filippo De Col *",
@@ -12415,10 +14672,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1130",
         "Squadra di destinazione": "SS Virtus Lanciano",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Leonardo Gatto *",
@@ -12426,10 +14685,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1131",
         "Squadra di destinazione": "SS Virtus Lanciano",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Luigi Sepe *",
@@ -12437,10 +14698,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1132",
         "Squadra di destinazione": "SS Virtus Lanciano",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Mame Thiam",
@@ -12448,10 +14711,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1133",
         "Squadra di destinazione": "SS Virtus Lanciano",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Marcel Büchel *",
@@ -12459,10 +14724,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1134",
         "Squadra di destinazione": "SS Virtus Lanciano",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Simone Calvano *",
@@ -12470,10 +14737,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1135",
         "Squadra di destinazione": "Stade Laval",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Selim Ben Djemia",
@@ -12481,10 +14750,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1136",
         "Squadra di destinazione": "Steaua Bucarest",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Federico Piovaccari *",
@@ -12492,10 +14763,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1137",
         "Squadra di destinazione": "svincolato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessandro Viscontini",
@@ -12503,10 +14776,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1138",
         "Squadra di destinazione": "svincolato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Davide Lanzafame",
@@ -12514,10 +14789,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1139",
         "Squadra di destinazione": "svincolato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Davide Luppi",
@@ -12525,10 +14802,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1140",
         "Squadra di destinazione": "svincolato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Giuseppe Nazzani",
@@ -12536,10 +14815,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1141",
         "Squadra di destinazione": "svincolato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Giuseppe Pugliese",
@@ -12547,10 +14828,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1142",
         "Squadra di destinazione": "svincolato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Manuel Mancini",
@@ -12558,10 +14841,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1143",
         "Squadra di destinazione": "svincolato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Michele Ferri",
@@ -12569,10 +14854,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1144",
         "Squadra di destinazione": "svincolato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Pellegrino Albanese",
@@ -12580,10 +14867,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1145",
         "Squadra di destinazione": "svincolato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Tommaso Rocchi",
@@ -12591,10 +14880,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1146",
         "Squadra di destinazione": "svincolato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Vincenzo Iaquinta",
@@ -12602,10 +14893,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1147",
         "Squadra di destinazione": "svincolato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Vittorio Salustri",
@@ -12613,10 +14906,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1148",
         "Squadra di destinazione": "svincolato",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Walter Guerra",
@@ -12624,10 +14919,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1149",
         "Squadra di destinazione": "SV Werder Bremen",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Luca Caldirola",
@@ -12635,10 +14932,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "2.250.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1150",
         "Squadra di destinazione": "Teramo Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Angelo Gregorio *",
@@ -12646,10 +14945,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1151",
         "Squadra di destinazione": "Teramo Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Edoardo Pacini *",
@@ -12657,10 +14958,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1152",
         "Squadra di destinazione": "Teramo Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Marco Gaeta *",
@@ -12668,10 +14971,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1153",
         "Squadra di destinazione": "Ternana Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Alberto Masi",
@@ -12679,10 +14984,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "2.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1154",
         "Squadra di destinazione": "Ternana Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Andrea Rispoli *",
@@ -12690,10 +14997,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1155",
         "Squadra di destinazione": "Ternana Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Damiano Ferronetti",
@@ -12701,10 +15010,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1156",
         "Squadra di destinazione": "Ternana Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Fabio Sciacca *",
@@ -12712,10 +15023,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1157",
         "Squadra di destinazione": "Ternana Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Mirko Antenucci *",
@@ -12723,10 +15036,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1158",
         "Squadra di destinazione": "Ternana Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Pavol Farkas *",
@@ -12734,10 +15049,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1159",
         "Squadra di destinazione": "Ternana Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Raffaele Maiello *",
@@ -12745,10 +15062,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1160",
         "Squadra di destinazione": "Tiburones Rojos de Veracruz",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Cristian Llama",
@@ -12756,32 +15075,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1161",
         "Squadra di destinazione": "Tombense Futebol Clube (MG)",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Roger Carvalho *",
+        "Nome giocatore originale": "Roger Carvalho *#",
         "Nome giocatore": "Roger Carvalho",
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1162",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alessandro Agostini *",
+        "Nome giocatore originale": "Alessandro Agostini *#",
         "Nome giocatore": "Alessandro Agostini",
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Torino FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1163",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alexander Farnerud",
@@ -12789,10 +15114,12 @@ var trasferimenti = [
         "Squadra di provenienza": "BSC Young Boys",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Torino FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "1.800.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1164",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Cesare Bovo",
@@ -12800,10 +15127,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Torino FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "800.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1165",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ciro Immobile",
@@ -12811,10 +15140,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Torino FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "2.750.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1166",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Daniele Padelli",
@@ -12822,10 +15153,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Torino FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1167",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Emiliano Moretti",
@@ -12833,32 +15166,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Torino FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "700.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1168",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Fabio Panepinto *",
+        "Nome giocatore originale": "Fabio Panepinto *#",
         "Nome giocatore": "Fabio Panepinto",
         "Squadra di provenienza": "Valle d'Aosta Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Torino FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1169",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Filippo Scaglia *",
+        "Nome giocatore originale": "Filippo Scaglia *#",
         "Nome giocatore": "Filippo Scaglia",
         "Squadra di provenienza": "AC Cuneo 1905",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Torino FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1170",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Giovanni Pasquale *",
@@ -12866,10 +15205,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Torino FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1171",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Isoardi",
@@ -12877,21 +15218,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Valle d'Aosta Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Torino FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1172",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Lys Gomis *",
+        "Nome giocatore originale": "Lys Gomis *#",
         "Nome giocatore": "Lys Gomis",
         "Squadra di provenienza": "Ascoli Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Torino FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1173",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marcelo Larrondo",
@@ -12899,21 +15244,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Torino FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "750.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1174",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Chiosa *",
+        "Nome giocatore originale": "Marco Chiosa *#",
         "Nome giocatore": "Marco Chiosa",
         "Squadra di provenienza": "ASG Nocerina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Torino FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1175",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Matteo Brighi",
@@ -12921,10 +15270,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Torino FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1176",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Nicola Bellomo",
@@ -12932,21 +15283,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Bari",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Torino FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "1.400.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1177",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nicolás Gorobsov *",
+        "Nome giocatore originale": "Nicolás Gorobsov *#",
         "Nome giocatore": "Nicolás Gorobsov",
         "Squadra di provenienza": "ASG Nocerina",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Torino FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1178",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Nikola Maksimovic *",
@@ -12954,10 +15309,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Stella Rossa Belgrado",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Torino FC",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "500.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1179",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Omar El Kaddouri *",
@@ -12965,32 +15322,38 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Torino FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1180",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Sergiu Suciu *",
+        "Nome giocatore originale": "Sergiu Suciu *#",
         "Nome giocatore": "Sergiu Suciu",
         "Squadra di provenienza": "SS Juve Stabia",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Torino FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1181",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Verdi *",
+        "Nome giocatore originale": "Simone Verdi *#",
         "Nome giocatore": "Simone Verdi",
         "Squadra di provenienza": "SS Juve Stabia",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Torino FC",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1182",
         "Squadra di destinazione": "Torino FC",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Tommaso Berni",
@@ -12998,10 +15361,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Torino FC",
+        "Serie trasferimento": "A-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1183",
         "Squadra di destinazione": "Tottenham Hotspur",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Érik Lamela",
@@ -13009,10 +15374,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "30.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1184",
         "Squadra di destinazione": "Trapani Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Antimo Iunco",
@@ -13020,10 +15387,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "100.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1185",
         "Squadra di destinazione": "Trapani Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Francesco Finocchio *",
@@ -13031,21 +15400,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1186",
         "Squadra di destinazione": "UC AlbinoLeffe",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Simon Laner *",
+        "Nome giocatore originale": "Simon Laner *#",
         "Nome giocatore": "Simon Laner",
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1187",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alessandro De Vitis *",
@@ -13053,32 +15426,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-UC Sampdoria",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1188",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alessandro Martinelli *",
+        "Nome giocatore originale": "Alessandro Martinelli *#",
         "Nome giocatore": "Alessandro Martinelli",
         "Squadra di provenienza": "Calcio Portogruaro-Summaga",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1189",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Magrassi *",
+        "Nome giocatore originale": "Andrea Magrassi *#",
         "Nome giocatore": "Andrea Magrassi",
         "Squadra di provenienza": "Calcio Portogruaro-Summaga",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1190",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Petagna *",
@@ -13086,21 +15465,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-UC Sampdoria",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1191",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Tozzo *",
+        "Nome giocatore originale": "Andrea Tozzo *#",
         "Nome giocatore": "Andrea Tozzo",
         "Squadra di provenienza": "Calcio Portogruaro-Summaga",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1192",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Antonino Barillà *",
@@ -13108,10 +15491,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Reggina Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-UC Sampdoria",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1193",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Bartosz Salamon",
@@ -13119,10 +15504,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-UC Sampdoria",
+        "Serie trasferimento": "A-A",
         "Spesa": "1.700.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1194",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Birkir Bjarnason",
@@ -13130,120 +15517,142 @@ var trasferimenti = [
         "Squadra di provenienza": "Delfino Pescara 1936",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-UC Sampdoria",
+        "Serie trasferimento": "B-A",
         "Spesa": "1.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1195",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Bruno Martella *",
+        "Nome giocatore originale": "Bruno Martella *#",
         "Nome giocatore": "Bruno Martella",
         "Squadra di provenienza": "FC Esperia Viareggio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1196",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Cesare Dondero *",
+        "Nome giocatore originale": "Cesare Dondero *#",
         "Nome giocatore": "Cesare Dondero",
         "Squadra di provenienza": "USD Lavagnese 1919",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1197",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Edoardo Blondett *",
+        "Nome giocatore originale": "Edoardo Blondett *#",
         "Nome giocatore": "Edoardo Blondett",
         "Squadra di provenienza": "Calcio Portogruaro-Summaga",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1198",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Fabrizio Cacciatore *",
+        "Nome giocatore originale": "Fabrizio Cacciatore *#",
         "Nome giocatore": "Fabrizio Cacciatore",
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-UC Sampdoria",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1199",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Federico Piovaccari *",
+        "Nome giocatore originale": "Federico Piovaccari *#",
         "Nome giocatore": "Federico Piovaccari",
         "Squadra di provenienza": "US Grosseto",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1200",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Fernando Tissone *",
+        "Nome giocatore originale": "Fernando Tissone *#",
         "Nome giocatore": "Fernando Tissone",
         "Squadra di provenienza": "RCD Mallorca",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1201",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Francesco Signori *",
+        "Nome giocatore originale": "Francesco Signori *#",
         "Nome giocatore": "Francesco Signori",
         "Squadra di provenienza": "Modena FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-UC Sampdoria",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1202",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gianluca Sampietro *",
+        "Nome giocatore originale": "Gianluca Sampietro *#",
         "Nome giocatore": "Gianluca Sampietro",
         "Squadra di provenienza": "Calcio Portogruaro-Summaga",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1203",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Giuseppe Zampano *",
+        "Nome giocatore originale": "Giuseppe Zampano *#",
         "Nome giocatore": "Giuseppe Zampano",
         "Squadra di provenienza": "Calcio Portogruaro-Summaga",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1204",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Juan Antonio *",
+        "Nome giocatore originale": "Juan Antonio *#",
         "Nome giocatore": "Juan Antonio",
         "Squadra di provenienza": "AS Varese 1910",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-UC Sampdoria",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1205",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Lorenzo De Silvestri *",
@@ -13251,21 +15660,25 @@ var trasferimenti = [
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-UC Sampdoria",
+        "Serie trasferimento": "A-A",
         "Spesa": "150.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1206",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luca Rizzo *",
+        "Nome giocatore originale": "Luca Rizzo *#",
         "Nome giocatore": "Luca Rizzo",
         "Squadra di provenienza": "AC Pisa 1909",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1207",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Manolo Gabbiadini",
@@ -13273,32 +15686,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-UC Sampdoria",
+        "Serie trasferimento": "A-A",
         "Spesa": "5.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1208",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matteo Lanzoni *",
+        "Nome giocatore originale": "Matteo Lanzoni *#",
         "Nome giocatore": "Matteo Lanzoni",
         "Squadra di provenienza": "Carrarese Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1209",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Mattia Monticone *",
+        "Nome giocatore originale": "Mattia Monticone *#",
         "Nome giocatore": "Mattia Monticone",
         "Squadra di provenienza": "AC Pavia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1210",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Michele Fornasier",
@@ -13306,10 +15725,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Manchester United U21",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1211",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Mirko Eramo",
@@ -13317,43 +15738,51 @@ var trasferimenti = [
         "Squadra di provenienza": "Crotone FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-UC Sampdoria",
+        "Serie trasferimento": "B-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1212",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Moreno Beretta *",
+        "Nome giocatore originale": "Moreno Beretta *#",
         "Nome giocatore": "Moreno Beretta",
         "Squadra di provenienza": "Virtus Entella",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1213",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nicola Pozzi *",
+        "Nome giocatore originale": "Nicola Pozzi *#",
         "Nome giocatore": "Nicola Pozzi",
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-UC Sampdoria",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1214",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Nicolò Rolando *",
+        "Nome giocatore originale": "Nicolò Rolando *#",
         "Nome giocatore": "Nicolò Rolando",
         "Squadra di provenienza": "US Borgo a Buggiano 1920",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1215",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Pawel Wszolek",
@@ -13361,54 +15790,64 @@ var trasferimenti = [
         "Squadra di provenienza": "Polonia Varsavia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1216",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Savvas Gentsoglou *",
+        "Nome giocatore originale": "Savvas Gentsoglou *#",
         "Nome giocatore": "Savvas Gentsoglou",
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-UC Sampdoria",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1217",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Corazza *",
+        "Nome giocatore originale": "Simone Corazza *#",
         "Nome giocatore": "Simone Corazza",
         "Squadra di provenienza": "Calcio Portogruaro-Summaga",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1218",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Patacchiola *",
+        "Nome giocatore originale": "Simone Patacchiola *#",
         "Nome giocatore": "Simone Patacchiola",
         "Squadra di provenienza": "Calcio Portogruaro-Summaga",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1219",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Zaza *",
+        "Nome giocatore originale": "Simone Zaza *#",
         "Nome giocatore": "Simone Zaza",
         "Squadra di provenienza": "Ascoli Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1220",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Stefano D'Agostino",
@@ -13416,21 +15855,25 @@ var trasferimenti = [
         "Squadra di provenienza": "US Catanzaro",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1221",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Stefano Scappini *",
+        "Nome giocatore originale": "Stefano Scappini *#",
         "Nome giocatore": "Stefano Scappini",
         "Squadra di provenienza": "AC Pisa 1909",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1222",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Vasco Regini",
@@ -13438,54 +15881,64 @@ var trasferimenti = [
         "Squadra di provenienza": "Empoli FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-UC Sampdoria",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1223",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Vedran Celjak *",
+        "Nome giocatore originale": "Vedran Celjak *#",
         "Nome giocatore": "Vedran Celjak",
         "Squadra di provenienza": "US Grosseto",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1224",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Vincenzo Fiorillo *",
+        "Nome giocatore originale": "Vincenzo Fiorillo *#",
         "Nome giocatore": "Vincenzo Fiorillo",
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-UC Sampdoria",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1225",
         "Squadra di destinazione": "UC Sampdoria",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Zsolt Laczkó *",
+        "Nome giocatore originale": "Zsolt Laczkó *#",
         "Nome giocatore": "Zsolt Laczkó",
         "Squadra di provenienza": "Vicenza Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-UC Sampdoria",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1226",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Abdoul Sissoko *",
+        "Nome giocatore originale": "Abdoul Sissoko *#",
         "Nome giocatore": "Abdoul Sissoko",
         "Squadra di provenienza": "Stade Brest 29",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1227",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alexandre Coeff",
@@ -13493,54 +15946,64 @@ var trasferimenti = [
         "Squadra di provenienza": "RC Lens",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "1.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1228",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Álex Geijo *",
+        "Nome giocatore originale": "Álex Geijo *#",
         "Nome giocatore": "Álex Geijo",
         "Squadra di provenienza": "FC Watford",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1229",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Alin Bucuroiu *",
+        "Nome giocatore originale": "Alin Bucuroiu *#",
         "Nome giocatore": "Alin Bucuroiu",
         "Squadra di provenienza": "CS Otopeni",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1230",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Almen Abdi *",
+        "Nome giocatore originale": "Almen Abdi *#",
         "Nome giocatore": "Almen Abdi",
         "Squadra di provenienza": "FC Watford",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1231",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Andrea Coda *",
+        "Nome giocatore originale": "Andrea Coda *#",
         "Nome giocatore": "Andrea Coda",
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Udinese Calcio",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1232",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Andrea Mazzarani",
@@ -13548,21 +16011,25 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Udinese Calcio",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1233",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Antonio Candreva *",
+        "Nome giocatore originale": "Antonio Candreva *#",
         "Nome giocatore": "Antonio Candreva",
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Udinese Calcio",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1234",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Bruno Fernandes",
@@ -13570,32 +16037,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Novara Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Udinese Calcio",
+        "Serie trasferimento": "B-A",
         "Spesa": "2.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1235",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Cristian Battocchio *",
+        "Nome giocatore originale": "Cristian Battocchio *#",
         "Nome giocatore": "Cristian Battocchio",
         "Squadra di provenienza": "FC Watford",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1236",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Cristian Pasquato *",
+        "Nome giocatore originale": "Cristian Pasquato *#",
         "Nome giocatore": "Cristian Pasquato",
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Udinese Calcio",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1237",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Daniele Mori",
@@ -13603,32 +16076,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Empoli FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Udinese Calcio",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1238",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Diego Fabbrini *",
+        "Nome giocatore originale": "Diego Fabbrini *#",
         "Nome giocatore": "Diego Fabbrini",
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Udinese Calcio",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1239",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Dioni *",
+        "Nome giocatore originale": "Dioni *#",
         "Nome giocatore": "Dioni",
         "Squadra di provenienza": "CD Leganés",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1240",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Douglas Santos *",
@@ -13636,10 +16115,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Granada CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1241",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Francesco Benussi",
@@ -13647,10 +16128,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Udinese Calcio",
+        "Serie trasferimento": "B-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1242",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Frano Mlinar",
@@ -13658,21 +16141,25 @@ var trasferimenti = [
         "Squadra di provenienza": "NK Inter Zapresic",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "1.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1243",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Gabriel Torje *",
+        "Nome giocatore originale": "Gabriel Torje *#",
         "Nome giocatore": "Gabriel Torje",
         "Squadra di provenienza": "Granada CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1244",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Igor Bubnjic",
@@ -13680,10 +16167,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Slaven Belupo Koprivnica",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "1.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1245",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ivan Kelava",
@@ -13691,10 +16180,12 @@ var trasferimenti = [
         "Squadra di provenienza": "GNK Dinamo Zagabria",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "600.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1246",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Jádson",
@@ -13702,21 +16193,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Botafogo de Futebol e Regatas",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "2.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1247",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Jaime Romero *",
+        "Nome giocatore originale": "Jaime Romero *#",
         "Nome giocatore": "Jaime Romero",
         "Squadra di provenienza": "Orduspor",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1248",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Javi Acuña",
@@ -13724,98 +16219,116 @@ var trasferimenti = [
         "Squadra di provenienza": "Girona FC",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1249",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Juan Cuadrado *",
+        "Nome giocatore originale": "Juan Cuadrado *#",
         "Nome giocatore": "Juan Cuadrado",
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Udinese Calcio",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1250",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Juan Surraco *",
+        "Nome giocatore originale": "Juan Surraco *#",
         "Nome giocatore": "Juan Surraco",
         "Squadra di provenienza": "Modena FC",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Udinese Calcio",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1251",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Lars Ekstrand *",
+        "Nome giocatore originale": "Lars Ekstrand *#",
         "Nome giocatore": "Lars Ekstrand",
         "Squadra di provenienza": "FC Watford",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1252",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Leandro Caruso *",
+        "Nome giocatore originale": "Leandro Caruso *#",
         "Nome giocatore": "Leandro Caruso",
         "Squadra di provenienza": "Argentinos Juniors",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1253",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Marco Cassetti *",
+        "Nome giocatore originale": "Marco Cassetti *#",
         "Nome giocatore": "Marco Cassetti",
         "Squadra di provenienza": "FC Watford",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1254",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Masahudu Alhassan *",
+        "Nome giocatore originale": "Masahudu Alhassan *#",
         "Nome giocatore": "Masahudu Alhassan",
         "Squadra di provenienza": "Novara Calcio",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-Udinese Calcio",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1255",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matej Vydra *",
+        "Nome giocatore originale": "Matej Vydra *#",
         "Nome giocatore": "Matej Vydra",
         "Squadra di provenienza": "FC Watford",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1256",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Matías Campos *",
+        "Nome giocatore originale": "Matías Campos *#",
         "Nome giocatore": "Matías Campos",
         "Squadra di provenienza": "Hércules CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1257",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Naldo",
@@ -13823,21 +16336,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Udinese Calcio",
+        "Serie trasferimento": "A-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1258",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Neuton *",
+        "Nome giocatore originale": "Neuton *#",
         "Nome giocatore": "Neuton",
         "Squadra di provenienza": "FC Watford",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1259",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Nicolás López",
@@ -13845,32 +16362,38 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Udinese Calcio",
+        "Serie trasferimento": "A-A",
         "Spesa": "1.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1260",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Odion Ighalo *",
+        "Nome giocatore originale": "Odion Ighalo *#",
         "Nome giocatore": "Odion Ighalo",
         "Squadra di provenienza": "Granada CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1261",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Oliveira Jefferson *",
+        "Nome giocatore originale": "Oliveira Jefferson *#",
         "Nome giocatore": "Oliveira Jefferson",
         "Squadra di provenienza": "FBC Unione Venezia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1262",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Orestis Karnezis",
@@ -13878,32 +16401,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Panathinaikos Athen",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "800.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1263",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Pablo Armero *",
+        "Nome giocatore originale": "Pablo Armero *#",
         "Nome giocatore": "Pablo Armero",
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-Udinese Calcio",
+        "Serie trasferimento": "A-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1264",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Rosario Licata *",
+        "Nome giocatore originale": "Rosario Licata *#",
         "Nome giocatore": "Rosario Licata",
         "Squadra di provenienza": "Calcio Portogruaro-Summaga",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1265",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Silvan Widmer",
@@ -13911,10 +16440,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Granada CF",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "750.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1266",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Simone Scuffet",
@@ -13922,21 +16453,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Primavera",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1267",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Steve Beleck *",
+        "Nome giocatore originale": "Steve Beleck *#",
         "Nome giocatore": "Steve Beleck",
         "Squadra di provenienza": "FC Watford",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1268",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Valerio Verre",
@@ -13944,21 +16479,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Udinese Calcio",
+        "Serie trasferimento": "A-A",
         "Spesa": "2.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1269",
         "Squadra di destinazione": "Udinese Calcio",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Willians *",
+        "Nome giocatore originale": "Willians *#",
         "Nome giocatore": "Willians",
         "Squadra di provenienza": "Sport Club Internacional",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-Udinese Calcio",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1270",
         "Squadra di destinazione": "US Catanzaro",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessandro Marchi *",
@@ -13966,10 +16505,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1271",
         "Squadra di destinazione": "US Catanzaro",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Emiliano Tortolano *",
@@ -13977,10 +16518,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1272",
         "Squadra di destinazione": "US Catanzaro",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Giacomo Bindi",
@@ -13988,10 +16531,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1273",
         "Squadra di destinazione": "US Catanzaro",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Michele Rigione",
@@ -13999,10 +16544,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1274",
         "Squadra di destinazione": "US Catanzaro",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Riccardo Casini *",
@@ -14010,10 +16557,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Bologna FC 1909",
         "Serie di provenienza": "A",
         "Trasferimento": "Bologna FC 1909-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1275",
         "Squadra di destinazione": "US Città di Palermo",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Alen Stevanovic *",
@@ -14021,32 +16570,38 @@ var trasferimenti = [
         "Squadra di provenienza": "Torino FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Torino FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1276",
         "Squadra di destinazione": "US Città di Palermo",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Armin Bacinovic *",
+        "Nome giocatore originale": "Armin Bacinovic *#",
         "Nome giocatore": "Armin Bacinovic",
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1277",
         "Squadra di destinazione": "US Città di Palermo",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Emiliano Viviano *",
+        "Nome giocatore originale": "Emiliano Viviano *#",
         "Nome giocatore": "Emiliano Viviano",
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1278",
         "Squadra di destinazione": "US Città di Palermo",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Eros Pisano",
@@ -14054,10 +16609,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1279",
         "Squadra di destinazione": "US Città di Palermo",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Gennaro Troianiello",
@@ -14065,54 +16622,64 @@ var trasferimenti = [
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1280",
         "Squadra di destinazione": "US Città di Palermo",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Giulio Migliaccio *",
+        "Nome giocatore originale": "Giulio Migliaccio *#",
         "Nome giocatore": "Giulio Migliaccio",
         "Squadra di provenienza": "ACF Fiorentina",
         "Serie di provenienza": "A",
         "Trasferimento": "ACF Fiorentina-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1281",
         "Squadra di destinazione": "US Città di Palermo",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Igor Budan *",
+        "Nome giocatore originale": "Igor Budan *#",
         "Nome giocatore": "Igor Budan",
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1282",
         "Squadra di destinazione": "US Città di Palermo",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Matías Silvestre *",
+        "Nome giocatore originale": "Matías Silvestre *#",
         "Nome giocatore": "Matías Silvestre",
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1283",
         "Squadra di destinazione": "US Città di Palermo",
         "Serie di destinazione": "B",
-        "Nome giocatore originale": "Samir Ujkani *",
+        "Nome giocatore originale": "Samir Ujkani *#",
         "Nome giocatore": "Samir Ujkani",
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1284",
         "Squadra di destinazione": "US Città di Palermo",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Stefano Sorrentino",
@@ -14120,10 +16687,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "2.000.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1285",
         "Squadra di destinazione": "US Città di Palermo",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Valerio Verre *",
@@ -14131,10 +16700,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1286",
         "Squadra di destinazione": "US Cremonese",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Massimo Loviso *",
@@ -14142,10 +16713,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1287",
         "Squadra di destinazione": "US Cremonese",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matteo Abbate",
@@ -14153,10 +16726,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1288",
         "Squadra di destinazione": "US Cremonese",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Simone Palermo",
@@ -14164,10 +16739,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1289",
         "Squadra di destinazione": "US Gavorrano",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Federico Meacci *",
@@ -14175,10 +16752,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1290",
         "Squadra di destinazione": "US Gavorrano",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Luca Fiordiani *",
@@ -14186,10 +16765,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1291",
         "Squadra di destinazione": "US Gavorrano",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matteo Bellucci *",
@@ -14197,10 +16778,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1292",
         "Squadra di destinazione": "US Gavorrano",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Niko Bianconi *",
@@ -14208,10 +16791,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1293",
         "Squadra di destinazione": "US Gavorrano",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Simon Gentili *",
@@ -14219,10 +16804,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1294",
         "Squadra di destinazione": "US Grosseto",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Bryan Gioè *",
@@ -14230,10 +16817,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1295",
         "Squadra di destinazione": "US Grosseto",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Dario Colombi",
@@ -14241,10 +16830,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1296",
         "Squadra di destinazione": "US Grosseto",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Federico Barba",
@@ -14252,10 +16843,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "200.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1297",
         "Squadra di destinazione": "US Grosseto",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Luca Tedeschi *",
@@ -14263,10 +16856,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1298",
         "Squadra di destinazione": "US Grosseto",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matteo Legittimo *",
@@ -14274,10 +16869,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1299",
         "Squadra di destinazione": "US Grosseto",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Stefano Scappini *",
@@ -14285,10 +16882,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1300",
         "Squadra di destinazione": "US Latina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Abdelkader Ghezzal *",
@@ -14296,10 +16895,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1301",
         "Squadra di destinazione": "US Latina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Alessandro Iacobucci *",
@@ -14307,10 +16908,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1302",
         "Squadra di destinazione": "US Latina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Cosimo Chiricò *",
@@ -14318,10 +16921,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1303",
         "Squadra di destinazione": "US Latina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Masahudu Alhassan *",
@@ -14329,10 +16934,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1304",
         "Squadra di destinazione": "US Latina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Riccardo Brosco *",
@@ -14340,10 +16947,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1305",
         "Squadra di destinazione": "US Latina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Stefano Morrone *",
@@ -14351,10 +16960,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1306",
         "Squadra di destinazione": "US Latina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Stefan Ristovski *",
@@ -14362,10 +16973,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1307",
         "Squadra di destinazione": "US Latina Calcio",
         "Serie di destinazione": "B",
         "Nome giocatore originale": "Wojciech Pawlowski *",
@@ -14373,10 +16986,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Serie B",
+        "Serie trasferimento": "A-B",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1308",
         "Squadra di destinazione": "US Lecce",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Angelo Bencivenga *",
@@ -14384,10 +16999,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1309",
         "Squadra di destinazione": "US Lecce",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Filippo Perucchini",
@@ -14395,10 +17012,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1310",
         "Squadra di destinazione": "US Lecce",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Giacomo Beretta *",
@@ -14406,10 +17025,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1311",
         "Squadra di destinazione": "US Lecce",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gianmarco Zigoni *",
@@ -14417,10 +17038,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1312",
         "Squadra di destinazione": "US Lecce",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Kevin Vinetot *",
@@ -14428,10 +17051,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1313",
         "Squadra di destinazione": "US Poggibonsi",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Filippo Scardina *",
@@ -14439,10 +17064,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1314",
         "Squadra di destinazione": "US Poggibonsi",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Riccardo Anedda",
@@ -14450,10 +17077,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Cagliari Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Cagliari Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1315",
         "Squadra di destinazione": "US Pontedera 1912",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Jacopo Galli",
@@ -14461,10 +17090,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Livorno",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Livorno-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1316",
         "Squadra di destinazione": "US Pontedera 1912",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Stefano D'Agostino *",
@@ -14472,10 +17103,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1317",
         "Squadra di destinazione": "US Salernitana 1919",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Alessandro Berardi *",
@@ -14483,10 +17116,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1318",
         "Squadra di destinazione": "US Salernitana 1919",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Andrea Sbraga *",
@@ -14494,10 +17129,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1319",
         "Squadra di destinazione": "US Salernitana 1919",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Ettore Mendicino *",
@@ -14505,10 +17142,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1320",
         "Squadra di destinazione": "US Salernitana 1919",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Gennaro Esposito *",
@@ -14516,10 +17155,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Hellas Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "Hellas Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1321",
         "Squadra di destinazione": "US Salernitana 1919",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Giuseppe Capua *",
@@ -14527,10 +17168,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1322",
         "Squadra di destinazione": "US Salernitana 1919",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Riccardo Perpetuini *",
@@ -14538,10 +17181,12 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Lazio",
         "Serie di provenienza": "A",
         "Trasferimento": "SS Lazio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1323",
         "Squadra di destinazione": "US Sanvitese",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Simone Amadio",
@@ -14549,10 +17194,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1324",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Alberto Aladje",
@@ -14560,10 +17207,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Aprilia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-US Sassuolo",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1325",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Antonio Floro Flores *",
@@ -14571,10 +17220,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-US Sassuolo",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1326",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Antonio Rosati *",
@@ -14582,21 +17233,25 @@ var trasferimenti = [
         "Squadra di provenienza": "SSC Napoli",
         "Serie di provenienza": "A",
         "Trasferimento": "SSC Napoli-US Sassuolo",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1327",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Diego Falcinelli *",
+        "Nome giocatore originale": "Diego Falcinelli *#",
         "Nome giocatore": "Diego Falcinelli",
         "Squadra di provenienza": "SS Virtus Lanciano",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-US Sassuolo",
+        "Serie trasferimento": "B-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1328",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Diego Farias *",
@@ -14604,10 +17259,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-US Sassuolo",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1329",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Ezequiel Schelotto *",
@@ -14615,10 +17272,12 @@ var trasferimenti = [
         "Squadra di provenienza": "FC Internazionale",
         "Serie di provenienza": "A",
         "Trasferimento": "FC Internazionale-US Sassuolo",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1330",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Francesco Acerbi",
@@ -14626,10 +17285,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Genoa CFC",
         "Serie di provenienza": "A",
         "Trasferimento": "Genoa CFC-US Sassuolo",
+        "Serie trasferimento": "A-A",
         "Spesa": "1.700.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1331",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Gianluca Pegolo",
@@ -14637,10 +17298,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Siena",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-US Sassuolo",
+        "Serie trasferimento": "B-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1332",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Jasmin Kurtic",
@@ -14648,10 +17311,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Città di Palermo",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-US Sassuolo",
+        "Serie trasferimento": "B-A",
         "Spesa": "2.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1333",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Jonathan Rossini",
@@ -14659,10 +17324,12 @@ var trasferimenti = [
         "Squadra di provenienza": "UC Sampdoria",
         "Serie di provenienza": "A",
         "Trasferimento": "UC Sampdoria-US Sassuolo",
+        "Serie trasferimento": "A-A",
         "Spesa": "1.300.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1334",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Antei",
@@ -14670,21 +17337,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Roma",
         "Serie di provenienza": "A",
         "Trasferimento": "AS Roma-US Sassuolo",
+        "Serie trasferimento": "A-A",
         "Spesa": "500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1335",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Luca Benedetti *",
+        "Nome giocatore originale": "Luca Benedetti *#",
         "Nome giocatore": "Luca Benedetti",
         "Squadra di provenienza": "ASD Santarcangelo Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-US Sassuolo",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1336",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Luca Marrone",
@@ -14692,10 +17363,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-US Sassuolo",
+        "Serie trasferimento": "A-A",
         "Spesa": "4.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1337",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Marius Alexe *",
@@ -14703,21 +17376,25 @@ var trasferimenti = [
         "Squadra di provenienza": "Dinamo Bucarest",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-US Sassuolo",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "500.000 €",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1338",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Pellegrino Albanese *",
+        "Nome giocatore originale": "Pellegrino Albanese *#",
         "Nome giocatore": "Pellegrino Albanese",
         "Squadra di provenienza": "Arzanese Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-US Sassuolo",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1339",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Raffaele D'Orsi",
@@ -14725,10 +17402,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Pavia",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-US Sassuolo",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1340",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Raffaele Pucino",
@@ -14736,10 +17415,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AS Varese 1910",
         "Serie di provenienza": "B",
         "Trasferimento": "Serie B-US Sassuolo",
+        "Serie trasferimento": "B-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1341",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Raman Chibsah",
@@ -14747,10 +17428,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-US Sassuolo",
+        "Serie trasferimento": "A-A",
         "Spesa": "2.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1342",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Reto Ziegler *",
@@ -14758,10 +17441,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-US Sassuolo",
+        "Serie trasferimento": "A-A",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1343",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Riccardo Barbuti",
@@ -14769,21 +17454,25 @@ var trasferimenti = [
         "Squadra di provenienza": "SS Barletta Calcio",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-US Sassuolo",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1344",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
-        "Nome giocatore originale": "Simone Finizza *",
+        "Nome giocatore originale": "Simone Finizza *#",
         "Nome giocatore": "Simone Finizza",
         "Squadra di provenienza": "FC Fondi 1922",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-US Sassuolo",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1345",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Simone Zaza",
@@ -14791,10 +17480,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-US Sassuolo",
+        "Serie trasferimento": "A-A",
         "Spesa": "2.500.000 €",
         "Tipologia": "Oneroso"
     },
     {
+        "Id": "1346",
         "Squadra di destinazione": "US Sassuolo",
         "Serie di destinazione": "A",
         "Nome giocatore originale": "Vincenzo Ferrara",
@@ -14802,10 +17493,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Reggiana 1919",
         "Serie di provenienza": "Altro",
         "Trasferimento": "Altro-US Sassuolo",
+        "Serie trasferimento": "Altro-A",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1347",
         "Squadra di destinazione": "Vicenza Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Milos Malivojevic",
@@ -14813,10 +17506,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1348",
         "Squadra di destinazione": "Vigor Lamezia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Diego De Giorgi *",
@@ -14824,10 +17519,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1349",
         "Squadra di destinazione": "Vigor Lamezia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Francesco Rapisarda",
@@ -14835,10 +17532,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "NA"
     },
     {
+        "Id": "1350",
         "Squadra di destinazione": "Vigor Lamezia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matteo Bibba *",
@@ -14846,10 +17545,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1351",
         "Squadra di destinazione": "Vigor Lamezia Calcio",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Stefano Rossini *",
@@ -14857,10 +17558,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1352",
         "Squadra di destinazione": "Villarreal CF",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Bojan Jokic",
@@ -14868,21 +17571,25 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1353",
         "Squadra di destinazione": "Villarreal CF",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Cristian Zapata *",
+        "Nome giocatore originale": "Cristian Zapata *#",
         "Nome giocatore": "Cristian Zapata",
         "Squadra di provenienza": "AC Milan",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Milan-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     },
     {
+        "Id": "1354",
         "Squadra di destinazione": "Virtus Entella",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Adrián Ricchiuti",
@@ -14890,10 +17597,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Calcio Catania",
         "Serie di provenienza": "A",
         "Trasferimento": "Calcio Catania-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1355",
         "Squadra di destinazione": "Virtus Entella",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Michele Troiano",
@@ -14901,10 +17610,12 @@ var trasferimenti = [
         "Squadra di provenienza": "US Sassuolo",
         "Serie di provenienza": "A",
         "Trasferimento": "US Sassuolo-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1356",
         "Squadra di destinazione": "Virtus Entella",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Simone Magnaghi *",
@@ -14912,10 +17623,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Atalanta BC",
         "Serie di provenienza": "A",
         "Trasferimento": "Atalanta BC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1357",
         "Squadra di destinazione": "Virtus Vecomp",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Marco Pavanello *",
@@ -14923,10 +17636,12 @@ var trasferimenti = [
         "Squadra di provenienza": "AC Chievo Verona",
         "Serie di provenienza": "A",
         "Trasferimento": "AC Chievo Verona-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1358",
         "Squadra di destinazione": "West Bromwich Albion",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Matej Vydra *",
@@ -14934,10 +17649,12 @@ var trasferimenti = [
         "Squadra di provenienza": "Udinese Calcio",
         "Serie di provenienza": "A",
         "Trasferimento": "Udinese Calcio-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "?",
         "Tipologia": "Prestito"
     },
     {
+        "Id": "1359",
         "Squadra di destinazione": "West Bromwich Albion",
         "Serie di destinazione": "Altro",
         "Nome giocatore originale": "Nicolas Anelka",
@@ -14945,18 +17662,21 @@ var trasferimenti = [
         "Squadra di provenienza": "Juventus FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Juventus FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "svincolato",
         "Tipologia": "Svincolo"
     },
     {
+        "Id": "1360",
         "Squadra di destinazione": "Zulia Fútbol Club",
         "Serie di destinazione": "Altro",
-        "Nome giocatore originale": "Manuel Arteaga *",
+        "Nome giocatore originale": "Manuel Arteaga *#",
         "Nome giocatore": "Manuel Arteaga",
         "Squadra di provenienza": "Parma FC",
         "Serie di provenienza": "A",
         "Trasferimento": "Parma FC-Altro",
+        "Serie trasferimento": "A-Altro",
         "Spesa": "-",
-        "Tipologia": "Prestito"
+        "Tipologia": "Rientro"
     }
 ];

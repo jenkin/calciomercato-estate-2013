@@ -5,7 +5,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=a093cdc0-a8a8-4f4c-9844-0e89093e51fa&groupId=10192&t=1349438698526",
-        "Colore": "",
+        "Colore": "#0088c9",
         "Sprite": 5
     },
     {
@@ -14,7 +14,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=6645862f-d86d-4823-a09f-e51ae7eba2be&groupId=10192&t=1349438747476",
-        "Colore": "",
+        "Colore": "#e5382c",
         "Sprite": 6
     },
     {
@@ -23,7 +23,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=14b7fa1d-5817-48fe-bbae-dd4cbff78a0f&groupId=10192&t=1349438838378",
-        "Colore": "",
+        "Colore": "#c2092b",
         "Sprite": 7
     },
     {
@@ -32,7 +32,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=dd0faef5-0efd-4056-bba7-acecc99e6870&groupId=10192&t=1349438892595",
-        "Colore": "",
+        "Colore": "#005ea8",
         "Sprite": 8
     },
     {
@@ -41,7 +41,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=afb5fe9f-418a-4953-b1e7-3ce6833fc65f&groupId=10192&t=1349438937436",
-        "Colore": "",
+        "Colore": "#ffdc0b",
         "Sprite": 0
     },
     {
@@ -50,7 +50,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=fb5745c6-ef39-4665-bbc7-99c941655b33&groupId=10192&t=1349438981761",
-        "Colore": "",
+        "Colore": "#4c1985",
         "Sprite": 2
     },
     {
@@ -59,7 +59,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=1e69a2b0-0b37-4060-8d9d-01acb9a37320&groupId=10192&t=1349439027633",
-        "Colore": "",
+        "Colore": "#df2d2f",
         "Sprite": 10
     },
     {
@@ -68,7 +68,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=428ccece-9a86-475a-ae82-b12725f79306&groupId=10192&t=1349439074943",
-        "Colore": "",
+        "Colore": "#035eb3",
         "Sprite": 9
     },
     {
@@ -77,7 +77,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=d61ee2de-b336-4385-ac64-1863e06693cd&groupId=10192&t=1349439122331",
-        "Colore": "",
+        "Colore": "#8b8d8d",
         "Sprite": 12
     },
     {
@@ -86,7 +86,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=71883757-23e9-4688-b270-5bb2907c6102&groupId=10192&t=1349439163813",
-        "Colore": "",
+        "Colore": "#96d2f6",
         "Sprite": 14
     },
     {
@@ -95,7 +95,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=68aff77d-9794-4029-b4ad-7bb933656c5b&groupId=10192&t=1371485046854",
-        "Colore": "",
+        "Colore": "#952f48",
         "Sprite": 3
     },
     {
@@ -104,7 +104,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=cb2bbc30-9cca-4060-b841-c30aae9bac89&groupId=10192&t=1349439204577",
-        "Colore": "",
+        "Colore": "#e60003",
         "Sprite": 1
     },
     {
@@ -113,7 +113,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=2e90fbb8-b851-4570-8f6b-133050986e14&groupId=10192&t=1349439249574",
-        "Colore": "",
+        "Colore": "#2292cc",
         "Sprite": 15
     },
     {
@@ -122,7 +122,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=d40680e5-bb1f-4921-8075-d9ba9f9480b6&groupId=10192&t=1349439340741",
-        "Colore": "",
+        "Colore": "#fab700",
         "Sprite": 13
     },
     {
@@ -131,7 +131,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=5ec28ffa-258a-4c94-8b42-c3235b1595f1&groupId=10192&t=1349439438750",
-        "Colore": "",
+        "Colore": "#a61d37",
         "Sprite": 4
     },
     {
@@ -140,7 +140,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=3461b411-faf6-4de3-878a-79e66b9df25a&groupId=10192&t=1349439545845",
-        "Colore": "",
+        "Colore": "#015d89",
         "Sprite": 17
     },
     {
@@ -149,7 +149,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=2fa408c3-4ea8-4504-8fbe-a7d2037c5908&groupId=10192&t=1371484216947",
-        "Colore": "",
+        "Colore": "#01a54f",
         "Sprite": 19
     },
     {
@@ -158,7 +158,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=a439409e-ec32-4d9e-8b54-b72344443c6a&groupId=10192&t=1349439780263",
-        "Colore": "",
+        "Colore": "#a51a3f",
         "Sprite": 16
     },
     {
@@ -167,7 +167,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=d7feaaef-1a12-4976-b412-e045314057ec&groupId=10192&t=1360939090430",
-        "Colore": "",
+        "Colore": "#9c9d9f",
         "Sprite": 18
     },
     {
@@ -176,7 +176,7 @@ var squadreA = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "http://cdn.legaseriea.it/image/image_gallery?uuid=76d76b65-a05e-45aa-b6f7-5ab344930dab&groupId=10192&t=1371486103668",
-        "Colore": "",
+        "Colore": "#feeb00",
         "Sprite": 11
     },
     {
@@ -185,7 +185,7 @@ var squadreA = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "",
-        "Colore": "",
+        "Colore": "#e5e5e5",
         "Sprite": 9999
     },
     {
@@ -194,7 +194,7 @@ var squadreA = [
         "Serie": "",
         "Nazione": "",
         "Simbolo": "",
-        "Colore": "",
+        "Colore": "#e5e5e5",
         "Sprite": 9999
     }
 ];

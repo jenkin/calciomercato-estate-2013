@@ -4,7 +4,7 @@ div.chord svg circle {
 }
 
 div.chord svg g.group path {
-  fill-opacity: .5;
+  fill-opacity: 1;
 }
 
 div.chord svg path.chord {
