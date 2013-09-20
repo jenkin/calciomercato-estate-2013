@@ -17,7 +17,7 @@ enyo.kind({
                     {name: "TabAcquisti", tag: "h2", classes: "tab selected", content: "Acquisti", ontap: "ontapacquisti"},
                     {name: "TabCessioni", tag: "h2", classes: "tab", content: "Cessioni", ontap: "ontapcessioni"}
                 ]},
-	    		{name: "Chord", kind: "d3.Chord", width: 585, height: 585, onNodeLabel: "onnodelabel", onNodeText: "onnodetext", onChordLabel: "onchordlabel", onNodeMouseover: "onselectnode", onChordClick: "onselectchord", rotateGroups: 2, nodes: squadreA, matrix: cessioni, details: trasferimenti, classes: "vertical-padding"},
+	    		{name: "Chord", kind: "d3.Chord", width: 585, height: 585, onNodeLabel: "onnodelabel", onNodeText: "onnodetext", onChordLabel: "onchordlabel", onNodeMouseover: "onselectnode", onChordMouseover: "onselectchord", rotateGroups: 2, nodes: squadreA, matrix: cessioniA, details: trasferimentiA, classes: "vertical-padding"},
                 {kind: "FittableColumns", components: [
                     {name: "PrimaImmagine", classes: "prima immagine"},
                     {classes: "prima squadra", fit: true, components: [
@@ -53,7 +53,8 @@ enyo.kind({
             + "with Enyo Framework and D3 javascript library<br>"
             + "Powered by <a href=\"http://www.dataninja.it/\" target=\"_blank\">Dataninja</a> | "
             + "Source: <a href=\"http://www.legaseriea.it/\" target=\"_blank\">Lega Serie A</a>, "
-            + "<a href=\"http://www.transfermarkt.it/it/serie-a/sommertransfers/wettbewerb_IT1.html\" target=\"_blank\">Transfermarkt.it</a>"
+            + "<a href=\"http://www.transfermarkt.it/it/serie-a/sommertransfers/wettbewerb_IT1.html\" target=\"_blank\">Transfermarkt.it</a> | "
+            + "Repo on <a href=\"https://github.com/jenkin/calciomercato2013\" target=\"_blank\">GitHub</a>"
         }
 	],
     onnodelabel: function(d,i) {
@@ -78,10 +79,10 @@ enyo.kind({
     onselectnode: function(inSender,node) {
         this.onfadenode(inSender,node);
         var that = this.$.Chord;
-        var acquisti = that.getDetails().filter(function(obj) {
+        var cessioni = that.getDetails().filter(function(obj) {
                     return obj["Squadra di provenienza"] === that.getNodes()[node.index]["Nome completo"];
         });
-        var cessioni = that.getDetails().filter(function(obj) {
+        var acquisti = that.getDetails().filter(function(obj) {
                     return obj["Squadra di destinazione"] === that.getNodes()[node.index]["Nome completo"];
         });
         this.$.SecondaSquadra.setContent();
@@ -92,7 +93,7 @@ enyo.kind({
         if (that.getNodes()[node.index]["Nome completo"] !== "Altro" && that.getNodes()[node.index]["Nome completo"] !== "Serie B") {
             this.$.PrimaSquadra.setContent(that.getNodes()[node.index]["Nome completo"]);
             this.$.PrimaImmagine.setStyle("background-position: left " + (-that.getNodes()[node.index]["Sprite"]*this.spriteShift) + "px;");
-            this.$.Riassunto.setContent("Ha effettuato " + cessioni.length + " cessioni e " + acquisti.length + " acquisti.");
+            this.$.Riassunto.setContent("Ha effettuato " + acquisti.length + " acquisti e " + cessioni.length + " cessioni.");
         } else {
             this.$.PrimaSquadra.setContent();
             this.$.PrimaImmagine.setStyle("background-position: right 9999px;");
@@ -140,14 +141,14 @@ enyo.kind({
         this.$.TabAcquisti.removeClass("selected");
         this.$.TabCessioni.addClass("selected");
         this.nodelabel = "cessioni";
-        this.$.Chord.setMatrix(acquisti);
+        this.$.Chord.setMatrix(acquistiA);
         return true;
     },
     ontapacquisti: function(inSender,inEvent) {
         this.$.TabCessioni.removeClass("selected");
         this.$.TabAcquisti.addClass("selected");
         this.nodelabel = "acquisti";
-        this.$.Chord.setMatrix(cessioni);
+        this.$.Chord.setMatrix(cessioniA);
         return true;
     },
     writeCessioni: function(inSender,inEvent) {

@@ -1,0 +1,166 @@
+/*
+	Put anything you reference with "url()" in ../assets/
+	This way, you can minify your application, and just remove the "source" folder for production
+*/
+
+body {
+    margin: auto;
+    width: 600px;
+    color: #333333;
+    font-size: 1.3em;
+    line-height: 1.66em;
+    font-family: Arial;
+}
+
+h1 {
+    color: #111111;
+    font-family: Georgia, 'Times new Roman', serif;
+    /*font-size: 3.1em;*/
+    font-weight: normal;
+    letter-spacing: 0.015em;
+}
+
+.vertical-padding {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#app_Repeater span {
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid gray;
+}
+
+.group text {
+    font-size: 10px;
+}
+
+.chord {
+    cursor: pointer;
+}
+
+.tab {
+    padding: 15px;
+    cursor: pointer;
+    border: 1px solid white;
+    width: 50%;
+    text-align: center;
+}
+
+.tab.selected {
+    background-color: #e66d06;
+    border-color: #e66d06;
+    color: white;
+}
+
+.tab:hover {
+    border-color: #e66d06;
+}
+
+.squadra > h1 {
+    padding: 15px;
+    padding-bottom: 5px;
+    padding-top: 0;
+    border: 1px solid white;
+    margin: 0;
+}
+
+.squadra > p {
+    padding-left: 15px;
+    margin-top: 0;
+    border: 1px solid white;
+}
+
+.squadra.prima {
+    text-align: left;
+    /*padding-left: 75px;*/
+}
+
+.immagine.prima {
+    width: 75px;
+    height: 75px;
+    background-image: url('../assets/spriteA.png');
+    /*background-attachment: fixed;*/
+    background-position: left 9999px;
+    background-repeat: no-repeat;
+    background-size: 75px;
+}
+
+.squadra.seconda {
+    text-align: right;
+    /*padding-right: 75px;*/
+}
+
+.immagine.seconda {
+    width: 75px;
+    height: 75px;
+    background-image: url('../assets/spriteA.png');
+    /*background-attachment: fixed;*/
+    background-position: right 9999px;
+    background-repeat: no-repeat;
+    background-size: 75px;
+}
+
+.trasferimenti {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.trasferimenti > div {
+    width: 50%;
+}
+
+.trasferimenti p {
+    padding: 5px;
+    margin: 5px;
+}
+
+.trasferimenti .tipologia {
+    font-size: 75%;
+    margin-left: 1em;
+}
+
+.cessioni {
+    /*background-color: red;*/
+    text-align: left;
+    padding-left: 15px;
+    background-image: url('../assets/cessioni_down.png');
+    /*background-attachment: fixed;*/
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: 25px;
+}
+
+.cessioni > p:first-child {
+    border-top: 1px solid red;
+}
+
+.acquisti {
+    /*background-color: green;*/
+    text-align: right;
+    padding-right: 15px;
+    background-image: url('../assets/acquisti_up.png');
+    /*background-attachment: fixed;*/
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: 25px;
+}
+
+.acquisti > p:last-child {
+    border-bottom: 1px solid green;
+}
+
+.toolbar {
+    font-family: Georgia, 'Times new Roman', serif;
+}
+
+.toolbar.bottom {
+    font-size: 55%;
+    line-height: 0.75em;
+}
+
+.toolbar.bottom a {
+    color: white;
+    margin-left: 0;
+    margin-right: 0;
+}

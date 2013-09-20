@@ -4,10 +4,10 @@ enyo.depends(
 	//"Theme.less",	// uncomment this line, and follow the steps described in Theme.less
     //"$lib/modernizr",
     "$lib/d3",
-	"App.css",
+	"AppB.css",
     "squadre.js",
     "trasferimenti.js",
     "cessioni.js",
     "acquisti.js",
-	"App.js"
+	"AppB.js"
 );

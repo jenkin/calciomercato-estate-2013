@@ -206,7 +206,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/avellino.png",
-        "Colore": ""
+        "Colore": "#00792c",
+        "Sprite": 2
     },
     {
         "Nome completo": "AS Bari",
@@ -214,7 +215,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/s_3.png",
-        "Colore": ""
+        "Colore": "#ee2e24",
+        "Sprite": 3
     },
     {
         "Nome completo": "Brescia Calcio",
@@ -222,7 +224,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/s_2.png",
-        "Colore": ""
+        "Colore": "#ca9d3b",
+        "Sprite": 6
     },
     {
         "Nome completo": "Carpi FC 1909",
@@ -230,7 +233,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/carpi.png",
-        "Colore": ""
+        "Colore": "#f70303",
+        "Sprite": 8
     },
     {
         "Nome completo": "AC Cesena",
@@ -238,7 +242,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/s_4.png",
-        "Colore": ""
+        "Colore": "#8b8d8d",
+        "Sprite": 0
     },
     {
         "Nome completo": "AS Cittadella",
@@ -246,7 +251,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/new_logo_cittadella.png",
-        "Colore": ""
+        "Colore": "#890068",
+        "Sprite": 4
     },
     {
         "Nome completo": "Crotone FC",
@@ -254,7 +260,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/s_8.png",
-        "Colore": ""
+        "Colore": "#a09db0",
+        "Sprite": 9
     },
     {
         "Nome completo": "Empoli FC",
@@ -262,7 +269,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/s_6.png",
-        "Colore": ""
+        "Colore": "#3550a7",
+        "Sprite": 11
     },
     {
         "Nome completo": "SS Juve Stabia",
@@ -270,7 +278,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/juve_stabia.png",
-        "Colore": ""
+        "Colore": "#fcdb09",
+        "Sprite": 16
     },
     {
         "Nome completo": "SS Virtus Lanciano",
@@ -278,7 +287,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/logo_virtus_lanciano.png",
-        "Colore": ""
+        "Colore": "#e2001a",
+        "Sprite": 17
     },
     {
         "Nome completo": "US Latina Calcio",
@@ -286,7 +296,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/latina.png",
-        "Colore": ""
+        "Colore": "#0c3f98",
+        "Sprite": 21
     },
     {
         "Nome completo": "Modena FC",
@@ -294,7 +305,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/logo_modena.png",
-        "Colore": ""
+        "Colore": "#d3b200",
+        "Sprite": 12
     },
     {
         "Nome completo": "Novara Calcio",
@@ -302,7 +314,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/logo_novara.png",
-        "Colore": ""
+        "Colore": "#1f86c1",
+        "Sprite": 13
     },
     {
         "Nome completo": "Calcio Padova",
@@ -310,7 +323,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/logo_padova.png",
-        "Colore": ""
+        "Colore": "#e30f1d",
+        "Sprite": 7
     },
     {
         "Nome completo": "US Città di Palermo",
@@ -318,7 +332,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/palermo.png",
-        "Colore": ""
+        "Colore": "#f7b7d2",
+        "Sprite": 20
     },
     {
         "Nome completo": "Delfino Pescara 1936",
@@ -326,7 +341,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/pescara.png",
-        "Colore": ""
+        "Colore": "#00b3f0",
+        "Sprite": 10
     },
     {
         "Nome completo": "Reggina Calcio",
@@ -334,7 +350,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/logo_reggina.png",
-        "Colore": ""
+        "Colore": "#841230",
+        "Sprite": 14
     },
     {
         "Nome completo": "AC Siena",
@@ -342,7 +359,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/siena.png",
-        "Colore": ""
+        "Colore": "#9c9d9f",
+        "Sprite": 1
     },
     {
         "Nome completo": "Spezia Calcio",
@@ -350,7 +368,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/logo_spezia.png",
-        "Colore": ""
+        "Colore": "#ac9861",
+        "Sprite": 15
     },
     {
         "Nome completo": "Ternana Calcio",
@@ -358,7 +377,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/logo_ternana.png",
-        "Colore": ""
+        "Colore": "#068945",
+        "Sprite": 18
     },
     {
         "Nome completo": "Trapani Calcio",
@@ -366,7 +386,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/trapani.png",
-        "Colore": ""
+        "Colore": "#7e222b",
+        "Sprite": 19
     },
     {
         "Nome completo": "AS Varese 1910",
@@ -374,7 +395,8 @@ var squadreB = [
         "Serie": "B",
         "Nazione": "Italia",
         "Simbolo": "http://151.1.176.51/wp-content/uploads/2013/08/logo_varese.png",
-        "Colore": ""
+        "Colore": "#be0028",
+        "Sprite": 5
     },
     {
         "Nome completo": "Serie A",
@@ -382,7 +404,8 @@ var squadreB = [
         "Serie": "A",
         "Nazione": "Italia",
         "Simbolo": "",
-        "Colore": ""
+        "Colore": "#e5e5e5",
+        "Sprite": 9999
     },
     {
         "Nome completo": "Altro",
@@ -390,6 +413,7 @@ var squadreB = [
         "Serie": "",
         "Nazione": "",
         "Simbolo": "",
-        "Colore": ""
+        "Colore": "#e5e5e5",
+        "Sprite": 9999
     }
 ];
